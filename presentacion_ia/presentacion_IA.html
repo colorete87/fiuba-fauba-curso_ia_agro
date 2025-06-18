@@ -1,0 +1,1181 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/black.css">
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css">
+  </head>
+
+  <body>
+    <div class="reveal">
+      <div class="slides" style="font-size: 0.7em;">
+
+
+        <!--
+          #########################################
+          ################ PARTE 0 ################
+          #########################################
+        -->
+        <!-- <section data-background-color="#888888" data-background-transition="zoom"> -->
+        <!-- <section data-background-image="https://www.shutterstock.com/image-illustration/abstract-3d-background-wave-curve-600nw-2293151559.jpg"> -->
+        <section data-background-image="https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid&w=740">
+          <!--
+            <a href="https://revealjs.com">
+            <img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+            </a>
+          -->
+          <h3>Inteligencia Artificial aplicada al sector agropecuario</h3>
+          <p><small>
+            Presentador: Federico Zacchigna (<a href="mailto:fzacchigna@fi.uba.ar">fzacchigna@fi.uba.ar</a>)<br>
+            Ariel Lutenberg, Pablo Gomez, Celeste Corominas y Christian Yanez Flores
+          </small></p>
+          <p><small>
+            @lse.posgrados:<br>
+            <a href="https://lse-posgrados.fi.uba.ar/">https://lse-posgrados.fi.uba.ar/</a><br>
+            <a href="https://www.instagram.com/lse.posgrados/">https://www.instagram.com/lse.posgrados/</a>
+          </small></p>
+          <p><small>
+            Facultad de Ingeniería, Universidad de Buenos Aires
+          </small></p>
+        </section>
+
+
+
+        <!--
+          #########################################
+          ################ PARTE 1 ################
+          #########################################
+        -->
+        <section data-background-color="#FFF8DC" data-background-transition="zoom">
+          <section data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h2>🧠 Parte 1: ¿Qué es la Inteligencia Artificial?</h2>
+          </section>
+
+          <section data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🎯 Objetivo</h3>
+            <ul>
+              <!-- <li><p>🧩 Sepan diferenciar entre IA, Machine Learning, Redes Neuronales y Deep Learning</p></li> -->
+              <li><p>✅ Que los participantes comprendan qué es (y qué no es) la IA</p></li>
+              <li><p>🔍 Conozcan los distintos tipos de IA</p></li>
+            </ul>
+          </section>
+
+          <section data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🧠 Algunos nombres populares</h3>
+            <div style="display: flex; align-items: center; gap: 2rem;">
+              <div style="flex: 1;">
+                <img src="./images/ia_ml_ann_dl.png" style="max-width: 100%; border-radius: 1rem;">
+              </div>
+              <div style="flex: 1;">
+                <table style="font-size: 0.7em;">
+                  <tbody>
+                    <tr>
+                      <td>🤖 Inteligencia Artificial (IA)</td>
+                      <td>Término general</td>
+                    </tr>
+                    <tr>
+                      <td>📈 Machine Learning (ML) o Aprendizaje Automático</td>
+                      <td>Subconjunto de IA que aprende de datos</td>
+                    </tr>
+                    <tr>
+                      <td>🧠 Red Neuronal Artificial (ANN)</td>
+                      <td>Subconjunto de ML basado en redes neuronales</td>
+                    </tr>
+                    <tr>
+                      <td>🌊 Deep Learning (DL) o Aprendizaje Profundo</td>
+                      <td>Subconjunto de ANN basado en redes neuronales profundas</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </section>
+
+          <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🤖 ¿Qué es la Inteligencia Artificial?</h3>
+            <h4>Definición de acuerdo al test de Turing</h4>
+            <div style="display: flex; align-items: center; gap: 2rem;">
+              <!-- Text content -->
+              <div style="flex: 1;">
+                <p>
+                Propuesto por Alan Turing en 1950, es una prueba para
+                determinar si una máquina puede mostrar un comportamiento
+                inteligente indistinguible del de un humano.
+                </p>
+              </div>
+            </div>
+          </section>
+          <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🤖 ¿Qué es la Inteligencia Artificial?</h3>
+            <h4>Definición de acuerdo al test de Turing</h4>
+            <div style="display: flex; align-items: center; gap: 2rem;">
+              <!-- Text content -->
+              <div style="flex: 1;">
+                <p>
+                Una persona (el evaluador) chatea con dos entidades: una es humana y la otra es una máquina.
+                Si el evaluador no puede distinguir cuál es la máquina, se dice que la IA pasó el test.
+                </p>
+              </div>
+              <!-- Image -->
+              <div style="flex: 1;">
+                <img src="./images/Turing_Test_version_3.png" alt="IA en agro" style="max-width: 100%; border-radius: 1rem;">
+              </div>
+            </div>
+          </section>
+          <!-- <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom"> -->
+          <!--   <h3>🤖 ¿Qué es la Inteligencia Artificial?</h3> -->
+          <!--   <h4>Definición de acuerdo al test de Turing</h4> -->
+          <!--   <div style="display: flex; align-items: center; gap: 2rem;"> -->
+          <!--     [> Image <] -->
+          <!--     <div style="flex: 1;"> -->
+          <!--       <img src="./images/Turing_Test_version_3.png" alt="IA en agro" style="max-width: 100%; border-radius: 1rem;"> -->
+          <!--     </div> -->
+          <!--     [> Text content <] -->
+          <!--     <div style="flex: 1;"> -->
+          <!--       <p> -->
+          <!--       No se trata de que la máquina sea inteligente “de verdad”, sino de que pueda simular conversación humana de manera convincente. -->
+          <!--       </p> -->
+          <!--     </div> -->
+          <!--   </div> -->
+          <!-- </section> -->
+
+          <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🤖 ¿Qué es la Inteligencia Artificial?</h3>
+            <h4>Una definición más simple</h4>
+            <blockquote>
+              La IA es la capacidad de una máquina para realizar tareas que normalmente requieren inteligencia humana.
+            </blockquote>
+            <p>⚠️ No se trata de una máquina que “piensa como un humano”, sino que imita comportamientos inteligentes.</p>
+          </section>
+          <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🤖 ¿Qué es la Inteligencia Artificial?</h3>
+            <h4>📌 Algunos ejemplos simples</h4>
+            <ul>
+              <li>🧑 Reconocer el tipo de plantación en base a imágenes satelitales como las de Google Maps</li>
+              <li>🌧️ Pronosticar lluvias </li>
+              <li>🌐 Traducir idiomas en tiempo real</li>
+              <li>🌿 Recomendar tratamiento para una planta enferma</li>
+              <li>🍎 Estimar grado de maduración</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🤖 ¿Qué es la Inteligencia Artificial?</h3>
+            <h4>🧪 Los dos problemas principales a resolver</h4>
+            <ul>
+              <li>🏷️ Clasificación</li>
+              <li>📈 Estimación (regresión)</li>
+            </ul>
+          </section>
+
+          <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🧠 Tipos de IA</h3>
+            <h4>⚙️  Por su función</h4>
+            <ul>
+              <li><strong>📊 Análisis o predicción de datos:</strong> detecta patrones, predice resultados</li>
+              <li><strong>🎨 Generación de datos:</strong> crea contenido nuevo (texto, imágenes, audio)</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>🧠 Tipos de IA</h3>
+            <h4>📚 Por el tipo de aprendizaje</h4>
+            <ul>
+              <li><strong>✅ Supervisado:</strong> aprende de ejemplos etiquetados</li>
+              <li><strong>🔍 No supervisado:</strong> detecta patrones sin saber qué es cada cosa</li>
+              <li><strong>🎮 Reforzado:</strong> aprende por ensayo y error</li>
+            </ul>
+          </section>
+
+          <section data-background-color="#FFF8DC" data-background-transition="zoom">
+            <h3>📚 Breve historia de la IA</h3>
+            <!--
+              <ul>
+              <li>📅 1956: Nace el término “Inteligencia Artificial”</li>
+              <li>🔬 Décadas de exploración: poca potencia de cómputo, sistemas expertos y IA simbólica</li>
+              <li>🚀 2010 en adelante: boom del “aprendizaje profundo” gracias a Big Data + GPUs</li>
+              <li>💥 2022-2023: explosión de la IA generativa (ChatGPT, Midjourney, etc.)</li>
+              </ul>
+            -->
+            <a href="https://connectjaya.com/ai-timeline/">
+              <img src="./images/./timeline.png" alt="Línea de tiempo" style="height: 400px; margin: 0 auto 4rem auto; background: transparent;">
+            </a>
+            <!-- <p>Línea de tiempo resumida de la AI.</p> -->
+            <p class="citation"><a href="https://connectjaya.com/ai-timeline/">https://connectjaya.com/ai-timeline/</a></p>
+          </section>
+        </section>
+
+
+
+
+        <!--
+          #########################################
+          ################ PARTE 2 ################
+          #########################################
+        -->
+        <section data-background-color="#F7D9C4" data-background-transition="zoom">
+          <section data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h2>🧭 Parte 2: ¿Cómo funciona un proyecto de IA?</h2>
+            <p>Un recorrido de punta a punta por las etapas fundamentales.</p>
+          </section>
+
+          <!-- 1. Adquisición de datos -->
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🔢 1. Adquisición de datos</h3>
+            <h4>🧠 ¿Qué son los datos?</h4>
+            <blockquote>“Los datos son la materia prima de la inteligencia artificial.”</blockquote>
+            <ul>
+              <li>Fotos, texto, números, sensores, audio, videos</li>
+              <li>Todo lo que usamos para “enseñar” a la IA</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🔢 1. Adquisición de datos</h3>
+            <h4>📥 Fuentes comunes</h4>
+            <ul>
+              <li>Formularios de clientes</li>
+              <li>Historial de ventas</li>
+              <li>Sensores (IoT)</li>
+              <li>Redes sociales</li>
+              <li>Bases de datos abiertas</li>
+              <li>Web scraping</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🔢 1. Adquisición de datos</h3>
+            <h4>📊 Datos estructurados vs no estructurados</h4>
+            <ul>
+              <li><strong>Datos estructurados:</strong> organizados en tablas, con filas y columnas. <br><em>Ejemplo:</em> Excel, bases de datos SQL</li>
+              <li><strong>Datos no estructurados:</strong> no siguen un formato fijo.<br><em>Ejemplo:</em> imágenes, audio, videos, texto libre</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🔢 1. Adquisición de datos</h3>
+            <h4>📊 Datos estructurados vs no estructurados</h4>
+            <h5>🎯 ¿Por qué importa esta distinción?</h5>
+            <ul>
+              <li>Los datos estructurados son más fáciles de analizar automáticamente</li>
+              <li>Los no estructurados requieren técnicas más complejas</li>
+              <li>La mayoría de los datos del mundo son <strong>no estructurados</strong> ...</li>
+              <li>... y además están <strong>desordenados, desprolijos, incompletos, etc.</strong></li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🔢 1. Adquisición de datos</h3>
+            <h4>🚨 Importancia de la calidad</h4>
+            <blockquote>“Basura entra, basura sale” (garbage in, garbage out)</blockquote>
+            <p>Un modelo solo puede aprender de lo que ve.</p>
+          </section>
+
+          <!-- 2. Preparación de datos -->
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧹 2. Preparación de datos</h3>
+            <p>Antes de entrenar, hay que "ordenar la casa".</p>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧹 2. Preparación de datos</h3>
+            <h4>🔧 Tareas clave</h4>
+            <ul>
+              <li><strong>Limpieza:</strong> errores, valores faltantes o inconsistencias</li>
+              <li><strong>Etiquetado:</strong> indicar qué es cada cosa</li>
+              <li><strong>Balanceo:</strong> evitar que ignore lo poco común</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧹 2. Preparación de datos</h3>
+            <h4>⚠️ Problemas comunes</h4>
+            <ul>
+              <li>📉 Datos incompletos o desactualizados</li>
+              <li>🎯 Sesgos en los datos</li>
+              <li>⚖️  Desbalance en los datos</li>
+              <li>🔐 Información sensible</li>
+              <li>📦 Formato inconsistente</li>
+              <li>🧩 Datos duplicados o ruidosos</li>
+              <li>🌐 Datos no estructurados sin etiquetar</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧹 2. Preparación de datos</h3>
+            <p>🚨 <em>Esta etapa puede tomar el <strong>80% del tiempo</strong> del proyecto</em> 🚨</p>
+          </section>
+
+          <!-- 3. Diseño de algoritmos -->
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧠 3. Diseño de algoritmos / modelos</h3>
+            <h4>¿Qué es un modelo?</h4>
+            <blockquote>“Un modelo es una representación matemática de la realidad que intenta aprender patrones.”</blockquote>
+            <p>No “piensa”: detecta correlaciones y repite comportamientos.</p>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧠 3. Diseño de algoritmos / modelos</h3>
+            <h4>¿Cómo aprende?</h4>
+            <p>Como un niño: ve ejemplos y generaliza.</p>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧠 3. Diseño de algoritmos / modelos</h3>
+            <h4>🔍 Ejemplo</h4>
+            <ul>
+              <li>Le muestro 1000 imágenes de frutas etiquetadas</li>
+              <li>Aprende los patrones de cada una</li>
+              <li>Luego, si le muestro una nueva imagen, indica si es o no una fruta</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🧠 3. Diseño de algoritmos / modelos</h3>
+            <p>📌 No hay una única IA. Existen <strong>muchos modelos</strong> para tareas distintas: clasificar, predecir, generar...</p>
+          </section>
+
+          <!-- 4. Entrenamiento e inferencia -->
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>⚙️  4. Entrenamiento e inferencia</h3>
+            <h4>📚 Entrenamiento</h4>
+            <p>(Cuando se utilizan los datos)</p>
+            <ul>
+              <li>🧠 Proceso donde el modelo “aprende” de los datos</li>
+              <li>⏱ Puede tomar minutos o semanas</li>
+              <li>💻 Son necesarias computadoras potentes (GPUs)</li>
+              <li>⚡ Se utiliza mucha energía</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>⚙️  4. Entrenamiento e inferencia</h3>
+            <h4>🔮 Inferencia</h4>
+            <p>(Cuando el modelo usa lo aprendido)</p>
+            <ul>
+              <li>Detectar una cara</li>
+              <li>Predecir el precio de una casa</li>
+              <li>Generar un texto</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>⚙️  4. Entrenamiento e inferencia</h3>
+            <blockquote><strong>Analogía:</strong>
+              Entrenar es como estudiar para un examen. Inferir es como dar el examen.</blockquote>
+          </section>
+
+          <!-- 5. Evaluación del modelo -->
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>📏 5. Evaluación del modelo</h3>
+            <h4>¿Cómo sabemos si funciona?</h4>
+            <p>Probamos con datos <strong>nuevos</strong> que nunca vio.</p>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>📏 5. Evaluación del modelo</h3>
+            <h4>Métricas clave (clasificación)</h4>
+            <ul>
+              <li><strong>Precisión:</strong> ¿cuántas veces acierta?</li>
+              <li><strong>Recall:</strong> ¿detecta lo importante?</li>
+              <li><strong>F1 Score:</strong> balance entre ambas</li>
+              <li>Curvas de error o aciertos (para visualizar)</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>📏 5. Evaluación del modelo</h3>
+            <h4>Métricas clave (clasificación)</h4>
+            <h5>📌 Ejemplo</h5>
+            <p>¿Qué es peor?</p>
+            <ul>
+              <li>Decir que estás sano cuando estás enfermo</li>
+              <li>O decir que estás enfermo cuando estás sano</li>
+            </ul>
+            <p>💡 Depende del contexto. Por eso se elige la métrica según el caso.</p>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>📏 5. Evaluación del modelo</h3>
+            <h4>Métricas clave (clasificación)</h4>
+            <p>Una idea nomas de la complejidad que tiene esto</p>
+            <img src="./images/./metrics1.png" style="height: 500px; border-radius: 1rem; margin: 0 auto 4rem auto; background: transparent;">
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>📏 5. Evaluación del modelo</h3>
+            <h4>Métricas clave (regresión)</h4>
+            <ul style="font-size: 0.8em;">
+              <li><strong>Error cuadrático medio (MSE):</strong> Penaliza más los errores grandes. Muy usado en regresión.</li>
+              <li><strong>Error absoluto medio (MAE):</strong> Más fácil de interpretar. Menos sensible a valores extremos.</li>
+              <li><strong>R-squared (R²):</strong> Brinda información sobre la bondad del ajuste del modelo a los datos.</li>
+            </ul>
+          </section>
+          <!-- <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom"> -->
+          <!--   <h3>📏 5. Evaluación del modelo</h3> -->
+          <!--   <h4>Métricas clave (regresión)</h4> -->
+          <!--   <h5>📌 Ejemplo: Desvío estándar</h5> -->
+          <!--   <img src="./images/./metrics2.svg" style="height: 350px; border-radius: 1rem; margin: 0 auto 4rem auto; background: transparent;"> -->
+          <!--   <p class="citation"> -->
+          <!--     <a href="https://en.wikipedia.org/wiki/Standard_error#/media/File:Standard_deviation_diagram.svg"> -->
+          <!--     https://en.wikipedia.org/wiki/Standard_error#/media/File:Standard_deviation_diagram.svg -->
+          <!--     </a> -->
+          <!--   <p> -->
+          <!-- </section> -->
+
+          <!-- 6. Despliegue -->
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌍 6. Despliegue</h3>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌍 6. Despliegue</h3>
+            <h4>¿Qué significa desplegar?</h4>
+            <blockquote>“Poner la IA a funcionar en el mundo real.”</blockquote>
+            <p>Puede ser una app, un sitio web, un robot, etc.</p>
+          </section>
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌍 6. Despliegue</h3>
+            <h4>Desafíos reales</h4>
+            <ul>
+              <li><strong>Rendimiento:</strong> ¿procesa muchos datos?</li>
+              <li><strong>Retardo:</strong> ¿responde rápido?</li>
+              <li><strong>Escalabilidad:</strong> ¿soporta muchos usuarios?</li>
+              <li><strong>Mantenimiento:</strong> ¿sigue funcionando bien?</li>
+              <li><strong>Drift de datos:</strong> ¿cambian los datos con el tiempo?</li>
+            </ul>
+            <p>🔁 Muchos modelos necesitan <strong>reentrenarse periódicamente</strong>.</p>
+          </section>
+
+          <section data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🔁 RESUMEN</h3>
+            <p>Un resumen visual de todo el proceso:</p>
+            <img src="./images/./proyecto_ia.drawio.png" style="height: 350px border-radius: 1rem; margin: 0 auto 4rem auto; background: transparent;">
+          </section>
+
+          <section data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>✅ Ideas clave</h3>
+            <ul>
+              <li>Un proyecto de IA es mucho más que “crear un modelo”.</li>
+              <li>El 80% del trabajo está en los datos y su evaluación.</li>
+              <li>Desplegar la IA con éxito requiere pensar en los requerimientos de la solución y las limitaciones del mundo real.</li>
+            </ul>
+          </section>
+        </section>
+
+
+
+
+
+
+        <!--
+          #########################################
+          ################ PARTE 3 ################
+          #########################################
+        -->
+        <section data-background-color="#A0C4FF" data-background-transition="zoom">
+          <section data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h2>🚜 Parte 3: Aplicaciones reales de la IA</h2>
+          </section>
+
+          <section data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🎯 Objetivo</h3>
+            <p>Que los participantes se vayan con una idea clara de <strong>para qué sirve la IA hoy</strong>, cómo se aplica en distintas industrias y casos reales que ya están impactando la vida y el trabajo, incluyendo <strong>el sector agropecuario</strong>.</p>
+          </section>
+
+          <section data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🔎 IA por industria</h3>
+            <ul>
+              <li class="fragment"><strong>Salud:</strong> Diagnóstico por imágenes, análisis de radiografías, detección temprana de enfermedades, asistencia virtual médica</li>
+              <li class="fragment"><strong>Finanzas:</strong> Detección de fraudes, scoring crediticio, trading algorítmico, atención automatizada</li>
+              <li class="fragment"><strong>Retail:</strong> Recomendaciones personalizadas, predicción de demanda, gestión de inventarios</li>
+              <li class="fragment"><strong>Manufactura:</strong> Mantenimiento predictivo, control de calidad con visión artificial, automatización</li>
+              <li class="fragment"><strong>Educación:</strong> Plataformas adaptativas, evaluación automática, asistentes virtuales</li>
+              <li class="fragment"><strong>Agricultura:</strong> Visión para monitoreo de cultivos, predicción de clima/rendimiento, detección de plagas, robots agrícolas, drones, análisis de suelo</li>
+            </ul>
+          </section>
+
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🧠 Casos de uso por tipo de IA</h3>
+            <h4>Ejemplos de aplicación práctica en distintos contextos.</h4>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🧠 Casos de uso por tipo de IA</h3>
+            <h4>Ejemplos de aplicación práctica en distintos contextos.</h4>
+            <h5>1. Recomendación</h5>
+            <ul>
+              <li>Netflix, Spotify, Amazon: predicen lo que te puede interesar</li>
+              <li>E-commerce agro: sugerencias según campañas anteriores o clima</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🧠 Casos de uso por tipo de IA</h3>
+            <h4>Ejemplos de aplicación práctica en distintos contextos.</h4>
+            <h5>2. Visión por computadora</h5>
+            <ul>
+              <li>Detectar enfermedades en cultivos</li>
+              <li>Clasificación de frutas o granos por calidad</li>
+              <li>Control de defectos en productos industriales</li>
+              <li>Análisis de imágenes satelitales</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🧠 Casos de uso por tipo de IA</h3>
+            <h4>Ejemplos de aplicación práctica en distintos contextos.</h4>
+            <h5>3. Procesamiento de lenguaje natural (PLN)</h5>
+            <ul>
+              <li>Análisis de sentimientos en textos, audios o videos</li>
+              <li>Clasificación de texto</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🧠 Casos de uso por tipo de IA</h3>
+            <h4>Ejemplos de aplicación práctica en distintos contextos.</h4>
+            <h5>4. IA generativa</h5>
+            <ul>
+              <li>Generación de texto, imágenes, código</li>
+              <li>Reportes automáticos</li>
+              <li>Planes de siembra o resúmenes técnicos</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🧠 Casos de uso por tipo de IA</h3>
+            <h4>Ejemplos de aplicación práctica en distintos contextos.</h4>
+            <h5>5. Predicción / modelado</h5>
+            <ul>
+              <li>Predicción de ventas, precios, demanda, cosecha</li>
+              <li>Modelos de clima, humedad, plagas</li>
+              <li>Detección de enfermedades en ganado</li>
+            </ul>
+          </section>
+
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🌾 Aplicaciones específicas en AGRO</h3>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🌾 Aplicaciones específicas en AGRO</h3>
+            <h4>🔍 Monitoreo inteligente de cultivos</h4>
+            <ul>
+              <li>Detectar estrés hídrico</li>
+              <li>Monitorear enfermedades</li>
+              <li>Calcular rendimiento esperado</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🌾 Aplicaciones específicas en AGRO</h3>
+            <h4>🤖 Maquinaria inteligente</h4>
+            <ul>
+              <li>Tractores autónomos</li>
+              <li>Pulverizadoras con ajuste automático</li>
+              <li>Robots para cosecha en invernaderos</li>
+              <li>Mantenimiento predictivo</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🌾 Aplicaciones específicas en AGRO</h3>
+            <h4>📈 Predicción de rendimientos</h4>
+            <ul>
+              <li>Modelos con clima, suelo, genética, historial</li>
+              <li>Predicciones precisas y anticipadas</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🌾 Aplicaciones específicas en AGRO</h3>
+            <h4>🐄 Ganadería de precisión</h4>
+            <ul>
+              <li>Sensores para comportamiento animal</li>
+              <li>Predicción de celo o enfermedades</li>
+              <li>Granjas conectadas con IoT + IA</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🌾 Aplicaciones específicas en AGRO</h3>
+            <h4>🌦️ Clima y decisiones agronómicas</h4>
+            <ul>
+              <li>Modelos para lluvias, heladas, etc.</li>
+              <li>IA que sugiere si sembrar, regar o aplicar insumos.</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>🌾 Aplicaciones específicas en AGRO</h3>
+            <h4>📊 Aplicaciones comerciales</h4>
+            <ul>
+              <li>Oportunidades de mercado</li>
+              <li>Segmentación de productores</li>
+              <li>Reportes automáticos para técnicos</li>
+            </ul>
+          </section>
+
+          <section data-background-color="#A0C4FF" data-background-transition="zoom">
+            <h3>✅ Ideas clave</h3>
+            <ul>
+              <li>La IA ya se usa en muchas industrias, incluyendo el agro</li>
+              <li>El objetivo no es reemplazar al humano, sino potenciar sus capacidades</li>
+              <li>Con datos, creatividad y buenas preguntas, las oportunidades son enormes</li>
+            </ul>
+          </section>
+        </section>
+
+
+
+
+        <!--
+          #########################################
+          ################ PARTE 4 ################
+          #########################################
+        -->
+        <section data-background-color="#DFFFE0" data-background-transition="zoom">
+          <section data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h2>⚖️ Parte 4: Desafíos éticos, técnicos y sociales</h2>
+            <p>Invitación a la reflexión, el debate y la conciencia crítica sobre los riesgos y responsabilidades de la IA.</p>
+          </section>
+
+          <section data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🎯 Objetivo</h3>
+            <ul>
+              <li>🤖 La IA no es neutra ni perfecta</li>
+              <li>👥 Requiere decisiones humanas en cada etapa</li>
+              <li>🌎 Tiene impactos en sociedad, ambiente y economía</li>
+            </ul>
+          </section>
+
+          <!-- 1. Sesgos en la IA -->
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🧠 1. Sesgos en la IA</h3>
+            <blockquote>“Los modelos aprenden de datos. Si los datos están sesgados, los modelos también.”</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🧠 1. Sesgos en la IA</h3>
+            <h4>📌 ¿Qué tipos de sesgos existen?</h4>
+            <ul>
+              <li><strong>Sesgo de datos:</strong> Ej: currículums solo de hombres</li>
+              <li><strong>Sesgo algorítmico:</strong> Técnicas que favorecen ciertos resultados</li>
+              <li><strong>Sesgo de interpretación:</strong> Cómo usamos o leemos los resultados</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🧠 1. Sesgos en la IA</h3>
+            <h4>🎯 Ejemplos reales</h4>
+            <ul>
+              <li>Reconocimiento facial con errores en personas racializadas</li>
+              <li>Modelos de crédito que discriminan por grupo social</li>
+            </ul>
+
+            <p>🔔 <strong>Conclusión:</strong> la IA puede perpetuar desigualdades si no se diseña con cuidado.</p>
+          </section>
+
+          <!-- 2. Explicabilidad -->
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🔍 2. Explicabilidad</h3>
+            <blockquote>“¿Podemos entender por qué la IA toma una decisión?”</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🔍 2. Explicabilidad</h3>
+            <h4>❓ ¿Qué es?</h4>
+            <p>La capacidad de una IA para <strong>explicar</strong> sus decisiones.</p>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🔍 2. Explicabilidad</h3>
+            <h4>⚠️ Problemas</h4>
+            <ul>
+              <li>Modelos complejos (deep learning) = cajas negras</li>
+              <li>Difícil justificar recomendaciones o clasificaciones</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🔍 2. Explicabilidad</h3>
+            <h4>💡 ¿Por qué importa?</h4>
+            <p>En salud, justicia o finanzas, no basta con que funcione: <strong>hay que justificar</strong>.</p>
+          </section>
+
+          <!-- 3. Privacidad y protección de datos -->
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🔐 3. Privacidad y protección de datos</h3>
+            <blockquote>“La IA necesita datos, pero los datos pueden ser sensibles.”</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🔐 3. Privacidad y protección de datos</h3>
+            <h4>🔒 Riesgos</h4>
+            <ul>
+              <li>Filtraciones de información personal</li>
+              <li>Vigilancia o uso sin consentimiento</li>
+              <li>Entrenamiento con texto, imágenes, voz sin permiso</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🔐 3. Privacidad y protección de datos</h3>
+            <h4>⚖️ Marco legal</h4>
+            <ul>
+              <li>GDPR (Europa)</li>
+              <li>Leyes locales de protección de datos</li>
+              <li>¿Quién responde ante errores de IA?</li>
+            </ul>
+            <p>❗ <strong>Importante:</strong> IA y privacidad deben ir de la mano.</p>
+          </section>
+
+          <!-- 4. Sustentabilidad -->
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🌱 4. Sustentabilidad y consumo energético</h3>
+            <blockquote>“Entrenar grandes modelos requiere energía... mucha energía.”</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🌱 4. Sustentabilidad y consumo energético</h3>
+            <h4>⚡ Impacto ambiental</h4>
+            <ul>
+              <li>Modelos como GPT consumen energía equivalente a una ciudad</li>
+              <li>Uso intensivo de GPUs y centros de datos</li>
+            </ul>
+            <p>🔔 <strong>Preguntas clave:</strong><br>
+            ¿Vale la pena el consumo? ¿Quién lo regula?</p>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🌱 4. Sustentabilidad y consumo energético</h3>
+            <h4>🌍 Alternativas</h4>
+            <ul>
+              <li>Modelos más pequeños</li>
+              <li>Entrenamiento distribuido</li>
+              <li>Uso de energía renovable</li>
+            </ul>
+          </section>
+
+          <!-- 5. Impacto laboral y social -->
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>👥 5. Impacto en el trabajo y la sociedad</h3>
+            <blockquote>“La IA no solo mejora tareas, también transforma roles laborales.”</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>👥 5. Impacto en el trabajo y la sociedad</h3>
+            <h4>🧑 Cambios en el empleo</h4>
+            <ul>
+              <li>Automatización de tareas repetitivas</li>
+              <li>Nuevos roles: curadores, auditores éticos</li>
+              <li>Redefinición de profesiones tradicionales</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>👥 5. Impacto en el trabajo y la sociedad</h3>
+            <h4>🤖 Desigualdades</h4>
+            <ul>
+              <li>Acceso desigual a tecnología</li>
+              <li>Brechas entre países o regiones</li>
+            </ul>
+            <p>🧭 Se debe buscar una transición justa con capacitación, regulación y enfoque humano.</p>
+          </section>
+
+          <section data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>🧩 6. ¿Cómo prepararnos?</h3>
+            <blockquote>“El futuro no se predice, se diseña.”</blockquote>
+            <ul>
+              <li>📚 Educación continua</li>
+              <li>🗣 Participar en debates éticos y normativos</li>
+              <li>🌱 Promover IA responsable, inclusiva, sostenible</li>
+              <li>🚀 Usar la IA como herramienta de transformación positiva</li>
+            </ul>
+          </section>
+
+          <!-- Cierre -->
+          <section data-background-color="#DFFFE0" data-background-transition="zoom">
+            <h3>✅ Reflexiones clave</h3>
+            <ul>
+              <li>La IA no es buena ni mala: depende de cómo se use</li>
+              <li>Diseñar con ética, justicia y sostenibilidad</li>
+              <li>Puede ser una herramienta de equidad o exclusión</li>
+            </ul>
+          </section>
+        </section>
+
+
+
+
+
+        <!--
+          #########################################
+          ################ PARTE 5 ################
+          #########################################
+        -->
+        <section data-background-color="#C3B1E1" data-background-transition="zoom">
+          <section data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h2>⚙️ Parte 5: Nos ponemos más técnicos</h2>
+          </section>
+
+          <section data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🎯 Objetivo</h3>
+            <ul>
+              <li>Introducir los <strong>fundamentos matemáticos básicos</strong> detrás de la IA</li>
+              <li>Entender el proceso de <strong>entrenamiento de un modelo</strong></li>
+              <li>Explicar cómo funciona el <strong>gradiente descendente</strong> y el <strong>backpropagation</strong></li>
+              <li>Desmitificar lo complejo, sin fórmulas pesadas</li>
+            </ul>
+          </section>
+
+          <!-- 1. ¿Qué es un modelo matemático? -->
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🧮 1. ¿Qué es un modelo matemático?</h3>
+            <blockquote>Un modelo de IA es básicamente una <strong>función matemática</strong> que intenta encontrar la mejor relación entre <strong>entradas</strong> y <strong>salidas</strong>.</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🧮 1. ¿Qué es un modelo matemático?</h3>
+            <h4>Ejemplo sencillo:</h4>
+            <ul>
+              <li>Entradas: altura, peso, edad</li>
+              <li>Salida: probabilidad de tener diabetes</li>
+            </ul>
+            <p class="fragment">📌 El modelo busca una función que diga: <br><code>f(altura, peso, edad) → probabilidad</code></p>
+            <p>
+              <span class="fragment">🔍 Esa función puede ser muy simple, como una <strong>función lineal</strong> </span>
+              <span class="fragment">o tan compleja como se quiera, como una <strong>red neuronal</strong>.</span>
+            </p>
+            <p class="fragment">El modelo tiene parámetros.</p>
+          </section>
+
+          <!-- 2. ¿Cómo aprende un modelo? -->
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🧠 2. ¿Cómo aprende un modelo?</h3>
+            <blockquote>“Aprender” significa <strong>ajustar los parámetros</strong> de esa función matemática hasta que acierte lo más posible.</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🧠 2. ¿Cómo aprende un modelo?</h3>
+            <h4>Proceso general:</h4>
+            <ol>
+              <li>Inicio aleatorio de los valores</li>
+              <li>Comparación entre predicción y resultado real</li>
+              <li>Cálculo del error</li>
+              <li>Ajuste de los parámetros</li>
+            </ol>
+            <p>📌 Todo este proceso es parte de la <strong>optimización</strong>.</p>
+          </section>
+
+          <!-- 3. Gradiente descendente -->
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🔻 3. Gradiente descendente</h3>
+            <blockquote>Es el algoritmo más común para <strong>minimizar el error</strong> en un modelo de IA.</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🔻 3. Gradiente descendente</h3>
+            <h4> Ejmplo de función de error a optimizar</h3>
+            <img src="./images/./costo.png" style="height: 350px border-radius: 1rem; margin: 0 auto 4rem auto; background: transparent;">
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🔻 3. Gradiente descendente</h3>
+            <h4>Analogía simple:</h4>
+            <ul>
+              <li>Estás en la cima de una montaña con los ojos vendados</li>
+              <li>Querés bajar al valle: el punto con menor error</li>
+              <li>Das pasos en la dirección de la mayor pendiente</li>
+            </ul>
+            <p>📉 El modelo calcula la <strong>pendiente</strong> (derivada) y ajusta los parámetros en dirección contraria al gradiente.</p>
+            <p>🔁 Este proceso se repite <strong>miles o millones de veces</strong>.</p>
+          </section>
+
+          <!-- 4. Backpropagation -->
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🔄 4. ¿Qué es el backpropagation?</h3>
+            <blockquote>Es el algoritmo que permite <strong>entrenar redes neuronales</strong> eficientemente.</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🔄 4. ¿Qué es el backpropagation?</h3>
+            <h4>¿Qué hace?</h4>
+            <ul>
+              <li>Calcula la influencia de cada parámetro sobre el error final</li>
+              <li>Propaga ese error hacia atrás</li>
+              <li>Ajusta cada conexión según su contribución</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🔄 4. ¿Qué es el backpropagation?</h3>
+            <h4>Analogía simple: Desastre de Chernóbil: Secuencia de Eventos</h4>
+              <ul style="font-size: 0.85em;">
+                <li><strong>25 de abril – Día:</strong> Preparativos para una prueba de seguridad que simula un corte de energía.</li>
+                <li><strong>Tarde-noche:</strong> La prueba se retrasa por la alta demanda eléctrica.</li>
+                <li><strong>~11:00 PM:</strong> Se reanuda la prueba; el reactor baja demasiado de potencia.</li>
+                <li><strong>Intervención manual:</strong> Se retiran demasiadas barras de control, rompiendo protocolos de seguridad.</li>
+                <li><strong>26 de abril – ~1:23 AM:</strong> Inicia la prueba con sistemas de seguridad desactivados.</li>
+                <li><strong>Subida de potencia:</strong> Ocurre un aumento brusco por fallos de diseño y condiciones inestables.</li>
+                <li><strong>Explosiones:</strong> Dos explosiones destruyen el reactor y exponen el núcleo.</li>
+                <li><strong>Incendios y radiación:</strong> Se liberan grandes cantidades de material radiactivo.</li>
+              </ul>
+            <p>🧠 Así, cada parte del modelo se corrige según su responsabilidad.</p>
+          </section>
+
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>📉 5. Bonus: Sobreajuste vs Subajuste</h3>
+            <blockquote>Dos problemas comunes durante el entrenamiento de modelos.</blockquote>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>📉 5. Bonus: Sobreajuste vs Subajuste</h3>
+            <h4>🔴 ¿Qué es el <strong>sobreajuste</strong>?</h4>
+            <ul>
+              <li>El modelo aprende <strong>demasiado bien</strong> los datos de entrenamiento</li>
+              <li>Incluso memoriza el ruido o los errores</li>
+              <li>Funciona excelente con los datos que ya vio, pero falla con nuevos datos</li>
+              <li>❌ <strong>Consecuencia:</strong> alta precisión en entrenamiento, mala en validación</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>📉 5. Bonus: Sobreajuste vs Subajuste</h3>
+            <h4>🔵 ¿Qué es el <strong>subajuste</strong>?</h4>
+            <ul>
+              <li>El modelo es <strong>demasiado simple</strong> para captar los patrones reales</li>
+              <li>No logra aprender bien ni siquiera los datos de entrenamiento</li>
+              <li>❌ <strong>Consecuencia:</strong> error alto en entrenamiento y validación</li>
+            </ul>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>📉 5. Bonus: Sobreajuste vs Subajuste</h3>
+            <h4>Ejemplos</h4>
+            <img src="./images/./sobreajuste.svg" style="height: 350px border-radius: 1rem; margin: 0 auto 4rem auto; background: transparent;">
+            <p class="citation">
+              <a href="https://la.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1718273118308.svg">
+              https://la.mathworks.com/discovery/overfitting/_jcr_content/mainParsys/image.adapt.full.medium.svg/1718273118308.svg
+              </a>
+            <p>
+          </section>
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>📉 5. Bonus: Sobreajuste vs Subajuste</h3>
+            <h4>⚖️ ¿Cómo evitar estos problemas?</h4>
+            <ul>
+              <li>📊 Dividir bien los datos (entrenamiento / validación / prueba)</li>
+              <li>📉 Regularización (evita modelos demasiado complejos)</li>
+              <li>📈 Usar más datos para generalizar mejor</li>
+              <li>🧪 Validación cruzada para evaluar el modelo con varios subconjuntos</li>
+            </ul>
+            <p>🎯 El objetivo: <strong>generalizar</strong> bien, no memorizar ni simplificar en exceso.</p>
+          </section>
+
+          <!-- [> 5. Bias vs Variance <] -->
+          <!-- <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom"> -->
+          <!--   <h3>📉 6. Bonus: Sesgo vs Varianza</h3> -->
+          <!--   <blockquote>Dos causas comunes de error en un modelo de IA.</blockquote> -->
+          <!-- </section> -->
+          <!--  -->
+          <!-- <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom"> -->
+          <!--   <h3>📉 6. Bonus: Sesgo vs Varianza</h3> -->
+          <!--   <h4>📌 ¿Qué es el <strong>sesgo</strong>?</h4> -->
+          <!--   <ul> -->
+          <!--     <li>El modelo hace suposiciones demasiado simples sobre los datos</li> -->
+          <!--     <li>No capta patrones importantes</li> -->
+          <!--     <li>Ejemplo: usar una línea recta para ajustar datos claramente curvos</li> -->
+          <!--   </ul> -->
+          <!--   <p>🔴 <strong>Consecuencia:</strong> alto error tanto en entrenamiento como en validación</p> -->
+          <!-- </section> -->
+          <!--  -->
+          <!-- <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom"> -->
+          <!--   <h3>📉 6. Bonus: Sesgo vs Varianza</h3> -->
+          <!--   <h4>📌 ¿Qué es la <strong>varianza</strong>?</h4> -->
+          <!--   <ul> -->
+          <!--     <li>El modelo es muy complejo y se ajusta demasiado a los datos de entrenamiento</li> -->
+          <!--     <li>Captura incluso el ruido y errores como si fueran patrones</li> -->
+          <!--     <li>Ejemplo: un modelo que memoriza cada punto en lugar de generalizar</li> -->
+          <!--   </ul> -->
+          <!--   <p>🔴 <strong>Consecuencia:</strong> buen rendimiento en entrenamiento, pero mal en validación</p> -->
+          <!-- </section> -->
+          <!--  -->
+          <!-- <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom"> -->
+          <!--   <h3>📉 6. Bonus: Sesgo vs Varianza</h3> -->
+          <!--   <h4>🎯 El equilibrio ideal</h4> -->
+          <!--   <ul> -->
+          <!--     <li>🧠 <strong>Bajo sesgo</strong>: el modelo aprende patrones reales</li> -->
+          <!--     <li>⚖️ <strong>Baja varianza</strong>: el modelo generaliza bien a nuevos datos</li> -->
+          <!--     <li>📊 Este equilibrio se llama <strong>trade-off</strong> entre sesgo y varianza</li> -->
+          <!--   </ul> -->
+          <!--   <p>💡 Ajustar la complejidad del modelo, regularización y más datos ayudan a mejorar este equilibrio.</p> -->
+          <!-- </section> -->
+
+          <!-- Bonus: Hiperparámetros -->
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>🔧 6. Bonus: Hiperparámetros</h3>
+            <p>Durante el entrenamiento tenemos algunos parámetos de ajuste (“diales”):</p>
+            <ul>
+              <li><strong>Tasa de aprendizaje:</strong> qué tan grande es cada paso</li>
+              <li><strong>Épocas:</strong> cuántas veces recorremos todos los datos</li>
+              <li><strong>Batch size:</strong> cuántos datos analizamos a la vez</li>
+            </ul>
+
+            <p>🎯 Elegir bien estos valores impacta el <strong>rendimiento y tiempo de aprendizaje</strong> del modelo.</p>
+          </section>
+
+          <!-- Cierre -->
+          <section data-auto-animate data-background-color="#C3B1E1" data-background-transition="zoom">
+            <h3>✅ Cierre de la Parte Técnica</h3>
+            <ul>
+              <li>No hace falta ser matemático para usar IA</li>
+              <li>Pero entender lo básico permite <strong>mejores decisiones</strong></li>
+              <li>La IA no es magia: es <strong>optimización + datos</strong></li>
+              <li>Si bien no es 100% necesario, entender estos procesos ayuda a:
+                <ul>
+                  <li>Evaluar modelos con sentido crítico</li>
+                  <li>Saber qué ajustar si algo no funciona</li>
+                  <li>Comunicarte mejor con equipos técnicos</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+        </section>
+
+
+        <!--
+          #########################################
+          ################ PARTE Z ################
+          #########################################
+        -->
+        <!-- <section data-background-color="#d5d7eA" data-background-transition="zoom"> -->
+        <section data-background-image="https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid&w=740">
+          <section data-background-image="https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid&w=740">
+            <!--
+              <a href="https://revealjs.com">
+              <img src="./images/https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo">
+              </a>
+            -->
+            <h2>¿Preguntas?</h2>
+          </section>
+          <section data-background-image="https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?semt=ais_hybrid&w=740">
+            <h2>Gracias por su atención</h2>
+            <p><small>
+              Presentador: Federico Zacchigna (<a href="mailto:fzacchigna@fi.uba.ar">fzacchigna@fi.uba.ar</a>)<br>
+              Ariel Lutenberg, Pablo Gomez, Celeste Corominas y Christian Yanez Flores
+            </small></p>
+            <p><small>
+              @lse.posgrados:<br>
+              <a href="https://lse-posgrados.fi.uba.ar/">https://lse-posgrados.fi.uba.ar/</a><br>
+              <a href="https://www.instagram.com/lse.posgrados/">https://www.instagram.com/lse.posgrados/</a>
+            </small></p>
+            <p><small>
+              Facultad de Ingeniería, Universidad de Buenos Aires
+            </small></p>
+          </section>
+        </section>
+
+
+        <!--
+          <section data-background-color="#E6E6FA" data-background-transition="zoom">
+          </section>
+          <section data-background-color="#FFD9C0" data-background-transition="zoom">
+          </section>
+          <section data-background-color="#F2F2F2" data-background-transition="zoom">
+          </section>
+          <section data-background-color="#d5d7eA" data-background-transition="zoom">
+          </section>
+        -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--
+          #################################################################################################
+          #################################################################################################
+          #################################################################################################
+          #################################################################################################
+        -->
+      </div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script src="plugin/math/math.js"></script>
+    <script>
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      Reveal.initialize({
+        hash: true,
+        slideNumber: 'c/t',
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
+      });
+    </script>
+
+
+    <style>
+      .citation {
+        font-size: 0.65em;
+        font-style: italic;
+        color: #666;
+        margin-top: 1rem;
+      }
+      .image-caption {
+        font-size: 0.75em;
+        color: #999;
+        text-align: center;
+        margin-top: 0.5rem;
+      }
+    </style>
+
+    <!-- HEADER AND FOOTER -->
+    <style type="text/css">
+        /* Header */
+        #header-left {
+          position: absolute;
+          top: 0;
+          left: 0;
+        }
+        #header-right {
+          position: absolute;
+          top: 0;
+          right: 0;
+        }
+        #header-center {
+          position: absolute;
+          top: 0;
+          left: 50%;
+          transform: translateX(-50%);
+        }
+        /* Footer */
+        #footer-left {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+        }
+        #footer-right {
+          position: absolute;
+          bottom: 0;
+          right: 0;
+        }
+        #footer-center {
+          position: absolute;
+          bottom: 0;
+          left: 50%;
+          transform: translateX(-50%);
+        }
+        /* Horizontal line above footer */
+        #footer-hr {
+          position: absolute;
+          bottom: 30px; /* Adjust spacing above footer text */
+          left: 50%;
+          transform: translateX(-50%);
+          width: 90%;
+          border: none;
+          border-top: 1px solid #ccc;
+        }
+    </style>
+    <div id="hidden" style="display:none;">
+      <div id="header">
+        <div id="header-left"><img src="./images/./LSE-logo.png" height="80"></div>
+        <div id="header-right"><img src="./images/./logo-fiuba.png" height="80"></div>
+        <hr id="footer-hr">
+        <div id="footer-center">Inteligencia Artificial aplicada al sector agropecuario</div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script type="text/javascript">
+      // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+      var header = $('#header').html();
+      if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+          $('.slide-background').append(header);
+        });
+      }
+      else {
+        $('div.reveal').append(header);
+      }
+    </script>
+
+  </body>
+</html>
