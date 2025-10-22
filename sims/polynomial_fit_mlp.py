@@ -56,7 +56,7 @@ COLORS = {
     'data_points': (52, 144, 220),
     'regression_line': (220, 53, 69),
     'cost_curve': (40, 167, 69),
-    'real_function': (200, 200, 200)  # Light gray for real function
+    'real_function': (120, 120, 120)  # Darker gray for real function
 }
 
 ###############################################################################
@@ -557,7 +557,7 @@ button_reset = ModernButton(CONTROL_PANEL_LEFT + 260, CONTROL_PANEL_TOP + 20, 10
 button_auto_fit = ModernButton(CONTROL_PANEL_LEFT + 380, CONTROL_PANEL_TOP + 20, 100, 40, "Auto Fit", COLORS['danger'])
 
 # Learning rate and noise level sliders (first line)
-slider_lr = ModernSlider(CONTROL_PANEL_LEFT + 500, CONTROL_PANEL_TOP + 40, 180, 20, 0.000001, 0.001, 0.0001, "Learning Rate", COLORS['warning'])
+slider_lr = ModernSlider(CONTROL_PANEL_LEFT + 500, CONTROL_PANEL_TOP + 40, 180, 20, 0.000001, 0.01, 0.0001, "Learning Rate", COLORS['warning'])
 slider_noise = ModernSlider(CONTROL_PANEL_LEFT + 700, CONTROL_PANEL_TOP + 40, 180, 20, 0, 20, 8, "Noise Level", COLORS['danger'])
 
 # Steps/sec and points textboxes (first line)
@@ -850,8 +850,8 @@ while running:
                 real_curve_points.append(data_to_screen(x, y, PLOT_RECT))
         
         if len(real_curve_points) > 1:
-            # Draw dashed line for real function
-            for i in range(0, len(real_curve_points) - 1, 4):  # Skip every 4th point for dashed effect
+            # Draw dashed line for real function with shorter dashes
+            for i in range(0, len(real_curve_points) - 1, 2):  # Skip every 2nd point for shorter dashes
                 if i + 1 < len(real_curve_points):
                     pygame.draw.line(screen, COLORS['real_function'], 
                                    real_curve_points[i], real_curve_points[i + 1], 2)
