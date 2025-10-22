@@ -158,7 +158,9 @@ def main():
     bias = 0.5   # Vertical offset
     sigma = 0.2  # Noise standard deviation
     n_samples = 1000
-    x_range = (-3, 3)
+    x_range = (-0, 1)
+    epochs = 1000
+    learning_rate = 0.001
     
     print("Generating training data...")
     x_train, y_train, x_clean, y_clean = generate_data(
@@ -171,6 +173,7 @@ def main():
     
     # Create model
     model = MLP(input_size=1, hidden_sizes=[64, 32, 16], output_size=1)
+    #model = MLP(input_size=1, hidden_sizes=[5, 5, 5], output_size=1)
     print(f"\nModel architecture:")
     print(model)
     
@@ -182,7 +185,7 @@ def main():
     
     # Train model
     print("\nTraining model...")
-    losses = train_model(model, x_train, y_train, epochs=1000, learning_rate=0.001)
+    losses = train_model(model, x_train, y_train, epochs=epochs, learning_rate=learning_rate)
     
     # Plot results
     print("\nPlotting results...")

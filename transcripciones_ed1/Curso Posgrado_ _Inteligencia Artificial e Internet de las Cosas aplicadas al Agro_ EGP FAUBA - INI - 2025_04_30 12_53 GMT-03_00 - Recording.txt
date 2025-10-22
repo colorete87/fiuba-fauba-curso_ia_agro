@@ -1,0 +1,2027 @@
+buenas qué tal tanto tiempo volvimos volvimos nomás en forma de fichas O sea
+que estamos mencionando tanto al Sí jajaja Uy qué tal Guada Cómo estás Qué
+bueno que estás conectando Hola cómo andan bien todo bien te perdiste la
+presentación estelar de Gaby Ah qué pena justo llegué ahí un poquito tarde
+después te pasamos la la grabación genial Gracias Karina ya entiendo que
+hablaron con Julieta sobre el cambio no O no te dijo nada Supongo que sí de que
+empiezan estos me enteré por el chat Sí claro no hay problema Gracias Ahora
+igual voy a volver a pasar la lista una vez que estén todos Así nos queda la
+nueva lista qué tal también está Guadalupe ahora en convergencia de de línea
+Uruguay buenísimo Hola Cómo estás Mucho gusto yo a vos te conozco hace muchos
+años me parece puede ser mi memoria es horrible pero Jajaja Estás en línea
+Uruguay Sí por eso pero en cuál estás en Las brujas la oficina es en las brujas
+en cambio hace creo que 18 años o sea desafío sí hace un tiempito bueno no me
+acuerdo si en ese momento te conocí Pero bueno de haber hecho algo así que sí
+capaz que sí eh yo he participado en un proyecto inta ígnea y cuando terminó el
+proyecto fuimos para allá no entiendo van a entrar todos en catarata No pues le
+dijimos que a la 1 tenían que estar seguro esto ya le decimos que ponga su
+presentación em vuelvo a pegar acá por WhatsApp Ah Bueno listo genial entonces
+queda ahí vos viste que el chat se borra y en los que llegan me voy a pinear a
+ver cómo funciona esto mmm hmn se le le encargas vos que yo hago unos minutitos
+Néstor todavía no entró no me parece voy a mandar un mensajito por WhatsApp
+cómo andás Hola Cómo estás Bueno si quieres poner la presentación en punta si
+salimos con tiempo porque quedan varias todavía no me avisas si se ve se me
+escucha bien sí se escucha bien pero no se ve todavía la presentación la
+pusiste a compartir pantalla completa sí Perfecto Bueno buenas tardes a todas y
+todos eh mmm la idea de este trabajo final tiene que ver justamente con aplicar
+Inteligencia artificial para ehm estimar impedancias de África básicamente
+dentro de Inteligencia artificial lo que tiene que ver con algoritmos de
+Machine learning eh eh específicamente bueno título largo de la propuesta o
+también bueno propósito de la investigación tiene que ver con justamente
+aplicar como dije inteligencia y técnica de Inteligencia artificial para
+estimar impedancias mecánicas al desarrollo radicular utilizando datos de
+Electro de electroconductividad que obtiene el sensor el sensor toxina Upper es
+un sensor de de origen austríaco Sin contacto con el suelo que bueno en
+principio a través de inducción magnética estima primero una situación de
+electroconductividad Y a partir de la reelaboración y y recinte de algunas
+otras variables físicas vinculada con con parámetros específicos digamos de la
+de la inducción magnética por software provisto por El fabricante intenta
+averiguar otros parámetros edáficos bueno la la fundamentación me adelantó
+brevemente pero de digamos de de todos los eh las capas de información que el
+sensor ofrece a partir digamos del Combo entre el propio sensor la unidad
+analítica que tiene y el Software embebido que tienen esa unidad analítica la
+capa de compactación excepto la capa que estima eh compactación eh cómo lo
+entendemos nosotros digamos los agrónomos y para Si se quiere las condiciones
+de los suelos de Argentina o de la de al menos de la zona núcleo bueno
+básicamente la Cuál es la cuál sería la fundamentación el sensor es muy
+interesante porque no tiene contacto con el suelo comparativamente un un equipo
+que se le parece la Sonda beris la Sonda beris para los que no lo conocen tiene
+una serie de discos de metal que tienen que ir en contacto con el suelo y en
+base al paso de electricidad a través de esos discos que funcionan como eh
+algunos discos como positivos y otros como negativos se forma un arco eléctrico
+en el suelo y a partir de esa situación se estima electroconductividad es bueno
+es con un equipo conocido que ya tiene varios años requiere contacto con el
+suelo con lo cual en situaciones de rastrojo importante o cuando ya el cultivo
+está emergido no se puede usar la ventaja del tcm del tocino Upper es que como
+es por inducción magnética puede ir digamos eh sin tener contacto con el suelo
+estando a unos 20 cm del suelo o incluso si hay un cultivo emergido eh capta
+información sin ningún tipo de inconveniente eh el problema Cuál es que la una
+de las capas de información que se ofrece que es muy interesante y que consiste
+mucha interés de la de compactación porque como ustedes como la mayoría de los
+participantes saben la compactación es un problema endémico en el en el agro
+argentino en en muchas eh en la mayoría de las de las situaciones texturales de
+suelo en el ámbito de la zona núcleo es un problema porque bueno eh pero sobre
+todo muchos años de eh monocultivo de soja con bajo aporte de rastrojos
+etcétera etcétera y la acumulación del tránsito de maquinaria sobre el lote va
+incrementando el tema de de la problemática de la compactación en el lugar
+donde fue donde se hizo este trabajo tenemos solo un poquito más proclive la
+conversación porque son regidores vértigos o sea un poco más enriquecido en
+arcilla por lo tanto con algo más de facilidad para compactarse lo que tiene
+interesante el tcm es que al ser Sin contacto el eh eh uno lo pasa a velocidad
+sobre el lote enganchado en un tractor o enganchado también en una camioneta
+puede ser y bueno es bastante rápido el relevamiento que se hace sobre el lote
+respecto de la la medición in situ de la variable compactación bueno es algo
+trabajoso porque hay que usar penetrómetro hay que abrir pozos de observación
+en el suelo Si es de naturaleza horizontal o con penetrometros verticales una
+medición puntual que queda haciendo digamos con adecuada densidad de muestreo
+en todo el lote Entonces es bastante poco práctico como como determinación
+agronómica habitual o corriente esto este instrumento tiene otra característica
+digamos electroconductividad básicamente está asociado con varias varias
+propiedades del suelo por eso suele ser una variable Interesante pero algo
+resbaloso algo inespecífica eh Porque tiene que ver con textura o sea
+interacciones con textura del suelo con humedad con conjuntamente también con
+la compactación etcétera etcétera y bueno en el caso de este sensor de alguna
+manera la capa de información vinculada con con eh compactación No no no la
+metodología habitual para medir compactación que es la variable digamos medible
+que es resistencia mecánica a la penetración o en su defecto de densidad
+aparente densidad aparente es más difícil todavía de medir el método directo es
+más difícil todavía que la resistencia mecánica a la a la penetración No es
+cierto que se mide con penetrómetro Cómo decir bueno Esto es lo que les conté
+Cómo funciona el sensor un sistema de inducción magnética y bueno las
+mediciones permitirían estar resaltado ahí el condicional por el tema de esto
+de que le conté de la compactación Pero bueno texturas salinidad humedad eh la
+la estima de manera satisfactoria eh No lo no lo es tanto el tema de
+conversación y en tiempo real algo que por ahí no no quedó claro al al staff
+docente en tiempo real en el sentido de ehm de en tiempo real mientras va eh
+mientras va transitando el lote también podría ser bueno donde flyer sobre la
+marcha por qué Porque en Europa aquí no porque impera la siembra directa pero
+en Europa este sensor se utiliza para hacer eh para para detectar profundidad
+justamente de compactación El Entonces el sensor que está por delante detecta
+la digamos la la la cuantía de la de la compactación y también a la profundidad
+que está y el actuador el el la unidad de control actúa sobre la profundidad de
+la pero de labranza que eh sería que solucionaría el tema de la conversación no
+obviamente esto es de Europa no es de aquí porque aquí en directa Esto no se
+puede resolver de esta forma no por otra parte sí sí hay situaciones de
+compactación en Argentina suele no ser suficiente requiere una calificador
+bueno otro tipo de emprendimiento muy difícil lograr el la utilización conjunta
+no de detector y del actuador en tiempo real en Europa sí lo lo se puede hacer
+por esto que comentó bueno Esto es un poco lo que lo que les conté no funciona
+la capa de compactación en general lo que ocurrió fue que se vendieron muchos
+equipos varios equipos en Argentina y en general la mayoría de los usuarios
+tuvieron este inconveniente entonces bueno Esto es esto fue un un análisis
+exploratorio analizando las variables que genera el sensor ver si el problema
+está en Cómo detecta eh alguna de esas variables físicas o si el problema está
+en el modelo de la unidad de cómputo que es la que provoca la salida
+informativa hacia el cliente no bueno todo indica que es esto segundo que
+comentó si hay un problema con el modelo que no daba las validaciones no eran
+satisfactores bueno esto a qué me refiero fíjense el sensor uno lo pasa sobre
+el lote y en primera instancia generaría luego de una síntesis de varias
+variables complejas desde el punto de vista físico generaría cartografía de
+electroconductividad obviamente también el sensor tiene una unidad de GPS que
+permite hacer el mapeo y luego se puede incorporar y se tiene el mapa en este
+caso de electroconductividad todos los usuarios de este sensor han valorado al
+mismo como eh herramienta para la zonificación para la ambientación a nosotros
+también nos ha coincidido esto o sea esto sería digamos la la segmentación la
+ambientación de este mapa electroconductividad surge este mapa de ambiente no
+por electronegatividad cuando después relevamos otras eh variables elásticas
+nutrientes por ejemplo bueno infiltración por ejemplo suele dar bastante bien
+eh las los distintos ambientes tienen sentido la separación tiene sentido pero
+al momento de estimar compactación como eh resistencia como dificultad a la
+exploración radicular Ahí es donde aparecen datos No no correctos De hecho
+hicimos una prueba digamos bastante directa un lote que teníamos una
+compactación digamos que la ya la habíamos pedido le pasamos el calificador y a
+la media hora de pasar de decodificador volvimos a pasar el equipo y no marcó
+la el cambio en la compactación O sea era muy directa la prueba no O sea se
+estaba descontando volvió a pasar el equipo y prácticamente el mapa era igual
+al previo a la pasada de calificador entonces evidentemente había un problema y
+como dije a ver si estaba en la en el censado o estaba en el modelo eh que
+surgía de la unidad de cómputo de cómputo del propio equipo para esto claro Hay
+que el conocimiento de dominios clave o sea hay que conocer de de de de de
+física de suelo etcétera etcétera para poder dar cuenta de esto que ocurre no
+Bueno entonces la hipótesis para para ir rápido y no acceder con el tiempo
+tiene que ver justamente con con intentar lograr que el equipo ofrezca una
+salida informativa correcta respecto a la variable compactación entonces bueno
+la idea como objetivo específico tenía que ver justamente con curar los datos
+brutos del sensor después de desarrollar modelos de Inteligencia artificial que
+estimulan la impedancia de África validar los contratos independientes de la
+variable agronómica confiable que sería densidad aparente resistencia mecánica
+de la penetración y después voy a intentar en general el modelo y disponerlo
+para que sea una herramienta para que eh cualquiera que tenga el equipo pueda
+replicar el trabajo que se hizo y terminar teniendo un mapa de compactación o
+de resistencia mecánica a la penetración digamos eh bien que que tenga un buen
+ajuste en la instancia de de testing digamos no de cuando cuando ese modelo se
+compara como bien explicó Federico cuando en la clase cuando ese modelo compara
+lo que pronostica con lo con los datos reales medidos independientemente que
+haga digamos que queda un buen pronóstico bueno los modelos que se Bueno aquí
+estaría digamos una idea de un mapa en donde también se hicieron mediciones
+puntuales para estimar la variable en este caso con penetrometros electrónicos
+se midió solamente resistencia mecánica de planeación de ansiedad aparente
+también pero todavía los datos no lo no lo han no lo han terminado de procesar
+O sea que trabajamos con resistencia mecánica en la penetración y bueno a nivel
+de prueba de modelos probamos regresiones múltiples porque las variables que
+generan son como 8 o 9 Eh Eh Eh árboles de decisión Random Forest y redes
+neuronales todavía no lo hicimos vamos a esperar a que estén los datos de
+densidad aparente como para tener un poquito más completo el panorama hicimos
+una prueba preliminar que está que le estoy mostrando bueno utilizamos la
+métrica de evaluación usuales en estos casos de recuadro error cuadrático medio
+√25 medio bueno etcétera y bueno y la proporción de de training validation y
+testing cuando el algoritmo requiere de validación intermedia fue 6020 si no
+fue bueno la mejora esperada Es que esto que les conté que tengamos un modelo
+que a partir de el uso de los datos del sensor eh eh la la información que
+genere sea correcta digamos no desde el punto de vista de compactación el
+televisor y bueno la limitación en general que tiene el estudio por Cómo se
+originan los datos básicamente es una alta presunción de dependencia del tipo
+de suelo de la textura y de la estructura del suelo que toque con lo cual es
+probable que los modelos no sean válidos universalmente tengan una validez
+regional más bien acotada eso también lo lo pensamos eh seguir probando no que
+lo que dice en el segundo punto y bueno ver integrándolo con eh ver la utilidad
+de integrar esta información con otras situaciones de productividad topografía
+bueno mapa de rendimiento etcétera etcétera en torno al sistema de información
+geográfica para dar cuenta de que es útil en la gestión agronómica bueno acá
+les muestro la capa etiquetada está está esto que está a la izquierda es la
+esto que está a la izquierda sería la capa interpolada a partir de la
+interpolación de unos 150 puntos de eh muestreo de resistencia mecánica de
+penetración el lote en total tenía un poquito más de 14 hectáreas o sea una
+densidad medianamente adecuada y la Eh Esto que se ve aquí se ve al verlo con
+con desde lejos digamos parece que fuera que fueran zonas pero en realidad al
+acercarse esto es la densidad de puntos que genera el top del mapa 12 dos
+georeferenciados cada uno de ellos con coordenadas de ella con GPS y la
+densidad de puntos obviamente es muy importante nosotros lo pasamos a eh una
+una distancia bastante cerrada también unos 10 m entre ida y vuelta lo cual da
+esta idea de de grillo no cada 10 m bien intenso O sea que él el mapa digamos
+más aumentado esto que está aquí a la izquierda el digamos el método aplicado
+fue Machine learning clásico Y en este caso usamos la horas Big Data es un
+software de de vida útil de Machine learning bastante bastante interesante
+bastante fácil de usar y bastante fácil de configurar bueno acá están en esto
+que se ve aquí en Rosa estos cuatro serían regresión Random Forest árboles y
+adultos acá estaría la parte de trading en esta en esta línea y aquí debajo
+estaría la parte de testing con el splitter acá el dato sampler que hace la
+división 6040 o 60 2020 Y entonces provoca que los datos de entrada de los
+datos de testeo no hayan sido visto usado en el entrenamiento no tiene Esa
+diferencia bueno Esta es la parte de trading cómo le dije está la parte la
+parte de aquí debajo de la parte de testing Y estos son los resultados tener
+una salida de este tipo en las dos en los dos puntos en las dos widgets genera
+una salida bastante interesante y bueno nos dio muy bien sobre todo la voz
+genera digamos una un ajuste bastante importante con eh un error eh bajo
+relativamente bajo de allá y bueno vamos a ver cómo cómo sigue lo probamos en
+un lote con datos espacialmente también independiente y y no no se degrada pero
+bueno todo vendría Esta es una idea de la tabla de la de la tabla de salida acá
+están las variables y el Orange genera las predicciones georreferenciadas
+También acá el identificador está asociado a una coordenada y después con estas
+previsiones numéricas Punto por punto se puede interponer el pronóstico de en
+este caso ya de resistencia mecánica de la presión que coincide coincide
+bastante con el con acá a la izquierda con el el la resistencia mecánica de la
+penetración mapeada en función de el registro local de la variable directa no
+que con el penetrómetro así que bueno eso fue y está fue digamos el el trabajo
+bueno Néstor la verdad buenísimo la verdad súper complejo es súper completo eh
+Cuando veía la presentación y lo habían presentado claramente se notaba que
+tenían conocimiento del tema también agradezco bastante la Bueno veo que
+también es como un tema que ya venían trabajando no tanto como una propuesta
+donde están presentando lo que ya hicieron y hay trabajo igual a futuro también
+me parece muy valioso que en esta presentación hayan respondido a todas las
+comentarios que dejé cuando cuando revisé la propuesta cosas que no me quedaban
+Claro está claro Igual también que era una presentación no subieron el formato
+documento para hacer una presentación uno no Incluye todo lo que va a decir
+justamente iba a haber más respuestas y y va a haber menos dudas después de la
+de la exposición Eh bueno y ahora me parece que está clarísimo el problema que
+plantean de justamente mejorar y el problema la problemática que tienen al
+tratar de utilizar este tipo de sensores en distintos tipos de suelos y el
+problema que comentabas que cambiabas la densidad compactación perdón y no me
+digas lo mismo entonces Había algo que claramente estaba mal evidentemente hay
+una cuestión de de modelo digamos de que no comenté es la digo porque a lo
+mejor algún colega conoce a este equipo eh se vendieron 12 14 en Argentina no
+El fabricante o sea como que soporte postventa fue no no fue del todo bueno la
+inversión que hizo cada continente fue de unos 45.000 y por eso había una idea
+de de intentar hacer algo no y y no nos han dado demasiadas bolilla después
+supimos que la la empresa austríaca había tenido algún que otro algunas tres
+financieros Cómo se le dice ahora pero bueno no los equipos están y los equipos
+están y funcionan y dan la información la única que fallaba era está está de
+compactación también la del fondo de la cuestión Sí sí ahí estaría buenísimo
+tratarse justamente tratar de sacar los datos crudos lo más crudo posible para
+ver si de alguna manera se pueden correlacionar contra las mediciones que que
+etiquetadas que digan ustedes Eso me parece perfecto me parece está súper bien
+plateado está trabajo nada hecho y derecho o una propuesta hecha lo único que
+me queda alguna duda eh No sé si sabes igual Perdón rapidito porque también ya
+estamos medio ya venimos atrasados de la primera em viendo que este sensor
+usaba como cuatro frecuencias o cuatro rangos de frecuencias de
+electromagnéticas para medir y todo esto quizás puede ser que haya que cambiar
+de alguna manera esa frecuencia o algo más que sea más adecuado para este tipo
+de suelo no sé si eso sí sí sí es probable Lo que pasa que ella ya implicaría
+una intervención más a nivel de ustedes me refiero al nivel de elecciones que
+sí sí sí sí Por qué me hicieron todo el mapa digamos desde desde la variable
+que genera son como 9 Nosotros también lo que no lo que no incluí por tiempo eh
+hicimos de lo que teníamos hicimos importants y en general daban usables las 9
+o sea cuando probamos con con el con la mitad superior se caía se caían las
+métricas O sea que digamos por lo menos Ahí te da muy alentador ese dato no no
+tenés cosas redundante dando vueltas no pero capaz que faltan a eso sí pero
+ella ya es una intervención en el Hardware que bueno no no estaría al alcance
+nuestro digo no no no no no claramente sí Solamente como para plantearlo quizás
+Eh bueno vamos muy rápido Miguel decimos un comentario nada más Sí cómo andás
+Néstor todo bien obviamente una una época en la que maneje una rastra beri y me
+cuando comentas esto de que de que ofrecen el servicio y un mal postventa con
+la vera y pasa Exactamente lo mismo y quemaron la tecnología Lamentablemente
+son tecnologías muy interesantes muy buenas pero las queman porque no dan un
+servicio postventa eh que a la altura del tipo de herramienta Exacto Exacto
+porque hay que saber hay que saber de la herramienta hay que saber cómo tratar
+los datos pero también hay que saber de la herramienta de la electrónica de la
+herramienta viste no no voy a vender un un pan dulce Exacto ese Lamentablemente
+el problema que estamos teniendo con todas estas nuevas tecnologías eh Y por
+otro lado no sé yo yo por ahí tenía en la cabeza probar para lo que era
+compactación de suelo el río radar no sé si por ahí ustedes lo han visto lo Sí
+este tenemos ahí unos otros casos eh con Geo radar ha dado bastante bien o sea
+con Perdón no con Sonda de rayos Gamma ha dado bastante bien bastante bien e
+incluso algunos nutrientes la Sonda de rayos Gamma con valores de r cuadrado
+bastante más moderado pero estimando qué sé yo no me acuerdo tenía que mirarlo
+estimado por ejemplo voro Moreno con menos menos puntos de validación porque
+los análisis son caros y lo y bueno y el r cuadrado menor pero en distinto
+dominio gráfico o sea algo más consistente Ojalá ojalá lleguemos con esto en
+compactación eh yo le tengo miedo a Lover fitting local Sí sí bien hicimos todo
+lo que corresponde en términos de buenas prácticas le tengo miedo que el modelo
+se acomode muy bien a la tipología del lote Por más que bueno le mostré los
+datos si vos llevaste modelo a a 20 km te da cualquiera viste bueno buenísimo
+eh vamos a tratar de continuar con el Vamos a continuar con el que sigue sí lo
+vamos a hacer una una cosita a medida avisó que a medida que me estén
+exponiendo cuando pasen los 10 minutos vamos a avisar si 10 minutos y después
+cuando se cumpla el tiempo también sí simplemente para tratar de agilizar lo
+mucho porque si nos extendemos tanto por cada presentación vamos a terminar
+bastante más tarde Néstor Te felicito por el trabajo me parece que está muy
+bien después podemos continuar hablando sobre las posibilidades Bueno ahora
+continúa Karina Karina todo tuyo voy a presentar Cómo se presenta la harina
+fíjate abajo Ah sí sí en los en los iconos que tenés debajo pensar que hay un
+rectángulo con una flechita para arriba p aprieta ahí que es presentar ahora
+pone pantalla completa selecciona la pantalla y compartir toda la pantalla me
+aparece a ver toda la pantalla clickea sobre el dibujito que te aparece en la
+pantalla y compartir y cómo Comparto el Powerpoint la primera puede ocultar ahí
+en el cartelito que te apareció ocultar okay Y ahora vuelve a la presentación
+Sí y vas a ver que hay unos iconos que están abajo de todo o sea yendo de
+derecha a izquierda abajo de todo que está la hora El zoom y al lado hay un
+iconito más Un poquito más arriba abajo Uy no no no te vayas me fui sí te
+fuiste ahí ahí subí una línea ahí eh Sí soy un poquito para la izquierda ahí sí
+Okay ahí se ve Ahora sí Ah Bueno Eso no me veo está bien Okay Buenas tardes Eh
+Mi nombre es Karina como ya saben Eh Esto es una idea que la hice desde cero es
+netamente para el curso académico y es una asesora agropecuario inteligente eh
+en porque había pensado que sea con Inteligencia artificial también pero
+gracias por recomendarme que me Centre en internet de las cosas pasamos la idea
+en sí de agro compás es que sea una tecnología accesible para los productores
+en zonas Rurales es un proyecto que nace de la necesidad real de achicar las
+brechas que existen y conectar al campo con los datos y las decisiones en el
+contexto vemos y la problemática que el Aro argentino como otros sabe como
+otros como en otros países que hay especialmente eh determinadas zonas que
+enfrentan una brecha tecnológica creciente tanto en productores especialmente
+en productores pequeños y medianos que no tienen las herramientas ya sea de
+diversas formas para acceder a a estas tecnologías y tomar las decisiones
+basadas en datos uno de los sí bien Argentina según datos de la cepal acá tiró
+el dato eh nosotros tenemos el índice de conectividad rural más alto eh entre
+Brasil y otros países si les agregamos el dato eh la heterogeneidad nos muestra
+que hay baja conectividad en diversas regiones lo cual eso eh limita el
+productor principalmente al pequeño y al mediano a la al acceso de de
+plataformas más modernas y de tomar soluciones que estén disponibles que ya son
+deportivos costosas o pensadas más bien para explotaciones más grandes que
+tengan mayores recursos económicos cuáles eran tipo de agro compás acá Claro
+que le puse agro compás porque va al compás del agro al compás de la agricultor
+y eh un poco de compasión eh Pero eso me decían en el trabajo que le puse con
+pasión eh Busca resolver esta brecha que quizás es codiciosa mediante un
+sistema de monitoreo digital accesible que sea de por sí de bajo costo y con
+una posibilidad de escalar hacia una asesoría inteligente en una segunda o
+tercera etapa eh que sería con Inteligencia artificial como después voy a
+mostrar Cómo se haría primero la idea Está en la democrática democratizar el
+acceso de este monitoreo eh digital a los productores pequeños y medianos en
+primera instancia reducir la incertidumbre que se tiene en la toma de
+decisiones de los pequeños y medianos productores y ir preparando desde la esto
+sería t1 pero en t-0 ya ir preparando el terreno para t1 que es esto y después
+en los otros T2 t3 eh Para llegar a la asesoría basada en Inteligencia
+artificial que acá le había puesto etapa 2 Qué problema resuelve bueno el gran
+dilema la escasa adopción de tecnología en zonas Rurales con mala conectividad
+después también está falta de datos que existen en tiempo real en estás en
+determinadas zonas no y en consecuencia para la toma de las decisiones del del
+productor y acá eh este punto es la dependencia del asesoramiento externo que
+muchas veces es poco frecuente o casi inexistente acá se trata que abro
+herramienta para el empoderamiento del productor pequeño y mediano Pero que sea
+desarrollado en eh No inmediatamente sino en un corto o mediano plazo Qué
+encontramos también como problemática la baja disponibilidad o el uso limitado
+de smartphone o sea no solamente en el interior del país sino también en la
+zona de eh yo lo he visto en zonas de Buenos Aires del conurbano principalmente
+eh que eh carecen del conocimiento más allá de lo que todos podemos pensar de
+el uso del smartphone o los teléfonos inteligentes esto es una dificultad
+porque no permite el acceso a los conocimientos de las plataformas digitales de
+por sí ya conocida y mucho menos las del agro por eso la idea de la creación de
+agro compás es la contempla contempla estas opciones de visualizar eh Como dijo
+un compañero de manera comunitaria escuelas Bueno yo puse inta puede hacer otra
+institución de ciencia y técnica cooperativas también eh sectores privados y el
+diseño de hacer interfaces simples y el uso compartido mediado por técnicos
+territoriales el público objetivo en primera instancia sería los pequeños y
+medianos productores de la agricultura intensiva y extensiva que poseen
+dificultades para hacerla para escalar Por qué digo extensiva porque también en
+determinadas zonas O sea que se desarrolla la extensiva eh Hay medianos y
+pequeños y medianos productores que eso por diversas motivos por la propia
+percepción que tiene el productor no solamente en costos sino por cultura por
+conocimiento por diversos motivos a al acceso a estas tecnologías bueno otro
+público objetivo es esto las cooperativas las escuelas agrotecnicas Cómo se
+mencionó un un estudiante de la clase que que mencionaba las escuelas y equipos
+de organismos de ciencia y técnica en términos económicos esto se llama eh la
+idea y perdón y el la parte privada en términos económicos esto se llama eh la
+quíntuple hélice donde se vinculan eh todos los organismos del Sistema Nacional
+de innovación Cuál es la solución propuesta Bueno hay para eso es una radio
+pero eh es un es desarrollar un módulo de iot de bajo costo eh que tenga
+sensores y comunicación a través de hora y que permita a estos productores que
+después voy a mostrar con ejemplos poder monitorear eh determinadas variables
+claves del campo Como por ejemplo humedad temperatura y radiación solar y que
+sea en tiempo real y esta etapa Presenta una viabilidad o sea luego se podrá
+expandir en otras etapas acá yo puse en una app simple pero eh Ahora les voy a
+mostrar un desarrollo de otra etapa antes de la app simple que servirá de base
+para una futura integración con lo que les decía de la Inteligencia artificial
+el valor diferencial que tiene agro compás es que es una herramienta que Sí
+desde el territorio que sea accesible que sea modular y que sea escalable está
+eh la diferencia en adaptarse a los contextos del territorio principalmente el
+argentino donde haya baja conectividad sin por ello sacrificar la funcionalidad
+que tiene eh No es un producto importado O sea que impone determinadas
+condiciones por eso agro compás es una solución creada para los ritmos las
+necesidades y las capacidades reales del productor agropecuario argentino que
+no son las mismas que otros productores de otros países o otros sectores del
+país mismo brinda datos pero eh lo que quiere es empoderar al productor y y
+poder que tomen una decisión y tomen una a partir de ello una decisión luego de
+que Bueno o sea sin descuidar que esto lleva un asesoramiento que sea de bajo
+costo que tenga un lenguaje un lenguaje claro para poder ser adoptado y un
+potencial luego de la evolución hacia bueno acá repito a la inteligencia
+personalizada Por eso digo un pensamiento desde el territorio modular accesible
+Y autónomo esto no estaba en el primero pero acá es la evolución pretendida de
+agro compás la etapa uno que sería está no este esto es p1 que sería el
+monitoreo lo que estamos implementando la etapa dos sería un poquito más Sí sí
+avanza la etapa uno vamos a la etapa dos que es la automatización y la
+integración de actuadores y la etapa 3 si tiene mucha suerte es la guía eh
+Bueno es un modelo Inteligencia artificial que sea predictiva Cuándo escale el
+sistema Bueno cuando escala el sistema eh acá no le decimos al productor eh
+compra todo sino que tenés que y en dudar si no que empezamos con lo básico
+sigo acá está la arquitectura funcional de cómo verán está el sensor que valora
+que va a una base de datos y a la interfaz simple bueno la escalabilidad de
+agro compás como ya le dije Bueno está en distintos sumar sensores sin
+corporalidad incorporar funcionalidad integrar luego Inteligencia artificial y
+acá me fui ya A bueno yo hice los presupuestos estimados eh Y me dieron
+determinadas eh valores que es una simulación o son estimaciones que pueden
+variar los ejemplos concretos yo hice tres ejemplos uno en San Pedro con la
+productora Ortega hortícola que acá la pueden ver después eh un ejemplo con
+patio inferior río negro con el productor de la cebolla Cómo pueden ver no
+tienen actuadores en esta etapa sino que son ellos los que van a tomar la
+decisión después Bueno este el ganadero el impacto esperado del aumento de la
+productividad reducción de costos y sostenibilidad como vimos siempre en clase
+y esto es Eh como soy economista le hice las tablas de impacto económico en
+cuanto en productividad Y ustedes podrán ver en el beneficio Cómo va aumentando
+y los grados de adopción Cómo se van sumando considerando que en el 2028 20 de
+adopción es bastante considerable en términos económicos gana el productor Sí
+porque tiene un retorno de inversión muy bueno eh considerando su tamaño acá en
+cuanto a reducción de costos Cómo reduce el costo de 50 a $500 y es atrayente
+las recomendaciones estratégicas bueno esto era muy largo eh la sintetizó en
+seis En dónde se puede visualizar después que se pueden tomar otras estrategias
+Cómo disminuir costos a través de otros sensores cómo me hicieron hincapié en
+las correcciones Okay y eh Y todo lo que bueno lo que pueden ver ahí una visión
+es que puede ser eh agro compás puede escalar en trazabilidad certificación
+digital y análisis multitemporal y acá está la frase eh donde no llega la
+tecnología para mí La Brecha se vuelve una zanja Y si un país que salta zanjas
+todo el tiempo no tiene tiempo no siembra futuro entonces la la lógica es que
+abro compás pueda ayudar o ayudar a generar ese futuro Muchas gracias Bueno
+muchísimas gracias Karina que no completa la presentación feliz felicitaciones
+y muy bonita también la presentación bonitas imágenes excelente contenidos
+felicitaciones tuve la oportunidad junto con nosotros docentes de revisar la
+propuesta y nos pareció muy detallada eso suma muchísimo valor Te agradezco por
+eso por el esfuerzo que le que le pusiste igual que todos no O sea nuestros
+compañeros que también se esmeraron en hacer el trabajo y las presentaciones y
+bueno así que la pregunta de mi parte es como veo que tienes tanto detalle que
+es muy bueno Cuál serían los pasos a futuro eh Para real digamos no tengo idea
+no pensé que sería buena eh lo hice en términos como dije académicos eh pero si
+les parece buena eh Y yo la veo bastante ambicioso la chica de las brechas pero
+Eh sí me gustaría poder implementarla estamos formando también redes entre los
+de los diferentes actores que estamos dando está este curso por ahí podemos
+hablar tanto en el programa de vinculación bueno acá hay mucha gente que
+seguramente está dispuesta para que entre todos podamos sacar adelante alguna
+de Estas ideas y Bueno estamos en contacto para que se haga realidad de alguna
+forma o en algún grado ahora por lo menos ver ese primer paso no así que nada
+quedamos en contacto para que se pueda llevar a cabo como dije Muchísimas
+gracias por tu presentación y bueno si les parece continuamos con la siguiente
+exposición que me parece que es Matías Buenos días Cómo estás Bueno cuando esté
+listo pues empezamos se está viendo Bueno yo soy Matías del bonzo y ingeniero
+agrónomo eh De hecho Miguel fortnite fue y verlo acá me hizo acordar de la
+etapa que era estudiante cruzando mecanización en aquella época y bueno si bien
+no vengo del palo de los temas que se vieron en este curso eh traté de
+vincularlo con respecto a lo que estoy trabajando actualmente que en la
+actualidad estoy trabajando con emisiones de metano en tambos el tratamiento de
+purines de efluentes Eh Así que bueno traté de vincular esta cuestión de las
+tecnologías que Estuvimos viendo en el cursado como para darle No es cierto una
+idea y la verdad que hay una tecnología bastante interesante que se usa en el
+tratamiento de aguas residuales que son los humedales artificiales que
+básicamente son soluciones basadas en la naturaleza porque buscan imitar
+humedales naturales y que se utilizan para tratar aguas como vuelvo a repetir
+agua residuales no es cierto remoción de minerales de metales pesados de un
+montón de cuestiones y bueno y en ese sentido se me ocurrió pude ver que una de
+las falencias que tienen estos humedales es el hecho de la biomasa el exceso de
+biomasa que crece por parte de las plantas que tienen un hábito muy vigoroso de
+crecimiento Entonces eso es un gran problema que tienen estos humedales y se me
+ocurrió la posibilidad de implementar la tecnología it en estos humedales No es
+cierto por un poco de contexto bueno eh Como todos sabemos el agua es un
+recurso fundamental para la producción en general en ese sentido Cómo podemos
+apreciar ahí es uno de los principales usuarios No es cierto de de este recurso
+y cada vez a medida que aumenta la población y sigue existiendo un crecimiento
+económico la presión sobre los recursos naturales mayor eh cada vez hay más
+regulaciones más digamos leyes No es cierto que buscan mitigar el impacto de
+las actividades humanas en el medio ambiente y Bueno en ese sentido eh a nivel
+global el 80% de las aguas residuales se vierten al medio sin ningún tipo de
+tratamiento previo lo que termina siendo un problema la contaminación del suelo
+del aire y de la tierra termina fui redundante digamos no me di cuenta pero la
+contaminación termina siendo un problema bastante grave y en el caso del agua
+al transformar este recurso empeorando su calidad termina siendo que no se
+puede utilizar por ahí para el consumo para otras actividades entonces termina
+siendo descartado lo que es un problema grave y es por eso que surge esta idea
+Por ejemplo de Los humedales que buscan de alguna manera eh reemplazar los
+sistemas convencionales de tratamiento que son carísimos y bastante difíciles
+también de de crear y de No es cierto Entonces se presentan como esa opción más
+económica y mucho más sustentable No es cierto porque además saca otros
+beneficios medioambientales Cómo se pueden usar para recreación hay diferentes
+tipos también entonces bueno eh uno de los problemas que tienen estos humedales
+es que el mantenimiento es bastante complejo es muy intensivo eh manual eh lo
+que afecta mucho su eficiencia Y si uno no hace ese control ese mantenimiento
+celular y precisa lo que ocurre Es que la eficiencia disminuye por las
+obstrucciones que se producen debido al excesivo crecimiento vegetativo y y
+además dependiendo del tipo de humedal sobre todo lo superficiales que tienen
+flujo libre de agua son un foco muy importante de mosquitos de insectos No es
+cierto puede traer diferentes problemas Entonces es fundamental hacer ese
+mantenimiento Y es muy engorroso porque tenés que hacer visitas muy regulares
+en el verano hay depende también el hábito de cada especie que se utilice no
+pero tiene que ser muy regulares tienes que estar constantemente arriba y por
+ahí el personal termina siendo acotado Entonces es una problemática que
+pensándolo del lado de la it yo creo que se puede resolver Y agilizar un montón
+sobre todo porque es una tecnología también que todavía está en difusión no
+está tan difundida y hay una necesidad de generar más conocimientos y
+eficiencia entonces el objetivo fue desarrollar un sistema iot que permita
+monitorear monitorear en tiempo real el humedal para agilizar este proceso de
+control de de la biomasa y no es cierto el mantenimiento cómo lo plantee o cómo
+se me ocurrió por lo menos esta primer aproximación es la utilización de
+sensores que van ahí se ve en el en el humedal No es cierto estos sensores
+bueno eh derivarían la información a un nodo y un Gateway el Gateway yo soy
+opcional por el hecho de que si bien esto en un primer enfoque para el tema de
+los tambos No es cierto dónde por ahí la conexión no es muy buena y sería
+necesario tener este tipo de No es cierto de cuestiones ahí presentes también
+los humedales se usan en la industria y por ahí en zonas donde la presencia de
+wi-fi puede ser más común entonces quizás no sea tan necesario ese Gateway
+pueda ser Más directa la conexión Pero bueno es todo dependiendo también del
+contexto y el lugar donde donde se aplique la tecnología No es cierto abrir una
+base de datos donde se recopila toda la información y el usuario que finalmente
+disponga de todos esos datos para eh poder determinar a través también tener a
+disposición umbrales No es cierto que le permitan determinar los momentos de
+poda eh momentos de control No es cierto para tener más precisión a nivel
+sensores una primera aproximación pensé por ahí en caudalímetros para medir el
+ingreso Y el egreso de de agua no es cierto de en el humedal sensores de
+cobertura vegetal de temperatura y humedad los de humedad sería interesante
+para los que son de flujo subsuperficial donde el agua no es cierto eh circula
+bajo la superficie Entonces se puede tener capaz que un registro más pero
+vuelvo a repetir quizás haya que hacer varias pruebas varios estudios para
+tener más eh definido No es cierto eh la utilidad de cada uno de ellos yo creo
+que en un principio estaría buena la idea de aproximarse con ellos la
+comunicación sería por Lora por los beneficios que tiene No es cierto lo que
+Estuvimos viendo en el curso de la economía con respecto a la energía y esas
+cuestiones o wi-fi en el caso de zonas que sean más urbanas y que bueno
+dispongan de estos humedales No es cierto la base de datos centralizada Y
+también pensé en una posibilidad de incorporar también eh sensores para los
+atascos en los canales pero también sería muy eh situacional dependiendo y como
+no hay un criterio unánime de cómo construirlo viste de De qué material y esas
+cuestiones entonces habría que evaluar eso también y bueno lo que se espera con
+esto es una mejor accesibilidad a la información eh que justamente al estar
+todo registrado en tiempo real y tener los datos disponibles en todo momento se
+abre un abanico con respecto a la al acceso a la información sobre cómo está
+funcionando sí humedal que permite un montón de cosas se reduciría la el uso de
+mano de obra porque en lugar de tener que hacer tantas visitas al lugar para
+tomar datos ya quizás una sola persona podría encargarse de ir monitoreando
+Cómo va funcionando el sistema eso es muy interesante No es cierto por el tema
+de los de los recursos y lo económico que que rentaría esta situación
+obviamente mejoraría la eficiencia porque se pueden planificar mucho mejor Las
+podas y el mantenimiento de lo que da la posibilidad de hacer proyecciones de
+tener un mayor control sobre lo que pasa en el sistema y además tenemos la
+posibilidad de tener registro de los eventos de cuando se pudo de cuánto
+Incluso se puede agregar el registro de la cantidad de biomasa quizás que se
+haya recolectado No es cierto como para tener una idea y a partir de ahí como
+digo es una tecnología que está en difusión todavía en Argentina no hay muy
+pocas publicaciones de hecho con respecto a este aspecto Así que desde ese
+sentido brinda la posibilidad de eso de generar mucho más conocimiento y de
+mejorar la la eficiencia también y qué errores pudiera haber No es cierto en el
+en el sistema yo creo que en base a lo que vi en el curso y con respecto a lo
+que por lo menos los conocimientos que tengo yo creo que este tipo de
+tecnologías como las que porque esta es mi primera aproximación a todo esto la
+verdad que yo no tocaba de oído pero bueno al conocer ahora es como que uno
+aprende cosas nuevas No es cierto entiende mejor el mundo yo creo que todo esto
+Abre una ventana de posibilidad para agilizar un montón de Procedimientos que
+que se dan en un principio este podría ser uno para automatizar No es cierto y
+corregir una de las desventajas importantes que tienen los humedales
+artificiales Pero hay otros impedimentos que se podrían llegar a tratar de
+corregir también con con esta tecnología Como por ejemplo la hora de
+dimensionar los eh los humedales o o bueno quizás hasta no sólo de en el
+aspecto del tema que estoy tratando yo sino en otras cosas también de
+tratamiento de aguas residuales o de o de lagunas No es cierto de monitoreos
+por lo que es bastante interesante tratar de incorporar todas estas tecnologías
+nuevas que que bueno permitirían facilitar un montón de cosas de hecho una de
+las cosas que pensé también es el hecho de entrenar una Inteligencia artificial
+para que de alguna manera a través de imágenes del humedal eh haga o sea tiré
+el propio control o la estimación de la cantidad de biomasa de a través de No
+es cierto de ciertos parámetros pero bueno como digo es una primera
+aproximación y y me parece interesante la posibilidad de de aplicarlo acá hasta
+ahí nomás Bueno muchísimas gracias Matías presentación y bueno me alegra mucho
+el hecho de que valores que los conocimientos que se vieron en el curso hablan
+precisamente una ventana un panorama nuevo eso era precisamente uno de los
+objetivos de este curso darles un poquito más de ideas herramientas que se
+involucran un poco más con el uso de estas tecnologías en los diferentes
+problemas que tengan para en el agro me refiero no eh Para poder de alguna
+manera verlos de otra manera y ver las todas las aplicaciones futuras que se
+pueden llegar a implementar Así que muchas gracias por las palabras y la la
+misma pregunta que hice hace un rato el resto de tus compañeros y el próximo
+paso para una implementación real cuánto te parece que sería Y sí yo en el
+procedimiento de mientras estuve trabajándolo que me surgió la idea digamos eh
+la idea la lo que lo que pensaba por ahí sí quisiera seguir No es cierto con
+esta cuestión es que sí o sí hay que acercarse primero a un alguien que tenga
+mucha más experiencia No es cierto con respecto a los humedales porque quizás
+haya parámetros que eh A lo mejor yo desestimó para el tema de la biomasa y en
+esta situación o el contexto del sistema sean interesantes y él por su
+experiencia No es cierto pueda detectarlos e incorporarlos para el monitoreo y
+la otra sí eh gente que se dedique o que tenga mucha experiencia con el armado
+de los equipos No es cierto y las cuestiones pertinentes a los sensores No es
+cierto y bueno Cómo viajar todo el la conexión sería eh pero yo creo que que
+fundamental a alguien con mucha experiencia sobre humedales porque encima no
+hay tantas publicaciones disponibles sobre todo acá en Latinoamérica por lo que
+gente con experiencia es necesaria para ir por buen camino digamos y no cometer
+errores de de omisión de datos que por ahí serían interesantes registrar
+concuerdo con sus palabras Bueno muchísimas gracias por la presentación terminó
+gracias a usted y te agradezco mucho en Bueno si están todos de acuerdo podemos
+continuar con el orden de las presentaciones ahora tenemos el turno de Juan es
+decir estás por allí Juan presentarse y yo hablo sí qué tal 500 Bueno entonces
+estamos compartiendo apreté compartir pero no está pasando demasiado vamos de
+nuevo Bueno ahí están viendo debería estar viendo la pantalla no es cierto Sí
+sí hay un papá nada más bueno vamos a hablar yo soy Guillermo rodilla y junto
+con Juan chaval desarrollamos este proyecto y nosotros nos conocemos ya hace
+unos cuantos años eh del curso de detección que hicimos en la facultad Juan
+ahora está en Alemania yo en Argentina y bueno desarrollamos Esto que en
+principio usamos con comenzamos con datos que teníamos eh de trabajos míos
+anteriores La idea es estimar soja empleando índices biofísicos espectrales y
+el uso de la Inteligencia artificial las ventajas de estimar el rendimiento
+agrícola con antelación entre otras está la optimización en la planificación
+logística que permite tomar decisiones informadas respecto a la cosecha con
+almacenamiento y en transporte una gestión eficiente de los insumos que ayudan
+a optimizar por ejemplo el agua fertilizantes pesticidas y promueven la
+sostenibilidad identificar temprana una forma temprana de los riesgos porque
+muchas veces ante una aparición de una Plaga de enfermedades o deficiencias
+nutricionales si se detecta esto con el modelo pueden ser corregidas permite
+tomar decisiones anticipadas Como por ejemplo si ante un evento de una sequía o
+un granizo o lo que sea cambiar el el rol del del cultivo reemplazarlo incluso
+y o hacer un ensilado o un consumo directo de animal u otra u otra causa otro
+otra decisión que haya que tomar y después entre otras ventajas sería una
+mejora económica porque nos permite adoptar estrategias comerciales Como por
+ejemplo si tenemos el modelo predice que vamos a tener un una buena producción
+quizás podemos vender a futuro él lo que vamos a obtener porque ya sabemos que
+la vamos a obtener Y de esa forma maximizar la rentabilidad también una
+detección rápida de cambios fisiológicos porque esto al estar o sea una vez
+calibrado no se está informando cómo está nuestro rendimiento o posible
+rendimiento podía podría mejorar el entendimiento y desarrollo de de cultivos o
+de variedades impulsando y facilitando el mejoramiento también a nivel país por
+ejemplo contribuyen en la seguridad alimentaria o estimaciones más precisas de
+lo que va a producir el país a nivel global va a ayudar a planificar eh cómo
+está el el país en cuanto a la balanza comercial que tiene y demás todo esto
+está basado en una simple fórmula pero muy complicada que es que el rendimiento
+es la productividad primaria neta digamos lo que se cosecha de la producción
+primaria neta el índice de cosecha es la planta produce algo que es cosechado
+en base a un índice de cosecha y eso define un rendimiento ahora ese
+rendimiento pasa a la siguiente s rendimiento O sea la productividad primera
+neta que es que lo que produjo la planta después de descontar en la respiración
+O sea la productividad primaria bruta de control de respiración es la
+probabilidad privada Nosotros sabemos que las plantas absorben la radiación
+solar y transforman extra energía solar en energía química que es la biomasa
+con lo que va creciendo la planta y respiran para ello Entonces ese proceso es
+la lo que nos da eso en la producción primaria en otra neta O sea a lo bruto lo
+descontamos la lo lo neto que produce el vegetal como es muy complicado eh
+saber digamos la producción primaria neta tiene un montón de factores que en
+los cuales lo podemos Separar montais en 1972 propuso una ecuación que es ésta
+que estamos viendo donde producción primaria neta es igual a la eficiencia en
+el uso de radiación que está digamos en la eficiencia del uso de radiación y la
+radiación fotosintéticamente activa que es el par está afectada por una
+fracción que es realmente la absorbida la la interceptada por las plantas todos
+estos cada uno de estos puntos de la ecuación está afectado por un montón de
+factores desde climáticos este tipo de cultivo estado fenológico la posición
+geográfica el estado hídrico que hace muy complicado la estimación correcta de
+la producción primaria lista o sea desde la llave de la posición geográfica por
+ejemplo de no es lo mismo estar en el Ecuador que eh a la altitud de Buenos
+Aires porque en el Ecuador los días duran 12 horas acá duran más tiempo
+Entonces tenemos mayor cantidad de radiación a lo largo del día sin los días
+son en verano si es en invierno tenemos menos Entonces la proximidad geográfica
+ya incide y modifican condiciones climáticas modifican estados fenológicos las
+hojas se induce escondidas cortos o con días largos eso cambia la estructura
+del canopeo que influyen en la fracción de radiación interceptada por las
+plantas el estadio hoy hídrico también está determinado por las condiciones
+climáticas que incluyen Cómo es inter el tipo de cultivo influye en en cómo es
+esa radiación transformada en en gramos de carbono entonces eh Hay un montón de
+interrelaciones difíciles de predecir Cómo se dice se hizo hay distintos
+métodos un método directo la estimación de la producción primaria neta por
+ejemplo en la eficiencia en el uso de la radiación se puede hacer mediante
+equipamientos muy complejos y costosos por ejemplo uno que mide el intercambio
+de carbono que es la torre de Eric cobayas que en realidad Está midiendo flujos
+de dióxido de carbono en un ambiente determinado y piensa que está Torre sale
+desde 50.000 hasta 200.000 dólares una torre es muy precisa pero muy caro
+Entonces es difícil de implementar la fracción de de la radiación
+fotosintéticamente activa los métodos directos es ir a cosechar manualmente
+cuánto produce vegetal que es engorroso y costoso determinar El par depende de
+la cantidad de disponer de datos climáticos para hacerlo eso son los métodos
+directos después los métodos indirectos en la mayoría se basan en estimar el
+rendimiento basados en modelo de detección donde entran a jugar con relaciones
+con índice de vegetación por ejemplo en ndvi o lb dónde está un poco más
+corregido en edevi por efecto del suelo pero continúa requiriendo la
+integración de datos adicionales como información climática y modelo de ajuste
+específico el cultivo O sea si esto lo encontré que tiene relación pero es para
+el alfa este lo encontré Sí pero es para soja Esto entonces acá tenemos que
+ajustar cada modelo a un determinado lugar y no es replicable con él en él no
+es generalizable Entonces se presenta un problema esto presenta un problema
+importante la necesidad de contar con un modelo para acá el corregimiento que
+tenga una precisión similar al de los métodos directos para el cálculo de
+producción primaria neta por ejemplo el de la torre de Elias que la metodología
+de las mediciones sea simple y replicable que sea aplicable a diversas
+condiciones de cultivo ubicación geográfica condiciones climáticas suelos
+distintos Y entonces se nos ocurrió una solución a esto que es el reemplazar en
+la ecuación de monkeys eh los valores de rendimiento que están explicando el
+rendimiento o eficiencia de la radiación eficiencia del uso de radiación El par
+la fracción de Par por índices biofísicos espectrales registrados por la
+plataforma modis que ahora Juan va a pasar a aclarar en detalle Gracias Guille
+se me escucha Sí bueno Sí bueno cabe aclarar que Eh Esto está esta ocurrencia
+nuestra no está digamos eso ya se ha comprobado que estos diferentes variables
+que que son que son las variables de de la del cálculo de la producción
+primaria neta eh pueden ser reemplazados con bastante confianza eh dos
+intereses biofísicos espectrales entonces bueno tenemos la tenemos los
+productos de de modis de de la expedición modis que es un son dos satélites de
+raya en este caso utilizaríamos los productos de a de Terra que si bien tiene
+una escala espacial bastante gruesa eh tiene muy buena escala temporal en
+verdad eh se tiene imágenes de diarias Pero ellos preparan productos cada 8
+días Eh Eh Eh para para algunos algunas mediciones para Evi por ejemplo cada 16
+días pero son son productos muy confiables eh porque cada 8 días Eh Porque si
+bien Tenés una imagen diaria eh No siempre tenés la imagen eh No por por el
+tema de de de de de las nubes no eh Por eso hacen compactos de 8 días con las
+mejores imágenes No no vamos a a decir Bueno cómo se calculan los los índices
+eh eh No son de regreso por un tema de de de de de de tiempo pero Bueno
+finalmente el objetivo es desarrollar un modelo predictivo de aprendizaje
+profundo eh ajustado a técnicas avanzadas de Inteligencia artificial para
+estimar el rendimiento de cultivos de soja antes de la cosecha Eh entonces
+tendríamos variables de entrada que son las curvas de índices biofísicos
+espectrales acá vemos por ejemplo las curvas de Evi de modi estos estos famosos
+espaguetis que también se le llama que cada uno en este caso cada cada curva es
+un punto eh en el lote un píxel en el lote Por así decirlo y las variables de
+salida serían Los rendimientos Reales de monitores de Cosecha con esto
+entrenamiento un un modelo eh para lo cual luego eh metemos datos y el modelo
+debería estimar predecir un rendimiento la metodología teníamos un esquema
+súper complejo de todos los pasos que habíamos hecho de De todas formas también
+los estamos ahora acomodando esos pasos eh Porque también cabe decir que este
+trabajo Fue nuestro trabajo final eh para para el el posgrado de de
+teledetección que por cierto nunca nunca presentamos eh Perdón Julieta Pero
+nunca lo he presentado eh Porque no lo escribimos pero está prácticamente hecho
+eh Y bueno entonces los pasos que seguimos eh fueron utilizar eh monitores de
+rendimiento eh Guillermo tiene más de 10 años de monitores de rendimiento
+limpios con con con con con valor de de cosecha de rendimiento real eh por lote
+y bueno Y eso La idea es eh utilizar estas imágenes modis que son píxeles
+grandes Cómo se puede ver para luego marcar los los centros de estos píxeles
+los centroides y generar zonas de información con un buffer de de un un tercio
+del del Pixel modis para tener digamos píxeles puros y tomar todos los valores
+de rendimiento eh Y lo que hicimos nosotros fue promediar eh los los puntos de
+rendimiento de los monitores que caían dentro de esa superficie eh luego está
+la discusión si en verdad eh eh de promediar no perder esos datos Y para una
+para una Inteligencia artificial eh volcar esos datos más crudos no que quizás
+eh contienen información en sí mismo que podrían mejorar mucho el modelo bueno
+acá estamos el tema eh sería un modelo de aprendizaje profundo eh que va a
+relacionar las variables de entrada y las de salida para predecir el
+rendimiento entonces Bueno como ya dijimos la las variables de entrada son las
+curvas de los índices biofísicos eh Y eh la variable de salida es el
+rendimiento los el resultado esperados bueno el resultado principal Por
+supuesto que es el el rendimiento Pero hay otros aspectos secundarios que nos
+interesan mucho por ejemplo eh la Eh Eh Eh Eh Eh Eh ver si se pueden para cada
+cultivo en este caso sería soja pero también tenemos datos de maíz y de trigo
+eh si podemos identificar si el sistema el modelo puede aprender dónde están
+dónde están los los periodos críticos por ejemplo no eso sería una un aspecto
+muy importante y el otro es bueno eh eh comprender o ver hasta qué punto hacia
+atrás podemos eh estimar con con certeza o con con con con confianza eh el
+rendimiento Porque nada de nada sirve que a a 5 días de la cosecha eh estima el
+rendimiento sí ayuda sirve porque todavía no no levantaste La cosecha pero
+Cuánto cuánto con mayor anticipación puedas tener ese dato más se puede
+utilizar y más ventajas presenta bueno eso sería todo muchas gracias Bueno
+buenísimo el trabajo la verdad eh De verdad está muy bien eh Me parece que está
+bastante claro donde el modelo de Inteligencia artificial puede puede aportar
+valor que justamente tiene que ver en la predicción Y sí está muy bien muy
+valioso eso bueno así que tiene más valor el tema del rendimiento cuanto antes
+y cuánto 24 antes lo que pasa es estimar más ruido vas a tener pero sí Y además
+Bueno también se veía que que es la verdad no tengo mucho más para preguntar si
+no vas a hacer una apreciación sobre que entre el trabajo este final que hacen
+con que hicieron con la representación entre elección eh si a eso le suman esta
+parte de la predicción Me parece que que puede ser algo realmente muy valioso
+muy bueno sí a con gusto con gusto publicaremos algo interesante no no Bueno
+nada simplemente verde como continuar con esto no que me parece que está bueno
+y no hay que dejarlo que quede en la nada buenísimo Muchas gracias así que bien
+quedamos en contacto así Esa es la idea Sí sí Bueno felicitaciones de mi parte
+nada No mucho más para agregarlo Muchas gracias continúa Laura si quieres te
+presento un minuto bueno Vámonos la idea que yo decidí es automatizar un
+invernadero de cannabis con el uso de Inteligencia artificial de internet de
+las cosas pasamos a la siguiente el contexto y como saben eh Cannabis sativa es
+la planta o la especie herbácea es una planta anual dioica que se han detectado
+aproximadamente 500 compuestos como detalle ahí también ha tenido un gran
+avance médico para tratar algunas enfermedades ser Alzheimer epilepsia y entre
+otras la producción de cannabis actualmente en Argentina está teniendo un gran
+avance significativo gracias a las leyes y al fortalecimiento de las de las
+nuevas tecnologías las problemáticas que Esto va a ser el punto donde vamos a
+buscar una solución para eh usando la automatización por lo que vemos las
+condiciones ambientales es un invernadero también vemos Los costos operativos
+tanto de luz de agua y de fertilizantes También tenemos en cuenta que es una
+planta que tiende eh Cómo es aparición de hongos o de otras enfermedades como
+la arañuela roja también hay que tener en cuenta y lo que más más afecta que
+son los digamos eh los terpenos el tetrarca navideo y cannabidiol que eso es lo
+más importante de la planta Acá está el objetivo y la implementación el uso de
+monitoreo en tiempo real para sacar los datos con los nodos vamos a lograr que
+vayan a un a un a la nube O sea a la plataforma Lora que es el getaway que
+decidí también para bajar los gastos y automatizar los sistemas tanto de riego
+ventilación según dependiendo de la etapa del cultivo tener en cuenta un modelo
+de Machine learning para detectar los patrones por ejemplo también con el uso
+de cámaras y visualizaciones plantear como las enfermedades eh van a hacer
+propensas en las hojas eso nos hace hervir para eh Y ahí teniendo en cuenta las
+decisiones inteligentes y fomentar la sostenibilidad y disponibilidad eléctrica
+disminuyendo el impacto ambiental hay que acordarse Que eso genera una impacto
+ambiental negativo por el uso de luz artificial acá están los componentes como
+decía tenemos la recolección de datos visuales y para medir las variables
+ambientales como dije eh voy a usar Dora que es para recibir los datos de los
+nodos y transmitirlos a las nubes a la nube en la plataforma central que van a
+llevar un registro histórico automatización mediante algoritmos de Machine
+learning para análisis predictivo y automatización interfaz del usuario que se
+puede ir mirando por la por la computadora o por el teléfono para ver los
+estadios de la planta y el consumo de agua y otros nutrientes y alertas
+inteligentes también saber ante los cambios de condiciones climáticas y
+necesidades de cultivo y detección de plagas de vuelta lo mismo como dije eh
+ahí serían los sensores iot también los actuadores y los controladores que ahí
+usarían raspberry Pi y como decía el get away voy a usar el Dora que gracias a
+los a los datos de los nodos ahí llega por el largo alcance que tiene y la
+ventaja es que va a ser más barato que una red wi-fi y también el alcance de la
+misma la plataforma Cloud o nube que almacena los datos y ejecuta los modelos
+de predicción y la interfaz del usuario que ahí podemos ver mediante dashboards
+y los datos bueno los beneficios ahí vemos el aumento del rendimiento de la
+cantidad y de la calidad por ejemplo cómo mejoramos el microclima el uso
+eficiente de los recursos Como por ejemplo el ahorro de agua el monitor y el
+control remoto que eso también puede ser para reducir la mano de obra y los
+errores humanos y también la trazabilidad mediante un registro digital la
+conclusión gracias a la integración de los sensores y los sistemas de riegos
+automáticos y modelos predictivos es posible reducir los recursos aumentar la
+productividad y garantizar mayor calidad de producto también como como decía
+está eh También disminuir el impacto de la luz o sea de y también tener en
+cuenta que la planta es muy sensible y puede haber riesgos a las quemaduras
+según la etapa del cultivo además también es de acceso remoto y permite ir
+gestionando en tiempo real Y lograr una agricultura más eficiente y tener más
+impulso eh la innovación tecnológica que es un cultivo tecnológicamente
+avanzado eh ir abriendo nuevas posibilidades para el desarrollo industrial y
+para la exportación en mercados regulados Cómo se sabe eh eh Cannabis sativa es
+usado para por ejemplo también productos de belleza como también yo quiero eh
+más que todo para para la parte de de Medicina como veía la otra vez documental
+para epilepsia refractaria Y eso sería todo bueno Laura Buena muy buena
+presentación Un detallito te quedó en el modo de presentador y se veía como al
+costado Pero bueno ahora viendo la presentación habíamos dejado algunos
+comentarios eh con Ariel quedó muy clara la propuesta tienen pensado esto
+implementarlo y yo creería que sí lo quisieras implementar en algún lado eh a
+futuro sea para cultivo de cannabis o sea para otro cultivo para ir reduciendo
+gastos por ejemplo en una invernadero en realidad la parte mía es más que todo
+eh doy bootcamps en Go farming para la parte de agricultura de precisión para
+digamos el uso inicial de los softwares Libres bien muy interesante bueno de mi
+parte Gracias por la presentación No gracias a ustedes y cómo es me quiero
+seguir especializando en la parte de Inteligencia artificial todo lo que sería
+eh computer Vision escribinos escribínos y y te damos las las opciones que
+tenés Dale diplomatura como para empezar o o la especialización bueno Muchas
+gracias No gracias a ustedes Bueno quién continúa después de Laura Verónica
+cómo estás ahí comparto Bueno les cuento no sé si están viendo ya me mi
+pantalla está idea eh En realidad es parte de un proyecto bastante más grande
+que tiene que ver No está bien ahora está en modo presentación en realidad eh
+como ustedes ven este este trabajo final se basa en la estimación o tiene como
+objetivo la estimación de la humedad del suelo con sensores remotos ehm en
+realidad como les decía es parte de un proyecto más grande y que bueno que eh a
+lo largo de todo el día y escuchando todas las presentaciones eh me imagino y
+aparte justifico el trabajo porque Bueno tanto como María Paula de de junín a
+Martín con el tema de la NASA o inclusive Juan y Guillermo que están estimando
+rendimiento de soja todo eso está un poco digamos asociado a este proyecto del
+cual es parte este trabajo en particular que es un proyecto regional a nivel de
+toda la provincia de Santa Fe que está en marcha y que pretende producir
+información periódica de varios de varias digamos cuestiones que tienen que ver
+porque a la ayuda de la toma de decisiones de diferentes actores de la
+provincia no quise hacerlo tan complejo porque se me se me iba un poco de las
+manos pero también tenía que ver con con la cuestión de pluviómetros
+distribuidos en toda la provincia o sensores de profundidad de la Napa Pero
+bueno me centré en este tema de la humedad del suelo que es una de las capas de
+este sistema de información y ehm que en realidad como bien Me comentaron los
+profesores eh es el objetivo general en realidad Está mal planteado eh el
+objetivo es estimar la humedad del suelo pero eh digamos hice foco en
+desarrollar un sistema de información digamos Inteligencia artificial para ser
+más eficiente el uso de o digamos la búsqueda de imágenes satelitales porque
+Bueno me basé un poco en algo que me quedó bastante claro de del curso que en
+realidad estás herramientas las tenemos que usar para aquellos que no podemos
+hacer de la manera tradicional o que mejore Esa esa digamos esa actividad y
+justamente en el tema Yo trabajo con Google adsense y se me ocurrió que eh este
+tema de de la gran cantidad de imágenes de distintas plataformas satelitales y
+con distintas longitudes de onda que cubre y demás podía ser eh algo que que
+ayude a ser más eficiente este uso entrenar a la Inteligencia artificial para
+esta parte del proceso Pero bueno cómo cómo les decían rapidito no no no no no
+voy a detener demasiado en cuál es el planteó del problema aparte quedó
+bastante claro como les decía en otras presentaciones como la de como la de
+María Paula esta mañana temprano eh el tema de la humedad del suelo es muy
+importante para un montón de de cuestiones a nivel tanto de la producción como
+de la investigación y los métodos que que tenemos tradicionales para medirlas
+son bastante engorrosos y caros y si se quiere decir eh Por el tema inclusive
+de de de la cantidad de muestras que hay que tomar entonces bueno mi búsqueda
+es encontrar una herramienta que nos permita Tener información de la humedad
+del suelo a nivel de toda la provincia o de regiones más grandes que que lo que
+puede ser por ahí un un establecimiento agropecuario dónde es común que se
+tomen datos de de humedad del suelo in situ y que además tengamos una escala eh
+bastante buena en cuanto al tamaño del Pixel porque como ya muchos de Ustedes
+deben saber hay varios productos de humedad del suelo que tienen como origen eh
+digamos información satelital pero que bueno que son escalas muy regional la
+propuesta Entonces no no hacerlo muy largo es justamente como les decía que hay
+una gran oferta de imagen y de diferentes plataformas e inclusive no solo de
+imágenes sino ya de productos pre procesados y de índices que están disponibles
+eh Y bueno lo que propongo lo que me gustaría poder eh diseñar eh digamos
+elaborar es Es un modelo de Inteligencia artificial que dado un conjunto de
+datos de Campos referenciados en el suelo que bueno tenemos tenemos no sé si el
+volumen de datos sea suficiente pero em Yo vengo midiendo en la cuenca del Río
+carcarañá desde hace unos cuantos años en varios momentos en 8 puntos
+geográficos de la Cuenca por ejemplo eh datos de humedad del suelo por el
+método gravimétrico que es el más tradicional entonces bueno dado este conjunto
+de datos eh diseñar y entrenar un modelo de Inteligencia artificial que eh nos
+ayude a identificar aquellas imágenes que maximicen eh la la precisión en la
+estimación de este de este parámetro del suelo luego una vez detectadas Estas
+imágenes entrenar varios modelos de clasificación para obtener justamente eh la
+estimación y seleccionar el que él o los modelos que mejor personas tengan una
+de los comentarios que me hacían los profesores era justamente que inclusive Se
+podrían combinar entre sí Y como como digamos eh propuesta final por supuesto
+tener mapas de humedad de suelo de de momentos críticos para la toma de
+decisiones simplemente y bueno no entré en más detalles por falta de tiempo y
+quizás también de conocimiento sobre estrictamente cada paso que habría que
+seguir y las herramientas de la Inteligencia artificial o sea las herramientas
+para entregar la Inteligencia artificial pero entiendo que sería en en un
+primer paso entrenar el modelo eh Acá hay una de las otras de las correcciones
+que me preguntaban los profesores Por qué verdad de terreno Bueno si es un una
+costumbre que tenemos de llamar verdad de campo a los datos a los datos tomados
+in situ eh clasificar por tipo de suelo eh podría ser digamos el el tema de la
+humedad porque por supuesto tenemos diferencias diferentes parámetros que que
+influyen en la humedad del suelo aplicación de algoritmos de clasificación de
+imágenes y validación con mediciones de cambio los resultados esperados bueno
+contar con el modelo que nos selecciona automáticamente las mejores imágenes
+mejorar la precisión de los modelos de estimación de humedad contar con un
+proceso automatizado que obtuviste la selección de imágenes reduciendo sobre
+todo costos y tiempos de procesamiento la escalabilidad tiene que ver con que
+me imagino eh que sería una vez que uno tuviera este este procedimiento de
+entrenamiento se podría aplicar a otras soluciones eh Como por ejemplo la
+identificación de coberturas del suelo por ejemplo detectar diferentes cultivos
+em inclusive este también a otros parámetros del suelo y bueno Y como como
+grandes aportes bueno caracterizar la dinámica espacio-temporal por ejemplo en
+este caso particular en la región sur de la provincia de Santa Fe en principio
+pero la idea sería poder escalarlo a a toda la provincia Y obtener mapas
+regionales de de humedad del suelo en momentos críticos para la actividad
+agropecuaria que contribuyan a mejorar a mejorar la la toma de decisiones y
+como les decía Eh Esto de Me entusiasmo del del kínder de la Inteligencia
+artificial porque realmente eh ahí la propuesta que presentó María Paula Me
+encantó porque justamente es lo que nosotros consideramos que que hay que
+integrar inclusive también con lo de Martín Lucero creo que era eh el tema de
+la Napa y las lluvias y la humedad del suelo son parámetros que que digamos eh
+potencialmente todos juntos nos pueden producir muchísima información y es muy
+demandado a nivel regional nada más Muchas gracias Bueno muy bien buenísimo la
+verdad me parece que está muy bueno también que hayas podido eh relacionar tu
+tu trabajo con las digamos necesidades de otros sí Néstor debe haber sido un
+aplauso que salió como mano esa bien Bueno nada y tengo una pequeña preguntita
+nada más para antes de continuar que tiene que ver cuántas qué imágenes eh
+tenés en mente humana no soy capaz no tenés ningún momento qué conjunto qué
+tamaño tiene el conjunto de imágenes digamos que queden así nosotros
+básicamente ya estamos trabajando con sentimientos y y tenés un gran volumen eh
+o sea primero la cantidad de bandas además eh a los 5 días en algunos lugares
+entonces Tenés una variedad temporal pero después también está lanza y también
+hay ahí están las imágenes de radar que también es todo otro mundo para el tema
+de la humedad del suelo Pero bueno ya hay productos desarrollados con imágenes
+de pagar lo único que bueno tienen terminan en el producto final con un píxel
+muy grande entonces eh Por ahí es útil a nivel por ejemplo a nivel país pero
+cuando vos lo querés aproximar o sea lo que pasa es que claro a un lote o a un
+Distrito o un departamento por ahí es muy grande entonces bueno es ambicioso
+pero como ya les digo nosotros tenemos inclusive asociado a esto tenemos casi
+200 km distribuidos en toda la provincia que también se podría pensar en alguna
+cuestión de integración de ayotl la medición de la Napa cantidad de estaciones
+meteorológicas que que están a las vueltas y bueno digamos mi mi cabeza está
+muy muy orientada a la cuestión muy Regional de grande de gran cantidad de
+hectáreas en la provincia de 7750.000 km o sea digo a ver es muy diferente lo
+que han presentado muchos que se refiere a nivel de de lote o de
+establecimiento que bueno entiendo tiene otra complejidad pero por ahí es muy
+diferente más lo único un comentario extra que a veces No necesariamente sea
+seleccionar tal imagen cuál imagen sino que quizás combinarlas aprovechar toda
+la información que tenemos para tratar de estimar la variable en este caso
+humedad pero la variable que sea por los comentarios que ustedes me hicieron
+digo bueno Eh busco yo un set de imágenes por grande que sea y ahí sí
+entrenamos en un modelo que que nos permite identificar con cuál se funcionaría
+mejor pero bueno me quedo con un montón de nombres a quienes por ahí contactar
+así que bueno Muchas gracias y la verdad que estuvo muy bueno me alegro gracias
+por el la devolución Bueno muy bien Ahora le damos lugar entonces a María Luz
+Hola cómo andan buenas tardes Cómo compartir pantalla Sí se ve no sé si lo
+quieres es modo presentación muy bien Bueno yo soy María alexanders Soy
+ingeniera agrónoma trabajo como asesora y también para una empresa que
+desarrolla soluciones tecnológicas en la comunicación para empresas como
+agronomía cooperativas o distribuidoras que tengan que ver con el arte bueno el
+proyecto que hoy voy a hablar Que que desarrolle o que pensé eh tiene que ver
+con algunas experiencias que tuve yo a campo y además que en un período que
+trabajé en una agronomía me di cuenta que no solamente me pasaba a mí sino que
+por ahí era bastante común Eh bueno como dice el título Pensé en una solución
+integrada para la mejora de la eficiencia y la reducción de riesgo en la mezcla
+de agroquímico como ahora voy a plantear la verdad que abarca varios focos el
+planteó se me ocurrió en un contexto donde la agricultura moderna cada vez
+demanda mayor eficiencia no solamente eh Porque por un tema de costos y y
+cuidar digamos el bolsillo del productor sino también por el impacto ambiental
+que muchas veces generamos empecé a observar es que ocurrían un par de cosas en
+primer lugar las órdenes que los agrónomos por ahí respetamos no especificamos
+eh el orden de mezcla y muchas veces que esto por ahí hemos compartido la
+experiencia con algunos productores hemos visto que hemos utilizado productos
+que no nos dan el resultado que esperamos o tenemos controles parciales o te eh
+controla por por parches hay parches que por ahí No sé no se controla otros se
+controla parcialmente y muchas veces lo que se tiende a pensar es eh que te lo
+adjudica la resistencia de la resistencia sí existe es real pero no siempre la
+falta de control de de ciertas plagas se adjudica a la resistencia por ahí nos
+estamos olvidando eh de otros pasos previos que pueden llevar a que no haya un
+buen control Al momento de hacer la aplicación desde que se arma la dosis hasta
+el operario que carga que carga los productos en la pulverizadora fuera Puede
+ocurrir ciertos errores eh de la mano del humano que puede llevar a que eh la
+aplicación del producto no sea eficiente sumado a esto también pensé en otros
+problemas Como por ejemplo una dosificación incorrecta No sé si pasa en otros
+lugares pero acá en mi zona ha ocurrido muchas veces que hay robo de productos
+entonces también eh lo que finalmente aplica o lo que cree que aplica el
+productor no es lo que finalmente eh está aplicando después también hay un
+desconocimiento de la compatibilidad no siempre se conoce la compatibilidad o o
+inclusive el operario no siempre tiene porqué saber cuál es el orden correcto
+de aplicación de productos y ni hablar que hay un riesgo de manipulación que
+puede ser peligroso para el operario entonces en lo que yo pensé para un equipo
+que pueda resolver todas estas cuestiones Pensé en una guía inteligente que
+donde se pueda cargar el orden de mezcla y que ahí eh te pueda determinar si
+los productos que vos estás utilizando son o no compatibles Y a partir de un
+Cómo es a partir de un equipo eh poder hacer una evaluación de la
+compatibilidad a nivel Macro en el proyecto ya había planteado también hacerlo
+a nivel micro pero después también pensé que por ahí es demasiado sofisticado y
+por ahí o el operario o inclusive el productor no está listo para hacer este
+tipo de análisis inclusive no sé si yo como agrónomo estoy lista pero bueno
+también pensé en que sea automatizada esa carga de de los productos hacia la
+pulverizadora eh Para evitar el robo y también para la seguridad del operario
+bueno como lo pensé en primer lugar Pensé en desarrollar una aplicación en
+donde el productor o el operario pueda cargar eh la receta eh agronómica en
+dentro de una base de datos internas que tendría esta aplicación eh podría
+determinar cuál sería el orden que debería aplicar la mezcla digamos de
+productos y además si Existe alguna incompatibilidad entonces dar un un sistema
+de alerta para dar aviso de que hay una posible incompatibilidad o no entre las
+mezclas que se están aplicando ahí bueno eh inclusive por ahí eh dentro de esta
+app se podría generar un historial de este establecimiento y ese lote y también
+uno Podría tener un registro de qué insumos fue utilizando Y con esa
+información poder evaluar si fue eficaz si no fue eficaz o por ejemplo no
+repetir eh vivos en un mismo lote de manera recurrente para así evitar posibles
+resistencias bueno esta prueba de compatibilidad escala automatizada eh lo
+pensé en el caso por ejemplo que se desconozca la mezcla de dos productos con
+distintos principios activos hoy sabemos que existen un montón de agroquímicos
+con un montón de principios activos y no siempre se conoce todas las
+compatibilidades y para evitar esa prueba por ahí que se hace escala de manera
+manual eh vente que existe un brazo que tome las muestras de los bidones
+directamente a este equipo y que tenga como una una cámara Macro para para
+poder ver eh si hay cortes o si se ven algún precipitado o algo que me esté
+sugiriendo que esa mezcla no es compatible esto se podría evitar o sea se
+podría saltear esta etapa en caso de que Eh ya la la aplicación me está
+diciendo que eh la combinación de productos que yo voy a hacer está Okay bueno
+Esto lo expliqué en la filmina anterior con el mismo equipo eh para evitar la
+manipulación por parte del operario conectaría un brazo a los bidones y otro
+brazo directamente una Boquilla que vaya en la pulverizadora Y esa carga
+tendría un medidor o un sensor tanto del flujo como de la densidad para que sea
+correlativo lo que cargue en la aplicación como productos y lo que finalmente
+se cargó como que tiene que marchar la cantidad de fluido que pasa con esa
+densidad con lo que se especificó en en la aplicación entonces de esta manera
+podríamos asegurar que lo que estamos aplicando es lo que se está aplicando y
+en la dosis correcta después Pensé que esto no sé si es posible o no en algún
+sistema de Cómo decirlo de que existe una conexión como un circuito cerrado que
+no se puede ni mover ni modificar para que no se conecte a otro a otro a otro
+lado y que se pueda cambiar también o hacer una adulteración de las cosas bueno
+que también tengo un sistema de lavado de iones además de la succión y la
+descarga que puede hacer un lavado de bidones todo esto para evitar el contacto
+del operario con los químicos que pueden ser tóxicos y que esto esté todo
+integrado la máquina con la aplicación para que pueda haber un registro de todo
+lo que ha ocurrido cualquiera La alerta que que salga o si se completó
+finalmente la carga Cómo se completó eh para que quede también el registro del
+almacenamiento de la información bueno Acá más o menos guste cómo sería eh Por
+lo que Estuvimos viendo en la inteligencia el internet de las cosas cómo serían
+no sé si es importante decirlo pero bueno eh lo lo puso en la diapositiva y lo
+que se espera con este proyecto es tener una mayor precisión en la dosificación
+y reducir los errores por ahí por la intervención del hombre prevenir
+incompatibilidades eh Por ejemplo yo sé que hay lo que he visto es que por
+ejemplo se mezcla mucho el glifosato al potásico con el 24 de aminas que creo
+que lo hacemos mucho Y estos productos no son compatibles reducen eh el
+porcentaje de principio activo que finalmente actúa Eh bueno también obviamente
+mayor seguridad en el operario registros que a partir de los registros de la
+información uno puede por ahí eh llegar a conclusiones más certeras o encontrar
+posibles eh errores o o ineficiencias al momento de aplicación Eh bueno aumento
+de la eficiencia descubrimiento de incompatibilidades Eh bueno y detección de
+fraude robo que es el fin con el cual también eh desde el proyecto así que
+bueno Esto no solamente contribuiría a ser más eficiente eh a cuidar el
+bolsillo del productor sino también hacer conscientes con el con el ambiente
+porque he visto También muchas veces que con estos problemas de no poder
+controlar un un una determinada molesta o una determinada plaga que empieza a
+hacer un un uso desmedido de dosis y cantidad de productos para lograr tener
+una un control así que bueno eso es lo que lo que planteó bueno bueno muy buena
+la presentación súper Clara felicitaciones bueno con Ariel ya te habíamos hecho
+la la devolución nos pareció muy bueno el trabajo aparte es una temática
+superimportante y más teniendo en cuenta que estas mezclas pueden ser un
+desastre pueden ser peligrosas no así que nos gustó mucho la propuesta ya
+tenías conocimientos vos de internet de las cosas y Inteligencia artificial No
+la verdad que no pero bueno trabajo con un con una empresa que se llama
+dinamics que si bien no es eh dedicada al agrocampo y se dedica a la parte
+comercial y utilizan este tipo de tecnología para solución en la comunicación y
+bueno algunas cosas de fondo conozco No mucho pero conozco bien bien porque se
+notó la propuesta que que tenías conocimiento o sea más allá de lo que que
+pueden haber aprendido en las horas que vivimos con Fede de clases Así que
+felicitaciones me aclararon muchísimas cosas igual que por ahí vos en el día a
+día las escuchas pero no las terminas de concretar así que me ayudaron un
+montón a cerrar un montón de ideas Eh bueno no creo que la segunda clase fue
+fue muy buena para mí y bueno me alegro Bueno gracias con Ana y Natanael Hola
+buenas tardes buenas tardes pueden ver la presentación Sí perfecto Sí bueno
+Nosotros somos el segundo grupo de Ignacio que hoy a la mañana Pedro explicó
+muy bien de qué se trataba el Instituto Nacional de semillas eh nosotros
+trabajamos yo soy Ana Julia bias y trabajé junto con Natanael Ponce Los dos
+somos ingenieros agrónomos y en el inase participamos en tareas vinculadas a la
+fiscalización y el control de calidad de las semillas entonces eh la propuesta
+que vamos a compartirles está enfocada en el uso de imágenes para apoyar la
+determinación de La pureza varietal bueno la fiscalización de semillas tiene
+como objetivo asegurar que el productor reciba semillas con identidad y calidad
+verificada eh esta tarea de fiscalización eh las heridas hace de manera oficial
+y la realiza a través de inspectores propios de linaje o técnicos privados que
+son acreditados para realizar esta tarea de fiscalización uno de los aspectos
+claves de la fiscalización es La pureza varietal y está pureza varietal lo que
+indica es el grado de homogeneidad genética dentro de un lote lo que garantiza
+que el cultivo pertenece realmente a una misma variedad además Eh bueno que
+cultivar tenga alta protégelo la propiedad intelectual de las creaciones
+filogenéticas en cuanto al problema Bueno lo la metodología tradicional
+mediante la cual se hace la fiscalización se basa en la observación directa en
+el campo un inspector recorrer lote evalúa visualmente si las plantas
+corresponden a la variedad declarada este método es subjetivo porque bueno
+depende de del ojo humano y de la experiencia individual de cada Inspector
+entonces puede suceder que los inspectores tengan apreciaciones tal vez
+distintas sobre un mismo lote es un proceso que lleva tiempo demanda personal
+capacitado y bueno todo el tema de los traslados los viáticos entonces eh
+creemos que incorporar herramientas con tecnología puede ayudar a optimizar el
+uso de recursos y hacer más preciso el control y también ampliar el alcance hoy
+eh se fiscaliza un porcentaje bajo de los lotes y nuestra propuesta Entonces
+busca eh una solución más precisa eh eficiente y escalable eh utilizando
+Inteligencia artificial Entonces nos propusimos tres objetivos uno detectar la
+homogeneidad de la variedad de lote dos confirmar o desestimar la variedad
+declarada de un lote y tres determinar La pureza de la variedad cultivada a
+través del análisis de imágenes que ahora Nata les va a contar cómo haríamos
+esas imágenes hola soy Natanael Ponce ingeniero agrónomo de hoy el Instituto
+Nacional de semilla mañana no sé yo lo voy a contar un poco de las etapas del
+proceso de aplicación de Inteligencia artificial que elegimos para resolver
+este problema que planteamos en primera instancia la adquisición de imágenes
+tomadas con dron elegimos el dron eh principalmente por la alta resolución Pero
+además también por la capacidad de capturar imágenes en momentos claves del
+ciclo que tienen que ver con los momentos que normalmente se fiscaliza los
+lotes que son la floración y la senescencia es importante destacar que
+trabajamos sobre lotes de variedades con entidades confirmada Estos son lotes
+de alta pureza y de alta alta confianza que que se tiene que son desarrollados
+tanto por por Ignacio como inta y otros organismos que que son participantes
+algunos ejemplos o puntualmente los que he trabajado yo son la red o red de
+ensayos de trigo y la colección de referencia de variedades de soja cada cual
+tiene su particularidad eh Por cuestiones de especie pero eh todas cumplen con
+la identidad marital confirmada Además de que tienen la las variedades actuales
+o que andan en en el territorio y además otra ventaja es el último ítem como
+dice que es la plasticidad de las variedades que eh A través de estas redes se
+se ponen en distintos puntos geográficos de la del territorio lo que hace que
+tengamos datos de varios lugares y así podamos contemplar las variaciones de
+clima y de suelo acá un poco a modo de ejemplo eh lo que les contaba un poco
+Ana hacia la izquierda tienen inspectores que están intentando determinar La
+pureza esto es en la red de de trigos donde cada una de estas parcelitas
+representa una variedad distinta a la derecha tienen una foto más panorámica
+dónde se se nota que la cantidad de variedades que tenemos en un mismo punto
+Por lo cual le da otra importancia también a la red de ensayos eh además eh
+Como particular de este del ensayo de trigo se hacen repeticiones dentro de ese
+mismo ensayo se repiten tanto en distintas fechas como en distintas posiciones
+del lote eso también hace a la plasticidad y le da más cantidad de datos a a
+las imágenes que queremos proponer sí otro acá un poco lo que se trabaja en
+colecciones de de soja eh un poco lo que se quería era contrastar Cómo se
+trabajaba si notan la la foto de la derecha eh es un poco de menor calidad
+porque tiene que ver con la altura que se tomó esta imagen porque se trata de
+muchísimas más variedades que en el caso de trigo acá No hay repeticiones y acá
+estamos hablando de cerca de 900 variedades cuando en trigo se trabajan
+aproximadamente 120 como máximo y un poco en la en la foto de la izquierda eh
+algo que vamos a tener que hablar después en el procesamiento de imágenes pero
+no quería dejar de notar que si ven todos los surcos están parejos excepto uno
+que está casi en el centro al principio que bueno son cosas que nosotros
+después mejoramos en el procesamiento de imágenes dentro de las pautas de
+procesamiento eh se etiquetan cada una de esas de esas imágenes La idea es
+sacar eh foto por foto de cada una de esas parcelas y cada una va a tener un
+nombre así también Contamos que no sé si yo sé que dentro de ese de ese ensayo
+había 200 variedades voy a tener que tener 200 fotos cualquier duplicación o
+faltante eh va a ver que corregir bueno como les decía eh vamos a tener fotos
+de distintos lugares y eh posiblemente dentro del mismo del mismo punto
+geográfico tengamos varias fotos de la misma variedad entonces todo eso después
+se agrupan por la misma variedad iguales Y por último se desglosa a unidad de
+Pixel para ampliar la cantidad de datos esto es no sólo por la cantidad de
+datos sino también esas manchas que le que les mostraba eh No queremos que se
+procese imágenes donde se ve el suelo desnudo o muchas veces hay malezas o
+demás entonces todo eso se se sacaría bien hablar un poco lo que sería el
+croquis Este es el de él de soja dónde se se muestra cómo se trabajó
+simplemente se arranca de uno de los vértices casi siempre del vértice inferior
+izquierdo Se va hacia la derecha sacando foto por foto se va hacia arriba de
+vuelta hacia la izquierda hacia arriba y así sucesivamente y después las fotos
+tendrán ese orden y cada uno de esos tiene una variedad distinta que nos
+aprecian por el tamaño Pero bueno dices bien Luego pasamos lo que es el
+desarrollo del modelo eh planteamos aplicar un modelo de aprendizaje
+supervisado por las las imágenes etiquetadas como ya habíamos dicho Tenemos una
+gran cantidad de de datos en cuanto a la variabilidad o la plasticidad de la de
+las especies tanto en soja como el trigo la idea sería que formar algoritmo que
+puedan clasificar y superen a la precisión que tiene el ojo humano esto es en
+tiempo y en efectividad de de los humanos tiene más errores bien y bueno la la
+elección del modelo tiene que ver también con el comportamiento de los datos
+priorizamos la precisión pero eh Muchas veces tenemos mezclas parietales las
+cuales tienen que tiene que poder Eh diferenciarlo bueno La idea es que se
+trabaje en complemento con con el inspector no no es una herramienta que lo
+reemplace se puede optimizar recursos en cuanto a los tiempos que que tarde
+para para ver todo un lote eh focalizar las infecciones y detectar
+irregularidades en las etapas más tempranas y no tener que llegar a instancias
+donde ya se avanzó demasiado bueno este este modelo Tiene esta propuesta tiene
+un método de evaluación muy bueno por un lado porque tenemos mantenedores de
+pureza varietal eh todos los años los mantenedores de pulsadores tal tienen la
+tarea la ardua tarea de mantener al 100% de La pureza varietal lo cual nos hace
+que podamos reajustar el modelo volviendo a esa base o generando desde otra vez
+esa base de datos eh lo que sería lo más básico posible y por otro lado cómo
+les contaba Ana el sistema de fiscalización nacional es anual y es obligatorio
+o sea que todos los años tiene que hacerse lo que haría que todos los años
+tendríamos eh datos nuevos de varios puntos del país lo cual amplía la base de
+datos Y eso va a ir entrenando y Ajustando el modelo todo esto construye que
+sea un sistema Dinámico y adaptable que tiende a ser cada vez más preciso y
+sobre todo muy importante es que sea capaz de acompañar a la incorporación de
+nuevas variedades que se van a ir haciendo año tras año en cuanto a los
+resultados esperados es alcanzar una mayor eficiencia en el proceso de
+fiscalización Eh Esto reduciría significativamente los tiempos para identificar
+La pureza varietal de un lote también eh esperamos una mayor precisión ya que
+el modelo podría identificar diferencias morfológicas mínimas que tal vez
+escapan al ojo humano y otro aporte unificación de criterios entre los
+inspectores oficiales que serían los de Ignacio y los técnicos acreditados cómo
+les había comentado antes puede ser que hoy en día la evaluación visual eh
+parye de Córdoba aquí en la realice pero una esta herramienta basada en
+Inteligencia artificial ayudaría a estandarizar esa ese criterio técnico además
+el sistema eh lo que permitirá es construir una base de datos robusta de
+imágenes que no solo van a servir para mejorar el modelo como recién explicaba
+Nata sino que también pueden ser un insumo valioso para investigación por
+ejemplo el mejoramiento genético y finalmente esta herramienta tiene potencial
+de escalabilidad a otros cultivos acá enumeramos tribus hoja pero podrían
+aplicarse a otras especies y a futuro pensamos que se podría generar una
+interfaz de uso simple sin la necesidad de tener conocimientos técnicos tan
+avanzados para poder usarlo como conclusión eh la incorporación de drones junto
+con la Inteligencia artificial en el sistema de fiscalización de semillas es
+una oportunidad concreta para modernizar el sistema donde eh No se trata de
+reemplazar al Inspector sino de complementar la tarea con herramientas que le
+permitan tomar decisiones más informadas más precisas y por lo tanto más
+eficiente y bueno Esto es clave en un contexto donde los recursos humanos y
+logísticos son limitados Pero bueno las exigencias normativas y productivas
+están y hay que cumplirlas y eh este sistema eh nos parece que es más objetivo
+más transparente y y creemos que esta propuesta puede contribuir a a un modelo
+de fiscalización más ágil y tecnológicamente actualizado bueno Muchas gracias
+estamos la verdad Muy bueno el trabajo eh Me parece que está súper bien
+planteado la idea es concreta realizable eh válida desde todo punto de vista en
+algunas cuestiones que me gustaría mencionar que justamente ustedes ustedes
+mencionaron en realidad pero remarcar es esto que en este caso la la elección
+de usar drones no era una elección era ya una cuestión que nos quedaba otra no
+por una imagen satelital acá no tenía ningún tipo de de validez por su
+resolución además por lo otro que mencionaban que muchas veces también es muy
+importante que es el tema de la frecuencia o de poder sacar las imágenes en el
+momento que que requieren Eso me parece genial lo que sí no me queda del todo
+claro es Qué tipo de imágenes sacan que justo Igual Martín galarza estaba
+haciendo una pregunta al respecto de eso en el en el chat si es una imagen
+aérea eh si es una imagen de cerca eso también estaría bueno para comentarlo sí
+En realidad estamos todavía Ajustando el el método porque trabajamos ya te digo
+en trigo y en soja nos encontramos con que eh la diferencia de crono de uno y
+de otro fue Eh abismal entonces por ejemplo para soja trabajamos lo más cerca
+posible en un ángulo de ataque de 45 siempre trabajamos en jpg que es el común
+si intentamos en trigo hacer eh desde orto mosaicos para que pueda tener todos
+los datos y trabajaba con el de no me acuerdo de rb me parece Porque lo hicimos
+el año pasado Ya se me fue Bueno estamos abiertos a probar otras técnicas sí eh
+nos falta también un poco de con todas estas cosas La verdad eh Pero bueno
+estamos probando distintos eh distintos métodos para ver cuál es el que mejor
+representa a cada una de esas parcelas Pero bueno hoy te diría que con soja
+estamos trabajando eh a metro y medio hoy a esta altura de del estadio del
+cultivo que ya estamos para cosecha eh obviamente cuando apenas se sembró
+estábamos trabajando a 30 cm y porque no me permitía bajar más el dron por los
+sensores en trígono se hizo primero eh se tomó programaciones de vuelo que se
+terminó siendo en en orto mosaico para que sea la imagen 3D y se sacaba la las
+imágenes de ahí o sea el Pixel del que hablábamos desde ahí pero también se
+había probado de de trabajar a 5 m 9 m distintas alturas terminamos decidiendo
+que el ortocentro era el más representativo y el mejor con soja no lo pudimos
+aplicar por una cuestión no sé si se acuerdan la foto que pasó Anita todas las
+Varillas Están muy juntas y son muy parecidas entre sí hay que afinar el ojo
+muy de cerca como para darse cuenta apuntamos a que la a que la guía en primera
+instancia tiene que ir para el mismo lado que nosotros después Eh bueno estas
+soluciones que que nosotros nos vemos Que bueno o por lo menos lo que esperamos
+Sí sí ahí va mi otro comentario justo apuntaste hacia ese lado que tiene que
+ver con esto de que lo que están planteando es una asistencia hacia un experto
+no que todavía no hay que no lo pueden sacar del medio no sé tampoco si es la
+intención sacarlo del medio me refiero con el mejor de los sentidos no no como
+si fuera algo que estorba em pero justamente donde no se busca se busca a
+agilizar muchísimo y de repente que la Inteligencia artificial brinde no sé un
+diagnóstico o varios diagnósticos como si fueran medicina está con tal
+probabilidad esta otra variedad de contar probabilidad y que después sea un
+experto el que justifique cuál sí O cuál no Y además eso da lugar que esté el
+el humano en el medio a una mejora continua no un continuo entrenamiento Sí esa
+justificación te permite mejorar el modelo Por qué Y además comparar también
+entre como decían ustedes estandarizar un poco entre diferentes expertos que
+puedan tener opiniones quizás un poco diferentes otros distintos exactamente fe
+porque uno de los aspectos más complicados es hacer el eh el ojo crítico de los
+expertos porque sí sí claro todos somos o la mayoría de casos somos ingenieros
+agrónomos y no la mayoría no habrá tocado ir a hacer el relevamiento de lote
+pero eh De ahí a tener el ojo tan fino como para diferenciar dentro de una
+misma especie dos variedades es muchísimo tiempo requiere muchísimo entonces
+tener una base de de una guía que que te afine un montón ese esa decisión es
+muchísimo es un salto muy grande bien buenísimo Bueno nada más que decir
+insisto siempre que haya más consultas saben Ya tienen sus datos de contacto
+los contactos También nosotros o entre ustedes y Bueno gracias gracias a
+ustedes eh continuamos Ahora sí con Brenda Hola me escuchan se escucha bien
+buenísimo compartir pantalla completa ven mi pantalla Sí se ve bien bueno mi
+nombre es Brenda García yo soy ingeniera agrónoma y trabajo en inta
+particularmente en inta Bariloche y la propuesta que voy a presentarles Es
+sobre B es bastante tranqui al lado de la de todos los compañeros Pero bueno
+puede llegar a ser útil y se basa en internet de las cosas muestra un poco la
+ubicación yo trabajo en la provincia de Río negro mayormente en el departamento
+de Epic games show y el departamento de Bariloche ambos lugares son muy fríos
+Por lo general salen en las noticias de lo del frío que hay como toda la
+Patagonia en Bariloche pueden ocurrir en Los corrales helados de hasta -10
+grados porque en las zonas altas es más helado y en pilca también pilca a
+diferencia de Bariloche tiene un régimen de lluvias de 200 MM y es todo estepa
+Entonces no tiene por ahí eh Como el temperamento del Bosque no está todo eh
+desprovisto Entonces se congela todo básicamente Eh Así que bueno Y acá dejé un
+canal de de datos meteorológicos de de pilca por si quisieran ver que es de un
+docente que toma datos en el lugar no es de inta sino de un docente eh Por si
+alguien quiere conocer más la problemática que nosotros planteamos Nosotros
+digo porque ya venimos trabajando un poco en esto es sobre los bebederos que en
+invierno se congelan bastante No siempre hay Eh puede haber nieve pero lo que
+nunca falta es helada ahí hay un ejemplo del bebedero congelado esto que lo que
+genera es que uno tenga que ir todos los días a descongelar el agua a los
+animales o bueno si no va a arriesgarse a que el animal no tome agua en el peor
+de los casos y después según el tipo de animal varía el comportamiento de sí
+rompen el bebedero o no por ejemplo el azul este que está acá estaba con Chivas
+las chivas no rompen esperan a que vos vayas y le rompas el bebedero eh Y
+después en el campo de la oveja puede llegar a romper pero si la capa de hielo
+es muy grande ya no va a poder hacerlo y este es un ejemplo Acá está capa de
+hielo es bastante fina porque nosotros rompíamos Acá hay una gruesa de uno que
+no se rompía todos los días y tiene 2 cm a las 7 de la mañana el objetivo
+general del proyecto era desarrollar una solución de bajo costo que se basa en
+internet de las cosas que nos permita mantener el agua líquida en los bebederos
+para los animales durante el invierno y los específicos asegurarnos el agua
+constante a los animales esto es porque Puede ocurrir que según el tipo de
+dieta Por ejemplo si usó un limitador físico con sal necesito Sí o sí que el
+animal tenga acceso al agua Entonces eso me lleva a mí a recorrer los cuadros y
+demás eh reducir la mano de obra destinada a hacer eso porque claramente de
+cada dos o tres días tiene que ir alguien a chequear las bebidas de que no
+estén congeladas o si lo están descongelar la palazos básicamente eh Y después
+bueno que este sistema se pueda monitorear de forma remota para que sea fácil
+su su mantenimiento el circuito que propuse está basado en un microcontrolador
+sp-32 que la profe me dijo que este era mejor que el arduino porque porque ya
+tiene incorporada una placa de wi-fi está conectado a un sensor de temperatura
+que ahí puse en el ejemplo cuál sensor porque nosotros ya hicimos una
+experiencia de un microcontrolador con sensores de temperatura donde
+monitoreamos el agua de los bebederos ahora Se los voy a mostrar eh pero era
+solo cuestiones de monitoreo de agua así que bueno Más o menos tenemos ese
+funcionamiento que lo conocemos un módulo relé controlado por el
+microcontrolador eh relacionados a través de un cable eh un calentador de
+inmersión de bajo consumo que esté colocado dentro del bebedero Ahora les voy a
+contar para qué y una fuente de energía que en el caso acá Los corrales puede
+ser la energía eléctrica porque tenemos corriente y en el campo tendría que ser
+una batería con panel solar ya no funciona de forma Autónoma que fue uno de los
+eh de las correcciones que me hicieron eh cuando la temperatura baje a acá dice
+menos un grado pero eh charlábamos con una compañera que es mejor que sea un
+grado positivo cuando la temperatura baje hasta ahí el microcontrolador
+activaría el relé que va a encender el calentador del agua y va a llevar el
+agua a 5 grados y ahí el calentador se va a apagar automáticamente Esto es para
+que el bebedero siempre tenga agua líquida y no se genere hielo luego lo que
+podría ser el microcontrolador es detectar si hay cortes de energía o
+desconexiones Eh puede identificar fallas de temperatura puede registrar
+anomalías térmicas Por ejemplo si el calentamiento es muy lento y se pueden
+planificar eh mantenimientos con base en el estado del sistema algo que yo no
+puse en el dibujo es que dentro del microcontrolador podría haber un módulo con
+Una Micro SD Por qué Porque si yo no tengo wi-fi yo no tengo alguna de esas
+cuestiones puedo ir con la computadora que es algo que solemos hacer nosotros y
+descargar los datos en un archivo csv entonces Bueno si no hay wi-fi eh Nada
+tenés los datos igual y podés chequear justamente en los que nosotros tenemos
+nos pueden informar los errores y demás cómo sería la fase experimental Bueno
+este bebedero se asociaría a unos experimentos que ya hicimos acá en Bariloche
+que fue de Buscar formas sencillas de que no se nos congele el agua entonces
+una fue con bebederos aislados térmicamente que acá como verán es una heladera
+reciclada la heladera por su formato en sí eh No se congela el agua porque está
+aislada totalmente aislada y nosotros la comparamos con un bebedero
+convencional que ven ahí eh Y ahí poníamos las ondas de temperatura con el
+microcontrolador Y entonces tenemos un estudio de 80 días de mediciones de
+comportamiento del agua se se sumaría a ese módulo de bebederos y podría estar
+acá al medio acá como verán está el microcontrolador y Bueno siempre que uno
+trabaja en producción animal tiene que pensar que los animales pueden oponerse
+cables o hacer cosas entonces Acá está todo protegido con mangueras así que
+bueno Luego también estaría de la misma manera y protegido en cajas estancas y
+demás porque acá es demasiado frío y luego de afinarlo acá en Los corrales lo
+podríamos llevar al campo eh puse esta foto a modo de ejemplo que es de un
+ensayo que tenemos para que vean más o menos las extensiones los animales se
+caminan básicamente todo esto y la bebida está en alguna punta del cuadro Esta
+es una de las pocas bebidas naturales que nos quedan Lo cierto es que cada vez
+hay más cuadros sin sin aguada natural lo que nos lleva a trasladar agua de un
+punto a otro y colocarlas en bebederos de este estilo y ahí es donde se congela
+el agua no pero bueno para que puedan ver que tenemos capacidad de por ejemplo
+colocar una pantallita solar armar alguna clausura chiquita para que pueda ir
+el microcontrolador y los animales no tengan acceso Porque pueden cortar los
+cables y demás qué resultados esperados pueden salir de acá bueno que haya agua
+disponible para los animales durante el invierno sin tanta intervención manual
+que se disminuya la rotura de bebederos y Los costos operativos porque lo
+cierto es que el descongelamiento es con pala y bueno si le das con bronca a
+partir del bebedero casi siempre eh después tener un sistema autónomo que sea
+capaz de tomar decisiones locales O sea que encienda el calentador según la
+necesidad que uno le programa y que tenga una posibilidad de realizar monitoreo
+para detectar fallas y poder ir a arreglarlo no Y por último mejorar la
+eficiencia de manejo hídrico en los establecimientos pero también el manejo de
+los productores en el campo para que no descienden tanto tiempo a ese tipo de
+tareas así que bueno eso sería la propuesta espectacular Muchas gracias Brenda
+genial A mí me gustó mucho la idea la verdad que no le tiene que enviar nada a
+las otras porque también está muy interesante me gusta que es un problema
+puntual que lo analizaste completamente digamos y le diste la viabilidad eh
+nada para mí y ya está o sea manos a la hora que son armados Sí está muy buena
+eh Como lo pensaste en la implementación Así que nada Yo diría que adelante y
+bueno tenemos una pregunta de Miguel sí no no no perdón perdón mi duda es si el
+sistema tenés pensado poner una alarma en caso de que no se pasó algo y no
+funciona viste no sé se quemó el calentador algo por el estilo que te tire una
+alarma Entonces voy enseguida vas a solucionar el problema porque si no vas a
+volver a tener el problema original sí acá en el corral eso podría ser posible
+porque podría estar conectado al wi-fi y se puede buscar un canal donde uno
+vaya mirando los datos y demás en en el campo Lo cierto es que no y que
+lamentablemente uno cuando va al campo porque acá Lora y demás cuesta un montón
+que funcione la topografía del terreno Entonces lo cierto es que te enteras
+cuando vas al campo Pero bueno Eh Lo bueno de probarlo acá es que uno lo puede
+poner bien apunto que es lo que por lo general hacemos y después llevarla
+experimental nosotros ya Eh no podría bajar el productor hasta que no esté del
+todo acomodado porque lo cierto Es que es muy difícil generar ese tipo de
+alarmas eh sin conexión y acá sí todas las conexiones son complejas todas
+entiendo esta esta es una pregunta bueno para vos o para los profes en ese caso
+starlin que ahora están están viniendo a pique los precios porque antes salía
+no sé $350 500 por cada lugar que querías poner un sensor ya se te van los
+números pero hay que lo están ofreciendo por 35000 o $60 000 no sé Tal vez es
+una una solución que hoy está al alcance sí eh A ver hace unos pocos años la
+tecnología satelital era muy costoso Sí porque había poca redes porque era una
+tecnología a la que no todo el mundo podía acceder ahora con la evolución
+precisamente de la ciencia y todo esto ahora es un poco más fácil No ahora se
+puede pensar con tecnología satelital datos celulares en el teléfono vieron y
+bueno entonces como starling están ofreciendo este servicio pueden ser una
+posibilidad y están bajando los precios tengo entendido porque muy pronto se
+sumó a la carrera leí hace poquito queda desplegar satélites una red de
+satélites que igual tienen enfocado a que sea para cosas de oteo bueno para
+algún tipo de alguna clase de de conexiones diferentes tipos de de
+comunicaciones mediante la comunicación sanitaria no así que seguramente en muy
+poco tiempo vamos a tener más eh disponibilidad de este tipo de tecnologías que
+hace unos años era muy complicado Así que a futuro en un futuro no muy lejano
+eh porque esto de la noticia que les digo que Amazon está lanzando los
+satélites tengo entendido que para finales de este año va a estar ya en
+funcionamiento Así que con eso bajamos los precios y bueno Habría que ver la
+disponibilidad de servicios que que ofrecen no pero sí Ahora mismo es una
+posibilidad muy muy alta digamos además que hay otras empresas un poco más
+pequeñas que están desarrollando también tienes para iot en el ámbito satelital
+Sí precisamente para reducir costos bueno para tener más cobertura etcétera Así
+que sí es una posibilidad futuro la cuestión de las comunicaciones satelitales
+Bueno si no hay más preguntas Muchas gracias Brenda y a todos también por la
+atención Así que si les parece continuamos con las exposiciones tenemos en
+torno a la hora de Manuel puede ser Hola buenas tardes se escucha Me escuchas
+voy eh Me avisan si se puede ver la pantalla Bueno mi nombre es Manuel cuenca
+Soy ingeniero agrónomo y bueno este está presentación Es para compartirles eh
+la propuesta de trabajo final del curso de Inteligencia artificial e internet
+de las cosas aplicadas al agro eh todo este tema de Inteligencia artificial es
+algo nuevo muy nuevo para mí este es mi primer acercamiento por lo tanto la
+propuesta no se basa en en algún proyecto que esté trabajando ni que haya leído
+tanto simplemente fue una propuesta pensada muy básica pensada para para
+presentarla acá en el curso como trabajo final integrando lo lo bueno las cosas
+que que Estuvimos viendo en clase el título de la propuesta es sistema
+inteligente basado en iot e ia para el control del minador de los cítricos eh
+vivero bueno Y para eh la importancia de la problemática de denominador Este es
+un hay que decir que este es un un insecto cuya larva se alimenta de los
+tejidos internos de las hojas eh formando galerías y y posteriormente de
+formación principalmente en los brotes jóvenes en las hojas jóvenes en algunos
+casos puede haber también de foliación y todo esto conduce a una reducción
+general del desarrollo y el crecimiento de las plantas en etapas principalmente
+de viveros y plantaciones jóvenes Cómo pueden ser Montes frutales recientemente
+implantados no el daño directo de la Plaga tiene una incidencia mayor en en
+plantas en formación es decir la las etapas más importantes donde se debería
+prevenir ese en el etapa de vivero y Montes recién instalado naturalmente esto
+se da cuando la población del insecto eh alcanza los umbrales de daño esto
+quiere decir que si mantenemos las poblaciones de La plaga a niveles bajos el
+daño que se puede producir es no significa no sería significativo no
+probablemente la la problemática más importante que nos puede dejar el minador
+es el tema de las lesiones ya que a través de esas lesiones esas lesiones en
+las hojas actúan como puerta de entrada para la bacteria Santo monas axonopodis
+que es eh la causante de la cangrejos y de los cítricos ya un colega lo
+menciona esta mañana como una de las enfermedades cuarentenarias que
+prácticamente tienen un daño mucho más importante en la producción de los
+cítricos y y desplaza ya el problema del minador a un segundo nivel bueno en
+este sentido el objetivo de la propuesta es desarrollar un un sistema
+inteligente basado en iot y ya para la detección temprana y el control del
+minador de los cítricos en ambientes de invernadero esta propuesta está basada
+principalmente en tres grandes componentes por un lado una infraestructura y
+otro donde van a estar incluidos todos los dispositivos para el censado y la
+adquisición de los datos por mediante la Inteligencia artificial que va a ser
+la la fase donde se va a llevar a cabo el desarrollo y el entrenamiento de
+estos modelos con algoritmo de visión por computadora para poder discriminar
+entre las hojas sanas y las hojas que están afectadas por el mirador Y por
+último un sistema de control automatizado que es el que va a permitir que se
+ejecute en algunas respuestas rápidas y específicas ante la presencia o la
+detección de la potencial presencia del minador para describirlo brevemente a
+cada uno de estos componentes en el caso de la infraestructura it va a estar
+compuesta por sensores ambientales dónde se van a registrar datos como la
+temperatura la humedad relativa la luminosidad la concentración de dióxido de
+carbono y también va a estar equipada con cámaras de alta resolución
+principalmente equipos rgb puede también en algunos casos eh ser posible la
+instalación de cámaras multiespectrales Aunque si bien dice multiespectrales se
+se basa o se refiere más precisamente a cámaras que cuenten con una porción del
+espectro electromagnético en el rojo en el infrarrojo cercano porque Bueno A
+partir de esta de esta porción del espectro se pueden estimar Eh bueno las
+capacidades de fotosintéticas de la vegetación el estado de la capacidad
+fotosintética está vegetación eh Es decir no es necesariamente importante como
+la como la cámara rgb en principio porque lo que buscamos con esta propuesta es
+detectar la presencia del daño o patrones de daño de ocasionados por el
+dominador y por otro lado está El el tipo de transmisión o el tipo de
+comunicación que vamos a tener entre dispositivos para el envío de los datos
+que en este caso se va a dar por una transmisión inalámbrica en tiempo real y a
+través de los nodos iot bueno el otro módulo era el procesamiento mediante
+Inteligencia artificial esto a partir de la recolección de los datos que se van
+a eh Mediante los sensores los dispositivos que se comentaron anteriormente se
+va a implementar un flujo constante de información Perdón que va a ser
+procesado por algoritmo por visión por computadora que van a que va a saber
+diferenciar Cómo se decía Cómo se decía hace rato entre las hojas sanas y las
+hojas afectadas gracias al al aprendizaje eh logrado a través o mediante el
+entrenamiento de estos modelos que se realizan previamente pero también se van
+a utilizar algoritmo predictivo para poder integrar esos daños ambientales esos
+datos ambientales perdón con las detenciones visuales que se observen en las
+imágenes para poder anticipar escenarios de riesgo Y a partir de esto poder
+implementar acciones más bien preventivas que que reactivas ante la potencial
+presencia del daño por último el sistema de control automatizado va a actuar
+una vez que se identificaron signos de de riesgo mediante el análisis de de los
+datos y las imágenes va a actuar enviando una alarma temprana los técnicos
+encargados de los Viveros y Esto va a permitir al técnico poder realizar una
+intervención eh Ya sea a decisión propia eh de él mismo o directamente el
+sistema si es que contara con los actuadores podría realizar una aplicación de
+productos fitosanitarios de manera localizada hay acá un pequeño desafío en
+esto porque como les decía esta propuesta está pensada para presentarlo acá en
+el marco del curso y no es algo que se esté trabajando habría que pensar un
+poco más ya que los caldos de fitosanitario no pueden estar estacionados ahí
+como para aplicarse micro volúmenes en algunos locales en algunos lugares y y
+estar a lo largo del tiempo eh almacenado Habría que ver o resolver Cómo Cómo
+prepararse o directamente Cómo prepararse micro volúmenes para ser utilizados
+en poco tiempo o directamente la propuesta o el sistema termine en enviando la
+el alarma al técnico eso es un punto que quedó haciendo ruido y bueno no pude
+avanzar más para verlo por cuestiones de tiempo Y por último cada intervención
+de este tipo Sería documentada para que obviamente se se mejore el tema de la
+trazabilidad y el historial de de de de de de intervenciones bueno esto sería
+un un pequeño gráfico para simplificar mostrarlo esquemáticamente a la
+arquitectura iot Cómo sería la comunicación desde el invernadero la nube en
+principio dentro del invernadero o en sus alrededores lo normal es que no
+contemos con con acceso a internet por lo que la comunicación hasta el Gateway
+sería mediante la red lorawan Y a partir de allí sí enviar todo hasta la nube
+donde donde se van a almacenar los datos y el el usuario va a tener acceso a
+ellos mediante el front-end para poder gestionarlos gestionar todo lo que se
+realiza dentro del vivero y se va a poder realizar también un procesamiento
+autónomo para poder enviar por medio de los actuadores la orden de realizar la
+aplicación o no esto eh En caso de de de ser automático o no bueno para para
+simplificar un poquito y blanquear lo que pasaría en dentro de la nube O sea la
+gestión de los datos en la nube Allí se va a realizar la recepción es la
+integración de los datos es decir todos los datos que que van a ser enviados
+hasta allí van a ser organizados por lotes o por sectores de acuerdo a lo que
+resuelva el técnico operario del del del invernadero del vivero va a pedir Cómo
+van a ser organizados esos datos Y también se va a realizar una validación
+automática para que se detecten errores o inconsistencias o algunas
+inconsistencias que puedan haber en las mediciones s almacenamiento va a ser
+estructurado es decir se va a construir una base una base de datos bastante
+organizada para que se de allí la serie de datos de series temporales
+comparaciones históricas y que se puedan solicitar algunos reportes también de
+las intervenciones o el historial y bueno va a surgir a partir de allí como se
+mencionó el sistema de alertas ante la detección de de de que hay ya umbrales
+de daño o que hay daños significativos dentro de del invernadero o condiciones
+críticas y Esto va a permitir que se autorice o active según sea automatizado o
+no las acciones y por último bueno se mencionó ya que la la visualización va a
+ser interactiva entre el técnico el el el el el el el el el productor
+directamente o quiénes eh se decida desde el front-end visualizar y solicitar
+esta información ya sean mapas de calor gráficos de evolución alterna alertas
+activas y el estadio sanitario en general el cultivo no como beneficios
+esperados esperan que el sistema se espera resolver un sistema autónomo para el
+monitoreo continuo de La plaga en la reducción del uso de fitosanitarios en
+general por tener una aplicación localizada eh una plataforma escalable muy
+escalable a otros cultivos o plagas una mejora en la trazabilidad y la toma de
+decisiones por parte del productor y sustentabilidad en en la producción bueno
+es bueno Esto es la bibliografía básicamente de las cuestiones más agronomicas
+ya que todo lo que tiene que ver con Inteligencia artificial y a ti lo saqué
+únicamente de acá de de las grabaciones de las clases así que bueno eso es todo
+y y espero que que haya sido un poquito claro Muchas gracias me parece Hola
+Quiero escuchar un poco de cono no sé si era o Chris estabas hablando vos
+adelante adelante bueno como hemos mencionado que era una propuesta sobre la
+cual no tenías como no sé si nada sin experiencia sino trabajando en este
+momento sino que estaba preparada pura y exclusivamente para este curso Más
+allá de Eso me parece excelente Me parece que está muy bien planteada Es más
+que viable claramente quedan cuestiones para para definir pero inclusive las
+marcaste muy bien como el alcance con algunas cuestiones algunas de las de la
+aplicabilidad definir algunas detalles más de cómo es la toma de imágenes y eso
+pero la verdad que muy muy bueno nada nada que que decirle que criticarle me
+parece que que que sin problemas se puede llevar adelante Cris no sé si vos
+querías mencionar algo más y bueno de acuerdo con lo que dijiste me pareció muy
+clara la propuesta Así que iba a destacar eso bien buenísimo La verdad sí eso
+no no creo que haya más detalles todo lo que parece es viable y me parece que
+estuvo muy muy bien cómo lo presentaste y cómo lo pusiste Bueno gracias
+Federico es en caso de ser Vial Me gustaría seguir en contacto porque hay
+muchos productores acá en tema que trabajan el tema de de viveros Y ninguno
+está tecnificado eh productores amigos incluso que la idea Bueno surgió
+mientras cursaba surgió en una visita y que que estuve Charlando y me contaba
+que Bueno ahí el el operario del del vivero va regando las plantas cuando
+tienen por calendario que regar y en eso pues detecta la el el el el el el el
+daño por el minador Iván y ya preparan el caldo y aplican a todo y bueno ahí
+ahí me surgió esta idea de de ver de hacer una propuesta basada en eso hoy en
+día y ellos van regando porque son todas las plantas jóvenes y allí las hojas
+más nuevas las hojas están más arriba detectan el daño del Mirador la 90 y a
+partir de allí es la alarma esa sería la alarma para ellos Pero ellos están
+regando está la ven y empiezan y aplican todo y por eso el caso no Claro pero
+el tema del riego ya sería eh con otro sistema y no tanto el de aspersor porque
+tuvieron experiencia con ellas personas pero no es eficiente ya que todo queda
+en la copa y no llega prácticamente no llega muy poco a las raíces entonces
+creo que están pensando en implementar otros sistemas de riego Pero bueno sería
+una oportunidad probar ver qué se puede hacer y y en eso me gustaría seguir
+Charlando con ustedes para ver la implementación en caso de ser posible por lo
+menos a modo de juego Bueno gracias no por favor Gracias a vos Eh bueno
+entonces continuamos sí con el trabajo de Analía en realidad si estás hablando
+en realidad no te escucho ahora sí te escucho No sé si se ve la presentación Sí
+bueno la idea en este caso Bueno me presento mi nombre es Analía felices y yo
+soy ingeniera de sistemas productora agropecuaria me inhibe un poco que me
+estén escuchando ingenieros agrónomos y tengo bueno el el temor de no usar los
+términos adecuados lo que conozco lo conozco del lado de la producción y por
+ahí no tengo esa precisión en en los términos Así que pido disculpa de antemano
+por eso eh lo que se pretende acá Tiene algunas similitudes con varios de los
+trabajos presentados La idea es eh A través de de internet de las cosas eh
+proveer eh de información para que se genere algún tipo de asesoría virtual
+para la gestión de la producción del cultivo de papá y a futuro cuando se
+cuente con toda la información que que registran estos eh este sistema de
+internet de las cosas eh poder hacer alguna prescripción inteligente tanto de
+riego como de aplicación de fitosanitarios para el control de enfermedades a
+ver ahí bueno en principio yo me centré en pensar un poco en la enfermedad que
+causa más problemas en el cultivo de papa que es eh el tizón tardío sabemos
+ustedes saben mejor que yo las condiciones que que tienen que presentar para
+que una enfermedad se desarrolle que son las condiciones ambientales favorables
+el patógeno que la ocasiona y el hospedante susceptible en este caso el
+patógeno es el fitoftora infectan es un hongo se empieza a ver presencia de
+manchas oscuras en las hojas del del cultivo de papa y del lado de atrás en el
+envés de las hojas una felpa o un no sé cómo decirle un tiene una felpilla un
+una capita de de color blanco grisácea que es la la aparición del hongo las
+manchas progresan muy rápidamente se produce de foliación eh También hay
+manchas oscuras aparecen manchas oscuras y alargadas en los tallos se ennegrece
+el tallo y se vuelve quebradizo y la la propagación de las esporas en el aire
+Es muy rápida ahí se ve eh que tiene la la presencia del hongo en el envés de
+la hoja y ahí con eh microscopio lo que sería la espora eh de esa forma de
+limón que tiene el tizón tardío sería la enfermedad entonces el fitoftora
+infantil el hongo que la produce el la planta o el hospedante sería el cultivo
+de papa y las condiciones ambientales eh Son específicamente eh humedad
+relativa ambiente y una combinación de la humedad y y de la temperatura ahí
+tenemos una imagen dos imágenes donde se ve el principio de una epidemia el 29
+de julio y el 15 de julio el mismo campo y bueno la pérdida en algunas partes
+Total no eh Y es muy rápido o sea esto es lo que quiero decir es eh la
+importancia de de haber pensado en esta enfermedad es porque las o sea las
+consecuencias económicas son graves y es el cultivo en el cual se se considera
+Bueno el el principal motivo de pérdidas esto es a modo de ejemplo eh el hongo
+afecta normalmente a a este cultivo en un testigo sin tratar que es la línea
+roja lo afecta de de manera normal aparece sí Según la presencia que haya del
+patógeno aparece y si no se trata crece exponencialmente eh la evolución de los
+síntomas y bueno y y acaba con el cultivo lo que se hace A partir de los
+tratamientos es de amortiguar esa curva bajarla un poco para que Eh bueno no
+ocasione tantas pérdidas pero digamos la enfermedad va a aparecer y va eh No se
+puede evitar por completo Que aparezca lo que se trata es de controlarla ahí
+Bueno ese es un trabajo de un ingeniero agrónomo del inta balcarce en donde
+propone dos tratamientos distintos y Bueno hay millones de trabajos en este
+sentido combinando distintos tipos de productos para para el control si llega a
+aparecer algún mensaje mmm yo no lo estoy viendo por ahí me me lo tienen que
+decir algún mensaje alguna consulta escuché como un ruidito recién recién Bueno
+A partir de Yo también propongo acá eh la utilización de imágenes
+multiespectrales eh ahí los docentes me pedían ampliar eh alguna información
+sobre sobre ellas en el trabajo pero bueno de todo lo que he visto creo que
+todo el mundo conoce de qué estamos hablando eh Por lo menos el resto de los
+alumnos así que bueno con imágenes múltiples trae lo que queremos eh mencionar
+es que hay un cierto espectro que es visible al ojo humano que está en la banda
+de Los Azules verdes y rojos y tenemos infrarrojos que no son visibles y
+ultravioleta en el caso de de los tipos de resoluciones sabemos que los
+distintos satélites nos proporcionan imágenes de distintas resoluciones
+resoluciones espaciales temporales espectrales y radiométricas eh rápidamente
+eh las este resoluciones espaciales se refieren a la cantidad de metros en el
+suelo que están representadas por un punto en el en la imagen satelital eh la O
+sea Cuanto más metros menos específicos sería el el dato que obtenemos en la
+imagen la resolución temporal se refiere a la cantidad de días que pasan o
+tiempo que pasa entre que el satélite eh levantar una nueva versión o una nueva
+imagen de un mismo terreno la resolución espectral se refiere justamente a este
+de este de este espectro total eh Cuáles bandas vamos a estar mirando con ese
+con esa imagen y la radiométrica se refiere más al como a la profundidad del
+del Pixel Con cuántos bits voy a guardar esa imagen O sea me lo hace más nítido
+o menos nítido para decirlo así con palabras simples de todas estas bandas nos
+vamos a estar centrando en algunas bueno acá lo explicaba con detalle y
+mostraba alguna imagen nos vamos a estar centrando en en las que nos interesan
+para los índices que queremos mirar Eh bueno acá una problemática muy común es
+el tema de la aparición de nubes que por más que tengamos alguna imagen cada
+una determinada frecuencia temporal interesante por ahí esa imagen está
+afectada por nubes y durante muchos días y nos perdemos de la imagen eh Real
+del lote acá me voy a referir a algunos de los índices que nos interesan que es
+el conocido ndi ahí se me filtró una fórmula que no es del ndvi es de la que
+sigue eh En este caso vemos que nos interesa ver la el infrarrojo cercano y el
+Red que es el rojo son dos de las bandas de las que mencionamos anteriormente Y
+está que es eh o Este es otro índice es un índice parecido al ndvi pero que lo
+corrige en cuanto a eh cuando estamos trabajando con un suelo muy desnudo o sea
+en las primeras en los primeros estadios del cultivo también utiliza el
+infrarrojo cercano y el rojo sí esas con esas dos bandas y después hay otro
+índice que es el índice diferencial de agua normalizado que se utiliza para
+observar el estado hídrico del cultivo con eh También otras dos eh pero Este es
+otro infrarrojo y es el el verde tanto el rojo Como el verde en caso de
+presencia de nubes Esos son los este las bandas que nos muestran el espectro
+visible Al ojo humano O sea que se verían afectados No tendríamos una buena
+imagen satelital yo me voy a centrar en en pensar en en una solución a nivel
+lote sí que cada lote que está regado por un pívot Central ahí se ve una imagen
+de cómo serían esos lotes la forma que tienen en el centro se encuentra el el
+equipo de riego y en el brazo que va circulando eh alrededor de todo el círculo
+se encontraría el equipo sobre ese equipo me interesa acá muestra un poco como
+es el equipo me interesa agregar eh algunos dispositivos el punto central o el
+punto pivote es una torre una pirámide Por decirlo de una manera una pirámide
+que tiene todo lo que es el tablero de de control del equipo de riego los
+aspersores se encuentran a lo largo de de la estructura y esas estructuras está
+soportada eh Por Torres y y va como eh se consideran se llaman tramos a los
+espacios entre cada una de esas Torres y al último termina con un cañón final o
+voladizo que se le llama eh la superficie del área regada va a depender de la
+cantidad de tramos y y Bueno yo lo que pretendo bueno acá tenemos una vista
+desde el piso de un pívot y una vista aérea pretendo agregar cámaras
+multiespectrales en el eh a lo largo del pívot para poder ir detectando eh
+variaciones en el ndvi o en los demás índices Cuando no tenemos el la imagen
+satelital eh acá son una diapositiva para mostrar que se pueden utilizar el el
+digamos todo el sistema eh de Hardware digamos del del equipo de riego para
+otras cosas como por ejemplo eh Kimi riego que es la aplicación de
+fitosanitarios a través de de una o sea de un sistema de mangueras aparte
+incluso de de riego de luz led Eh entonces bueno yo lo que pretendo es utilizar
+esa estructura para agregar cámaras y además bueno Esto es un esto es una
+máquina vista aérea de una máquina de cosechadora de papas en dónde si yo puedo
+ir eh detectando peso y eh algunos defectos eh de calidad en el momento de la
+cosecha podría estar teniendo un mapeo del rendimiento y de la calidad de lo
+que se cosecha bueno dicho esto sumando a toda esta información que uno tiene
+eh lo que sería un cuaderno de campo digital eh que tenga eh las órdenes de las
+aplicaciones la fecha la hora la posición los productos aplicados con sus dosis
+y las condiciones ambientales a través de sensores de velocidad del viento
+temperatura ambiente humedad ambiente y humedad en follaje en por lo menos
+cuatro puntos referenciados en los cuatro sectores principales del del pívot y
+con las órdenes de trabajo relacionadas a la siembra con la variedad la
+densidad la fecha de siembra y y bueno georreferenciados Y tenemos distintos
+tipos de variedades y después sumarle este asunto de todo lo que podemos
+obtener del mapa de rendimiento toda esa información ir cargándola a través de
+un sistema que yo me lo imagino así con sensores de de humedad con sensores de
+temperatura y viento lo puse ahí en naranja eh que bueno a nivel lote eso No
+necesito medirlo en los distintos puntos del del área del del círculo un
+Gateway que recopila esa información y que lo eh lb a la nube a una base de
+datos que tiene que ser una base de datos georeferenciada y que a través de un
+backend me permita combinar esta información con información del sistema de
+gestión en donde tenga las órdenes de trabajo y con alguna app y el servicio
+meteorológico nacional para generar una una visión un dashboard un un front-end
+que pueda ver el asesor o el productor eh para detectar eh la posibilidad o el
+riesgo que hay de que ocurra la enfermedad me imagino un sistema de software
+hace service eh me imagino una conexión starlight en el campo esto que se
+comentaba recién y los protocolos o los protocolos Lora y ltm eh para el ltm
+para transmisión de imágenes hacia la nube los los demás con Lora bueno
+tendríamos como idea principal entonces aprovechar la estructura del equipo de
+riego y riego para el agregado de cámara que detecten la salud de cultivo y la
+dilatación del mismo el desarrollo esto es una cosa que le agregué a partir de
+una de las charlas que vimos es el desarrollo de un dispositivo que pudiera
+detectar en el aire y cuantificar las esporas del hongo Eso me parece bueno
+parece ciencia ficción Pero bueno cuando lo vi en la otra eh en la charla esa
+eh que hablaban de detección en los en Los corrales de aves si no me equivoco
+eh de patógenos me pareció interesante después eh integrar con otros sistemas
+para considerar el el cuaderno de campo digital O sino también desarrollar un
+front-end propio para que se puedan este mismo sistema después bueno eh la
+utilización de sensores de temperatura humedad como ya lo dije viento radiación
+solar la condición eh consideración de imágenes satelitales y locales para
+calcular los índices y el dashboard y bueno Y acá entraría la segunda parte que
+que se propone que es eh que es que a través de la recopilación de toda esta
+información en la base de datos estructurada eh que tiene la campaña las
+aplicaciones que se hicieron las condiciones climáticas que que ocurrieron
+durante la campaña los mapas en el dni y nw ndwi de los momentos claves o
+críticos de la campaña sumado al mapa de rinde nos permitan entrenar un sistema
+de Inteligencia artificial que bueno no tengo mucho detalle de cómo esté
+implementarlo porque también básicamente esta idea me me surge y la la empiezo
+a escribir a partir de este curso tampoco tenía ningún tipo de trabajo hecho
+con anterioridad Pero bueno teniendo información completa de los lotes y que
+sean suficientes muestras del año niño niña neutral Bueno también con respecto
+a la variedad sembrada o sea por ahí estoy inicialmente se puede trabajar con
+una única variedad y después empezar con otra porque la susceptibilidad del de
+la variedad también va a tener que ser tenido en cuenta bueno limpiar y
+completar los datos faltantes Porque también hay que ver si si es que estamos
+integrando aplicaciones este si todas ellas están completando toda la
+información que necesitamos presentar el sistema un historial y un estado de la
+condición climática y pedirle una predicción sobre el riesgo de que se presente
+la enfermedad cuando las pruebas estén lo suficientemente maduras habría que
+ensayar a campo para decirle para para utilizar esa prescripción que me da la
+Inteligencia artificial y probarla a campo y comparando doctor y ahí Cómo
+corregir el el modelo no decirle si esto anduvo esto Esto no anduvo y bueno y
+se pretende poder conseguir prescripciones que indiquen básicamente si se debe
+activar el riego o no y con qué lámina lámina de riego y si se debe hacer una
+aplicación de fitosanitarios o no y con Qué productos o dosis también como en
+el caso del del trabajo anterior hay como una disociación digo entre el sistema
+yo no puedo hacer que el sistema de internet de las cosas sea automático con
+respecto a los actuadores porque no puedo activar un equipo de riego sin estar
+seguro de que no hay por ejemplo un tractor recorriendo el lote eh haciendo una
+aplicación eh con un mosquito o con una fumigadora de arrastre si hay personas
+caminando eh No puedo activar de forma remota el el equipo de riego sin sin
+saber eso y por otro lado tampoco puedo lanzar una aplicación de fitosanitarios
+si no tengo armado el el caldo no que es lo que se hablaba recién si bien
+existe el el Kimi riego necesitaría un operario que que ejecute toda esa ese
+preparado y bueno Y como extensiones futuras eh esa ese sistema predictivo
+podría incorporar la evaluación del índice de impacto el indicador de impacto
+ambiental eq de los productos aplicados para prescribir teniendo en cuenta los
+límites que se desean mantener eh utilizar también principios activos variables
+o Ross para este Bueno también es eh contribuye al indicador de impacto
+ambiental también considerar la prescripción de riego de caudal variable porque
+por ahí se detectan zonas que están más húmedas que otras En dónde es más
+propenso eh la la formación o la eh o el crecimiento del hongo entonces bueno
+por la prescripción de de caudal variable y bueno y a futuro también podría ser
+este sistema adaptarlo para la detección de malezas y prescripción de
+herbicidas Bueno hasta ahí llegué esto es como les digo un eh es más una idea
+proyecto que una que una concreción porque tengo muchas preguntas yo misma
+sobre todo esto Muchísimas gracias Analía Bueno la verdad me gustó mucho porque
+veo que aplicaste muchas cosas de las que se habló en el curso y eso al menos a
+los docentes nos motiva porque nos indica que bueno todo lo que quisimos
+transmitir de alguna forma llegó y Y eso es valioso para nosotros y también qué
+bueno que ahora tengas precisamente Estas ideas que antes como mencionabas no
+tenías eh de hacer nuevos no sé si decir un emprendimientos bueno de de armar
+nuevos proyectos y eso también es un ganar ganar me parece así que por eso es
+que me gustó mucho la propuesta Más allá de que en los pequeños detalles de la
+implementación podemos charlar un montón de cosas como dijiste Ahí hay mucho
+por hablar y muchas decisiones que se deberían tomar si se lleva esto ya a la
+práctica Pero al menos yo me llevo está como dije está satisfacción de saber
+que eh pudimos de lado y lado eh transmitirnos Y ayudarnos en lo que hemos
+podido Así que muchas felicitaciones muy completo como dije Me gustó mucho que
+haya implementado muchas cosas de las que hablamos y vimos Así que te felicito
+por eso y bueno no sé si alguna pregunta puntual para una niña yo quería
+destacar eso también me pareció muy interesante que presenten tanta cantidad de
+ejemplos porque me terminó abriendo más la cabeza Sobre las cosas que se podían
+hacer me pareció buenísimo el nivel también de la parte teórica estuvo acordé
+me sirvió la verdad que estoy muy contenta con él con el curso a pesar de la
+cantidad de horas y del de que es un solo un mes y 4 días me me pareció muy
+bueno el nivel y y también el trabajo de todos los demás el trabajo de los
+alumnos no eh También muy enriquecedor eh lo que están pensando los demás y
+poder eh relacionarlo también con lo que uno tiene en la cabeza Gracias también
+gracias Analía y a todos también por la atención y si están de acuerdo podemos
+continuar con las presentaciones tengo en lista que es el turno de Hugo puede
+ser Hugo Martín a ver si no sé si están conectados no los vinos eh Martín creo
+que sí sí eh Bueno Hola buenas tardes a todos compartir les vamos a pedir un
+ratito más y ya sabemos que estamos en el horario de terminación pero por favor
+quédense para esta presentación y para el cierre del curso todos los que puedan
+gracias Bueno buenas tardes a todos eh uno va a poder estar porque tuvo que
+salir de imprevisto del campo al campo este tengo entendido que todavía no
+llegó así que por no recibir mensajes le mandé un mensaje que del horario pero
+bueno se ve que no llegó Eh bueno nosotros tenemos dos casos que habíamos
+formulado uno es la aplicación de Inteligencia artificial la la segmentación y
+clasificación de 9 puntos de vida con drones para determinar especies en
+bosques nativos y bueno el contexto es que el manejo de la conservación de
+bosques es una estrategia fundamental en la lucha contra el cambio climático y
+la previsión de otros servicios de ecosistemas y cosas esenciales para la
+humanidad en ese sentido es parecido a lo que planteábamos Juan y Guillermo
+digamos respecto a a que Las evaluaciones directas de de biomasa forestal
+digamos requieren la recolección de datos en terreno Y eso es muy costoso y
+laborioso Y en especial eh llevarlo a eso a un nivel extensivo de de un bosque
+muchas veces quedan con poca representatividad digamos espacial de los los
+datos que uno puede llegar a sacar de esos datos de terreno no entonces bueno
+el uso de sensores remotos la verdad que que hizo am ha llevado digamos a todo
+lo que es la detección de imágenes este yo más o menos hace 20 años de trabajo
+con esto y y me acuerdo cuando empezamos con con los primeros laburos en armas
+en la facultad eh que que era todo un laburo y ver el engine por ejemplo
+laburar digamos este una dice Wow es un montón la información que que podemos
+tener para a la hora de manejar los bosques pero ahí hay un problema grande de
+escala que eh No podemos determinar variables a nivel de árbol Sí entonces ahí
+se nos complica digamos y y esto en una reunión que tuvimos más o menos hace
+como 7 años en YouTube creo Se me hace muy mal no recuerdo el tiempo Eh
+decíamos bueno Cómo tomar las alturas y y surgió la la posibilidad de de pensar
+en un en una tecnología de tipo líder y y lanzamiento y bueno Y hoy por hoy
+Contamos con con un equipo de herida y antes de eso empezamos a elaborar con
+con esos ópticos este y la posibilidad de tener esas nubes de puntos sí tanto
+con fotogrametría con drones ópticos y ahora que que el año pasado si el año
+pasado fue que que nos entregaron el equipo ya funcionando Y empezamos a
+cosechar las primeras 9 puntos con con el láser eh Y bueno y empezar a a tener
+la posibilidad de pasar de lo que era tomar una altura de árbol con un
+kilómetro este y una muestra diaria de 100 árboles por ejemplo 180 en un bosque
+a pasar a tener miles de datos por árbol de de esa altura no digamos y a razón
+de por lo menos 80 hectáreas en en una jornada eh estamos hablando de que
+tenemos algo así de eh miles de datos de altura para miles de árboles que
+tomamos en una jornada diaria no eh En ese sentido bueno eh Nosotros con tanto
+Hugo como como yo trabajamos en interrupto en el norte de la provincia de Jujuy
+es una un área eh la experimental digamos trabajando en un área que es el norte
+de salta el noreste de salta y el norte y el noreste de Jujuy y bueno y estamos
+en un área que es más o menos aproximadamente unas 3 millones de hectáreas de
+bosque y la práctica de monitoreo digamos tanto en el inventario como
+teledetección eh A través de imágenes satelitales es como de uso fre bastante
+consolidado desde hace bastante tiempo en el 2021 empezamos a trabajar con los
+drones con con el rgb y el año pasado con los con las imágenes líder Sí para
+que más o menos hacer una idea una nube de puntos de líder tiene ese tipo de
+representación Sí la verdad que eh llevarlo al 2D digamos es medio como un
+pecado la verdad que me encantaría lo pudiesen ver de otra manera pero pero
+bueno es bastante difícil porque son muchos es muy pesados digamos y no tuve
+otra forma tan tampoco tal vez de llevarlo más que de esas tres imágenes que
+que puse ahí en secuencia Y esto es un poco los modelos que empezamos a a a
+trabajar con esos datos líder entonces podemos calcular esa hacer el modelo de
+altura de los árboles sí eh el el láser lo que tiene también la propiedad de
+poder penetrar en la canopia y llegar hasta el suelo entonces podemos tomar
+representaciones topográficas este bastante precisas que están ahí
+representadas en eso podemos hacer modelos de de cobertura del dosel digamos
+Cuánto es bosque a determinadas alturas del docente también lo mismo para
+claros digamos que que son los lugares que no están ocupados por bosque también
+hemos trabajado con identificación de árboles individuales sí eh con con
+algunos algoritmos de verde y la posibilidad de segmentar eso en copas Sí y
+bueno Y eso es llevarlo a tablas a tablas de datos que nos permiten ya tener
+datos concretos de árbol individuales del tamaño de los árboles y llevarlo por
+ejemplo a una estimación de biomasa que es como un en esto de la lucha contra
+el cambio climático respecto de los bosques del manejo y la conservación de los
+bosques que muchas veces no se tienen como precisiones o las precisiones son
+muy costosas porque implican mucho laburo de terreno entonces un poco el
+objetivo de la propuesta es eh poder llegar a mejorar la segmentación de esos
+árboles individuales de esa nube de puntos digamos para para esos árboles
+individuales porque lo que vemos es que el algoritmo que estamos trabajando en
+r no es tan preciso y nos gustaría digamos empezar a trabajar con con algún
+tipo de Inteligencia artificial que nos permita segmentar mucho mejor los
+árboles porque vemos que la nube de puntos si nosotros tenemos que hacer manual
+este tipo visual podemos hacer un laburo como mucho más preciso de lo que hace
+este segmentador que tenemos de r y creemos que una Inteligencia artificial
+digamos con algún tipo de imagen learning digamos podría llegar a funcionar
+mucho mejor y algo que que nos surgió el año pasado de ver la nube de puntos y
+empezar a a trabajar con con estos datos es la posibilidad de tener el valor de
+la especie de cada uno de los árboles sí estamos hablando de que son lugares
+que que tienen por lo menos 2030 especies sí eh en una parcela de esas de 20
+hectáreas por ejemplo que representa un vuelo eh más o menos tenemos esa
+cantidad de categorías entonces Bueno un poco los resultados que esperamos
+digamos de de esta idea es poder llegar a tener un nombre de de puntos
+clasificados según árboles individuales como mejor precisión quizás nubes eh de
+puntos también las podemos clasificar en especies o categorías de especies Y
+eso llevarlo de datos de árboles individuales con variables de tamaño y
+especies Bueno un poco lo que estuvimos pensando es que que podíamos explorar
+este algoritmo de tipo de Mason learning y redes neuronales o visión por
+computadoras que nos permitiría mejorar esta segmentación y clasificación de 9
+puntos Y tanto como para líder pero también como fotogrametría de drones con
+cámaras rgb y y Bueno un poco lo que pensamos es que podría llegar a una
+clasificación tipo de aprendizaje supervisado o no supervisado pensando que
+nosotros podemos poner en el aprendizaje del algoritmo datos de inventario
+forestal con con puntos con con especies digamos identificando especies pero
+también si el algoritmo nos da 20 clases a nosotros nos sirve un montón eso eh
+Y Bueno pensábamos un poco por lo que decía Federico de la la idea de que
+tienes un algoritmo tipo de de reentrenamiento sí o algo que estuvimos buscando
+un poco por internet esto de la aprendizaje constructivo de las neuronas eh
+redes neuronales gráficas bueno Muchas gracias por la atención y ahí están
+nuestros contactos no sé si quieren que presente el de riego o dejamos eso yo
+creo que este Bueno no sé tampoco depende de ustedes pero no me parece que ya
+además de que estamos pasando un poco de tiempo no es que también por todos se
+parece mejor eh hacer una evolución de este después si querés el otro tenés
+ganas o vos si vos tenés ganas de mostrarlos no por alguna razón y trabajar
+sobre eso lo hacemos también Sí pero me parece que para el día de hoy está bien
+cerrar con este y además me parece que está buenísimo la la la propuesta el
+caso de algo donde se pueden combinar las las los distintos tipos de datos para
+un problema que antes Bueno tenés el dron las imágenes rgb eh Y combinarlo con
+datos de un líder me parece genial hay nada varias dificultades respecto de
+hacer eso pero también varios desafíos pero de sobrina Después muchísimas
+oportunidades un poder sumarle al a una imagen rgb un eh digamos eh en 2D una
+una dimensión espacial quizás no sé lo que se lo que se pueda extraer de la
+imagen de liar tal vez una imagen no son puntos aislados es valiosísimo sin
+dudas le va a dar una mejora grandísima de ese el algoritmo que están bueno que
+ahora te estoy corriendo en r eh mmm Bueno sobre eso no sé varias cosas No
+ahora está muy bien para explorar y demás pero para poder en producción después
+siempre ahí algunas otras cosas mejores los puntos de líder También tienen su
+desafío que son difíciles de procesar desde el punto de vista de que son datos
+estructurados desde que tienen una posición Por decirlo bien definida pero si
+los queremos procesar alguna por ejemplo red convolucional que es una imagen se
+podría agregar un canal más rgb y la altura por ejemplo Pero bueno para llegar
+a una altura por píxel hay que procesar los datos del líder Bueno hay varias
+cuestiones que son desafíos pero justamente creo que sí se se enfrentan esos
+desafíos que van a obtener resultados buenísimos con eso así que nada me parece
+excelente Cómo cómo está encargado ese proyecto y le veo futuro además que hay
+un desafío grande también adelante como para que trabajarlo digamos no es algo
+trivial sí Bueno ahí el equipo que tenemos este toma ya colorea la cuando tomas
+los datos de las del láser Pero además colorea los puntos que veo lo que veo
+con los con los puntos las es eso que es una encuesta digamos termina siendo
+como un archivo de tipo de encuesta digamos con varias solapas yo la verdad que
+ahí me me tengo un vacío de conocimiento tremendo digamos pero pero yo digo por
+qué no lo hacen más sencillo tipo xyz rgb Hola buenas noches bueno igual en
+este caso en particular creo Creo esto insisto esto ya va para como que alguien
+realmente lo analice en profundidad la idea en vez de agarrar los puntos de
+vida y colorearlo sería agarrar los puntos de llegar y llevarlos a la
+estructura del rgb en vez de completar en los líderes con el rgb completar los
+rgb con líder había que hacer una interpelación no importa es da para hablar
+bastante pero está buenísimo sí eh Me parece que en serio que tiene mucho mucho
+potencial bueno no quiero extenderlo más eh Julieta Te dejo la verdad
+felicitaciones Sí con eso cerramos esta parte y la dejamos a Julieta para que
+bueno 5 minutitos más para hacer un cierre del curso Así que gracias por
+quedarse unos minutitos más eh Bueno antes de concentrarme en el cierre del
+curso voy a hacer una tanda publicitaria si me permiten aprovechando la ocasión
+contándoles que bueno este curso como les contamos desde el principio fue
+organizado por dos facultades de la uba la Facultad de ingeniería Dónde está el
+laboratorio eh de sistemas embebidos que tenemos acá toda la cúpula esté a
+cargo de este curso donde se desarrollan varios posgrados que tienen que ver
+con estas temáticas Que si alguno está interesado por supuesto van a ser más
+que bien recibidos y por otro lado eh desde la especialización ante la
+detección y Cid que desarrollamos en de la uva eh donde estamos abriéndonos a
+tener nuevos cursos de actualización y perfeccionamiento cómo Este Entonces sí
+también si alguno está interesado en de especialización no tiene más que
+contactarnos existe la modalidad presencial y la modalidad remota les podemos
+dar la información que necesiten y otro de los cursos que tenemos también de
+perfeccionamiento y actualización es el de Google adsense que tenemos dos
+versiones una que es inicial y una que es avanzada la inicial la vamos a estar
+dando ahora en junio la avanzada por ahora este año no tiene pero tal vez eh
+haya alguna en el segundo cuatrimestre y si no en el primer cuatrimestre del
+año que viene Eh bueno volvamos Ahora sí al cierre del curso el curso este
+generó realmente un gran interés que creo que por lo menos a nosotros nos
+superó las expectativas es una temática muy novedosa y con un potencial enorme
+cada uno de ustedes vino con expectativas diversas Ojalá que el curso las haya
+cubierto y que les haya abierto nuevos interrogantes e intereses A partir de lo
+que hablábamos a partir de lo que se habló y a partir También de todo lo que se
+presentó en esta gran diversidad de trabajos no lo que también tienen los
+posgrados es esto de que la gente que viene de distintas carreras y de
+distintos trabajos y eso es muy enriquecedor es importante destacar que tienen
+una oportunidad muy valiosa que es la de conectar mediante el programa de
+vinculación con la otra pata que le falta a ustedes que es la tecnológica con
+la posibilidad de concretar la posibilidad concreta de asociarse de alguna
+manera Con quienes tienen los conocimientos que a ustedes les faltan y poder
+avanzar con estos proyectos y hacerlos realidad esto creo que es un gran
+diferencial de este curso y me parece que es una oportunidad buenísima que haya
+tanta receptividad del otro lado para poder buscar un win-win y salir beneficia
+poder desarrollar algo que quede más que en este trabajo práctico no que que
+pase a ser una aplicación concreta con un uso real que le sirvan bien Creo que
+es una de las mejores cosas que podría pasar en el futuro una de las mejores
+cosas que podía pasar Es que en las próximas ediciones de este curso en lugar
+de ser las empresas que vinieron a mostrar sus ejemplos ustedes sean parte de
+esas empresas O sea que si esto ustedes lo pueden avanzar y lo pueden concretar
+también vengan y lo muestren sería excelente realmente creo que sería una gran
+satisfacción para todos Eh bueno Otro aspecto importante y valioso que ustedes
+van a poder continuar interactuando en función de sus intereses con los otros
+participantes de este curso el grupo de WhatsApp va a quedar abierto y no se
+pueden escribir por ahí o por mail como quieren y como diría este que no se
+corte no que que no no terminé acá sino que los invitamos a que más allá de
+este trabajo puedan eh realmente avanzar con este y profundizar en esta
+temática porque eh claramente que en cuatro clases Esto es algo muy
+introductorio pero al poder juntarse aparte con alguien que sabe más de esta
+temática van a tener la posibilidad de profundizar mucho más Esta es la primera
+edición del curso y seguramente va a haber cosas que destacar y cosas que
+mejorar por eso les vamos a pedir que se tomen un ratito para contestar una
+encuesta que les vamos a estar enviando ahí tendrán la posibilidad de calificar
+distintos aspectos entre los que se encuentran su interés por las
+presentaciones de las distintas empresas que participaron del curso puede ser
+que no se acuerden de algunas que por ahí pusimos el nombre del expositor y el
+nombre de la empresa pueden recurrir a los para recordar cuál era cada una si
+quieren y eso La verdad que nos va a ayudar mucho porque en el las empresas que
+tuvieron más interés las volvamos a invitar Y si alguna no género tanto interés
+la podamos reemplazar por otra Así que les vamos a agradecer mucho que la
+encuesta la puedan contestar un ratito y se tomen en todos los aspectos eh
+Porque seguramente que nos va a ayudar a mejorar el último punto de la encuesta
+es opcional y consiste en redactar su experiencia con el curso para
+recomendarlo a potenciales interesados si les gustó recomienden a sus amigos y
+si no les gustó a sus enemigos pero siempre recomiendan los por último quiero
+destacar el compromiso de los docentes que han hecho un gran acompañamiento de
+las propuestas de los trabajos y de nuestra parte Les agradecemos inmensamente
+como dato de color eh habrán notado que hoy Ariel no nos pudo acompañar tiene
+una causa muy particular y hermosa que es que ayer nació su segunda hijita eh Y
+por eso no puedo estar ahí presente y como buena hija de ingeniero nació
+exactamente el día en el que estaba pronosticado que nazca puntual eh Así que
+bueno Les agradecemos a todos por haber confiado y esperemos que esté sea el
+puntapié de un gran futuro en sus actividades laborales que incluyan estos
+temas y que les sirvan para avanzar para profundizar para buscar nuevos caminos
+tal vez este y nuevas asociaciones así que de nuestra parte Muchísimas gracias
+a todos no sé si los docentes quieren decir algo más no de mi parte nada
+solamente agradecer a todos los que participaron en el interés las devoluciones
+eh Y no mucho más Muchas gracias también un gusto haber compartido con ustedes
+y Bueno estamos a disposición para lo que necesiten buenísimo Gracias a todos
+que también nosotros aprendemos con ustedes términos nuevos tenemos que poner
+en línea Jajaja Gracias y éxitos a todos bueno Muchas gracias a todos y bueno
+ojalá que nos veamos en el futuro este mucha suerte y gracias por participar
+gracias gracias gracias gracias gracias gracias Hasta luego gracias saludos
