@@ -72,7 +72,7 @@
             <h3>🧠 Algunos nombres populares</h3>
             <div style="display: flex; align-items: center; gap: 2rem;">
               <div style="flex: 1;">
-                <img src="./images/ia_ml_ann_dl.png" style="max-width: 100%; border-radius: 1rem;">
+                <img src="./images/ia_ml.png" style="max-width: 100%; border-radius: 1rem;">
               </div>
               <div style="flex: 1;">
                 <table style="font-size: 0.7em;">
@@ -83,16 +83,16 @@
                     </tr>
                     <tr>
                       <td>📈 Machine Learning (ML) o Aprendizaje Automático</td>
-                      <td>Subconjunto de IA que aprende de datos</td>
+                      <td>Subconjunto de IA que aprende de <strong>datos</strong></td>
                     </tr>
-                    <tr>
-                      <td>🧠 Red Neuronal Artificial (ANN)</td>
-                      <td>Subconjunto de ML basado en redes neuronales</td>
-                    </tr>
-                    <tr>
-                      <td>🌊 Deep Learning (DL) o Aprendizaje Profundo</td>
-                      <td>Subconjunto de ANN basado en redes neuronales profundas</td>
-                    </tr>
+                    <!-- <tr> -->
+                    <!--   <td>🧠 Red Neuronal Artificial (ANN)</td> -->
+                    <!--   <td>Subconjunto de ML basado en redes neuronales</td> -->
+                    <!-- </tr> -->
+                    <!-- <tr> -->
+                    <!--   <td>🌊 Deep Learning (DL) o Aprendizaje Profundo</td> -->
+                    <!--   <td>Subconjunto de ANN basado en redes neuronales profundas</td> -->
+                    <!-- </tr> -->
                   </tbody>
                 </table>
               </div>
@@ -157,13 +157,13 @@
           </section>
           <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
             <h3>🤖 ¿Qué es la Inteligencia Artificial?</h3>
-            <h4>📌 Algunos ejemplos simples</h4>
+            <h4>📌 Algunos ejemplos</h4>
             <ul>
               <li>🧑 Reconocer el tipo de plantación en base a imágenes satelitales como las de Google Maps</li>
               <li>🌧️ Pronosticar lluvias </li>
-              <li>🌐 Traducir idiomas en tiempo real</li>
               <li>🌿 Recomendar tratamiento para una planta enferma</li>
               <li>🍎 Estimar grado de maduración</li>
+              <li>🌐 Traducir idiomas en tiempo real</li>
             </ul>
           </section>
           <section data-auto-animate data-background-color="#FFF8DC" data-background-transition="zoom">
@@ -241,10 +241,12 @@
             <ul>
               <li>Formularios de clientes</li>
               <li>Historial de ventas</li>
-              <li>Sensores (IoT)</li>
               <li>Redes sociales</li>
               <li>Bases de datos abiertas</li>
               <li>Web scraping</li>
+              <li>Mediciones hechas a mano en campo</li>
+              <li>Sensores (IoT)</li>
+              <li>Imágenes: RGB, Multi-espectrales, Infrarojas, Satelitales</li>
             </ul>
           </section>
           <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
@@ -348,8 +350,8 @@
             <h4>🔮 Inferencia</h4>
             <p>(Cuando el modelo usa lo aprendido)</p>
             <ul>
-              <li>Detectar una cara</li>
-              <li>Predecir el precio de una casa</li>
+              <li>Detectar una cara o una fruta</li>
+              <li>Predecir el precio de una casa o la temperatura ambiente</li>
               <li>Generar un texto</li>
             </ul>
           </section>
@@ -439,16 +441,163 @@
           <section data-background-color="#F7D9C4" data-background-transition="zoom">
             <h3>🔁 RESUMEN</h3>
             <p>Un resumen visual de todo el proceso:</p>
-            <img src="./images/./proyecto_ia.drawio.png" style="height: 350px; border-radius: 1rem; margin: 0 auto 4rem auto; background: transparent;">
+            <img src="./images/./proyecto_ia.drawio.png" style="height: 150px; border-radius: 1rem; margin: 0 auto 4rem auto; background: transparent;">
           </section>
 
           <section data-background-color="#F7D9C4" data-background-transition="zoom">
             <h3>✅ Ideas clave</h3>
             <ul>
-              <li>Un proyecto de IA es mucho más que “crear un modelo”.</li>
+              <li>Un proyecto de IA es mucho más que "crear un modelo".</li>
               <li>El 80% del trabajo está en los datos y su evaluación.</li>
               <li>Desplegar la IA con éxito requiere pensar en los requerimientos de la solución y las limitaciones del mundo real.</li>
             </ul>
+          </section>
+
+          <!-- Ejemplo concreto: Dataset Iris -->
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌺 Ejemplo concreto: Dataset Iris</h3>
+            <h4>Un caso clásico de clasificación</h4>
+            <p>Vamos a ver cómo se aplica todo el proceso que acabamos de describir con un dataset muy conocido.</p>
+          </section>
+
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌺 Ejemplo concreto: Dataset Iris</h3>
+            <h4>1. Adquisición de datos</h4>
+            <div style="display: flex; align-items: center; gap: 2rem;">
+              <div style="flex: 1;">
+                <p>Se midieron <strong>4 características</strong> de 150 muestras de flores iris:</p>
+                <ul style="font-size: 0.8em;">
+                  <li>Longitud del sépalo</li>
+                  <li>Ancho del sépalo</li>
+                  <li>Longitud del pétalo</li>
+                  <li>Ancho del pétalo</li>
+                </ul>
+                <p style="font-size: 0.8em;">De <strong>3 especies</strong> diferentes: setosa, versicolor y virginica</p>
+              </div>
+              <div style="flex: 1;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/256px-Iris_versicolor_3.jpg" alt="Iris versicolor" style="max-width: 100%; border-radius: 1rem;">
+                <p style="font-size: 0.6em; text-align: center; margin-top: 0.5rem;">Iris versicolor</p>
+              </div>
+            </div>
+          </section>
+
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌺 Ejemplo concreto: Dataset Iris</h3>
+            <h4>2. Preparación de datos</h4>
+            <ul>
+              <li><strong>Separación:</strong> 70% entrenamiento, 30% evaluación</li>
+              <li><strong>Normalización:</strong> escalar las características para que tengan el mismo rango</li>
+              <li><strong>Etiquetado:</strong> ya estaba hecho (setosa, versicolor, virginica)</li>
+            </ul>
+            <p style="font-size: 0.8em;">💡 <strong>Nota:</strong> El preprocesamiento puede incluir mucho más: detección de outliers, imputación de valores faltantes, selección de características, aumento de datos, etc.</p>
+          </section>
+
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌺 Ejemplo concreto: Dataset Iris</h3>
+            <h4>3. Diseño del modelo</h4>
+            <p>Elegimos un <strong>clasificador de Máquinas de Vectores de Soporte (SVM)</strong></p>
+            <p style="font-size: 0.8em;">(No nos enfocamos en los detalles técnicos, solo que es un algoritmo de clasificación)</p>
+          </section>
+
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌺 Ejemplo concreto: Dataset Iris</h3>
+            <h4>4. Entrenamiento</h4>
+            <p>El modelo aprende a distinguir entre las 3 especies usando las 4 características medidas.</p>
+            <p style="font-size: 0.8em;">⏱️ En este caso, el entrenamiento es muy rápido (segundos) por la simplicidad del dataset.</p>
+          </section>
+
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌺 Ejemplo concreto: Dataset Iris</h3>
+            <h4>5. Evaluación</h4>
+            <p>Probamos con el 30% de datos que el modelo nunca vio durante el entrenamiento.</p>
+            <p style="font-size: 0.8em;">📊 Métricas típicas: precisión, recall, F1-score</p>
+          </section>
+
+          <section data-auto-animate data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>🌺 Ejemplo concreto: Dataset Iris</h3>
+            <h4>6. Despliegue</h3>
+            <p>El modelo podría usarse en una app móvil para identificar especies de iris en el campo.</p>
+            <p style="font-size: 0.8em;">(No profundizamos en los detalles de implementación)</p>
+          </section>
+
+          <section data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>💻 Demostración práctica</h3>
+            <p>Ahora vamos a ver el <strong>código Python</strong> que implementa todo este proceso:</p>
+            <ul>
+              <li>✅ Carga y preparación de datos</li>
+              <li>✅ Entrenamiento del modelo</li>
+              <li>✅ Evaluación y métricas</li>
+              <li>❌ No incluye recolección ni despliegue</li>
+            </ul>
+          </section>
+
+          <section data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>📊 Resultados del pipeline</h3>
+            <div style="font-size: 0.9em; text-align: left;">
+              <p><strong>Datos procesados:</strong></p>
+              <ul>
+                <li>150 muestras → 105 entrenamiento, 45 evaluación</li>
+                <li>4 características normalizadas</li>
+              </ul>
+              <p><strong>Rendimiento del modelo:</strong></p>
+              <ul>
+                <li>🎯 <strong>Precisión general: 91.1%</strong></li>
+                <li>setosa: 100% (15/15 correctas)</li>
+                <li>versicolor: 93% (14/15 correctas)</li>
+                <li>virginica: 80% (12/15 correctas)</li>
+              </ul>
+              <p style="font-size: 0.9em; margin-top: 1rem;">
+                💡 <strong>Interpretación:</strong> El modelo distingue perfectamente la setosa, 
+                pero tiene cierta dificultad para separar versicolor de virginica (especies más similares).
+              </p>
+            </div>
+          </section>
+
+          <section data-background-color="#F7D9C4" data-background-transition="zoom">
+            <h3>📊 Análisis detallado de resultados</h3>
+            <div style="display: flex; align-items: center; gap: 2rem;">
+              <div style="flex: 1;">
+                <h4>Matriz de confusión</h4>
+                <div style="text-align: center; margin: 1rem 0;">
+                  <table style="border-collapse: collapse; margin: 0 auto; font-size: 0.8em;">
+                    <tr>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #f0f0f0; font-weight: bold;"></td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #e0e0e0; font-weight: bold; text-align: center;">setosa</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #e0e0e0; font-weight: bold; text-align: center;">versicolor</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #e0e0e0; font-weight: bold; text-align: center;">virginica</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #e0e0e0; font-weight: bold;">setosa</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #d4edda; text-align: center; font-weight: bold;">15</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #f8d7da; text-align: center;">0</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #f8d7da; text-align: center;">0</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #e0e0e0; font-weight: bold;">versicolor</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #f8d7da; text-align: center;">0</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #d4edda; text-align: center; font-weight: bold;">14</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #fff3cd; text-align: center;">1</td>
+                    </tr>
+                    <tr>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #e0e0e0; font-weight: bold;">virginica</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #f8d7da; text-align: center;">0</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #fff3cd; text-align: center;">3</td>
+                      <td style="border: 1px solid #333; padding: 8px; background-color: #d4edda; text-align: center; font-weight: bold;">12</td>
+                    </tr>
+                  </table>
+                  <p style="font-size: 0.6em; margin-top: 0.5rem; color: #666;">
+                    🟢 Correctas | 🟡 Errores entre versicolor/virginica | 🔴 Otros errores
+                  </p>
+                </div>
+              </div>
+              <div style="flex: 1;">
+                <h4>Visualización de clasificación</h4>
+                <img src="./images/iris_classification.png" alt="Clasificación de Iris" style="max-width: 100%; border-radius: 1rem;">
+                <p style="font-size: 0.6em; text-align: center; margin-top: 0.5rem; color: #666;">
+                  Datos de entrenamiento (izq) vs Prueba con predicciones (der)
+                </p>
+              </div>
+            </div>
           </section>
         </section>
 
