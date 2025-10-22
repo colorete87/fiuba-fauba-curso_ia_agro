@@ -557,7 +557,8 @@ button_reset = ModernButton(CONTROL_PANEL_LEFT + 260, CONTROL_PANEL_TOP + 20, 10
 button_auto_fit = ModernButton(CONTROL_PANEL_LEFT + 380, CONTROL_PANEL_TOP + 20, 100, 40, "Auto Fit", COLORS['danger'])
 
 # Learning rate and noise level sliders (first line)
-slider_lr = ModernSlider(CONTROL_PANEL_LEFT + 500, CONTROL_PANEL_TOP + 40, 180, 20, 0.000001, 0.01, 0.0001, "Learning Rate", COLORS['warning'])
+# Learning rate slider now uses log10 scaling: learning_rate = 10**slider_value
+slider_lr = ModernSlider(CONTROL_PANEL_LEFT + 500, CONTROL_PANEL_TOP + 40, 180, 20, -10, -1, -4, "Learning Rate (log10)", COLORS['warning'])
 slider_noise = ModernSlider(CONTROL_PANEL_LEFT + 700, CONTROL_PANEL_TOP + 40, 180, 20, 0, 20, 8, "Noise Level", COLORS['danger'])
 
 # Steps/sec and points textboxes (first line)
@@ -686,7 +687,7 @@ while running:
 
         # Botones
         if button_step.handle_event(event):
-            current_lr = slider_lr.value
+            current_lr = 10**slider_lr.value
             if fit_type in [3, 4]:  # MLP models
                 new_params = gradient_descent_step(points, fit_type, params, current_lr, mlp1 if fit_type == 3 else mlp2)
             else:
@@ -744,7 +745,7 @@ while running:
         if button_auto_fit.handle_event(event):
             # Auto fit with 100 steps
             for _ in range(100):
-                current_lr = slider_lr.value
+                current_lr = 10**slider_lr.value
                 if fit_type in [3, 4]:  # MLP models
                     new_params = gradient_descent_step(points, fit_type, params, current_lr, mlp1 if fit_type == 3 else mlp2)
                 else:
@@ -776,7 +777,7 @@ while running:
         accumulated_time += dt
         steps_per_sec = textbox_steps.get_value()
         while accumulated_time >= 1.0 / steps_per_sec:
-            current_lr = slider_lr.value
+            current_lr = 10**slider_lr.value
             if fit_type in [3, 4]:  # MLP models
                 new_params = gradient_descent_step(points, fit_type, params, current_lr, mlp1 if fit_type == 3 else mlp2)
             else:
