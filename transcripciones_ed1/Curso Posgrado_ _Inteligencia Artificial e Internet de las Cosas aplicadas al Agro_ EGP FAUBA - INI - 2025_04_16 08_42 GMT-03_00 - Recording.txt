@@ -1,0 +1,1676 @@
+un día Buen día Celeste Cómo estás Cómo andan todos por ahí más tempranito ahí
+están está muy bien responsables nos amenazamos Hola buen día Hola Pedro Buen
+día damos la clase desde ahí y va a estar fresco llegó al jefe está bien Va
+cayendo gente al baile César Buen día cómo andan Hola buen día Yo sugiero de
+comenzar en horario con el cuestionario Así nada que lo que quedamos y aparte
+así la gente que se conecta puntual tiene unos minutos si es difícil para dónde
+funcionamiento instructivo no sé si tenés el link por ahí La idea es que lo
+pasé muy mal que sufran verdad Julieta Piedad con los de Instagram por favor yo
+eh acá no corto ni Pizza toda la maldad viene de la facultad de ingeniería
+tiras la piedra y ocultas la mano neta vos no dijiste que no tengamos Piedad
+alguien vos tenés a mano links no no pásamelo pásamelo directamente no lo tengo
+no lo tengo yo eh Jajaja las preguntas que que acordamos no las armaste en un
+cuestionario no porque entendí que estabas vos entendí que estabas vos con eso
+no No para nada bueno no se hace entonces bueno O sea la clase y hacemos una
+pausa nuevamente yo las armó ahora rápido dale dale total están asociadas
+también con lo que se dio la la clase anterior Así que no no habría problema
+pero bueno si me dan un segundito lo que sí como estoy con wi-fi porque tengo
+compu nueva y no tengo conexión a red voy a voy a pagar un ratito en la cámara
+por las dudas que se que se entre corté yo siempre le digo a los chicos el Día
+de las presentaciones tengan su cablecito ethernet por las dudas pero bueno
+estás máquinas modernitas ya vienen sin sin cable sin conexión a red vamos a
+poner la presentación en punta igual Ari cuando lo tengas lo hacemos porque hay
+gente que a lo mejor se tiene que ir un ratito sí me va a llevar unos unos
+minutos pero no sé a ver si quiere no sé si quieren armar unos minutos hacemos
+ahora al principio pero Tómate un ratito tampoco tiene mucho sentido bueno
+quizás hoy este celular podemos no ser tan sincrónicos y hacer unos minutitos
+sabiendo que es una excepción y que para la tarde el cuestionario Sí estaría a
+la 1 No así no sé si no la otra es que por ahí antes de hacer la parte de ver
+un poco de casos prácticos que lo van a ver con Cristian por ahí en ese ratito
+podemos meter el cuestionario que sería antes de que finalice la presentación a
+la UNAM no sé cómo lo ven no se cuéntenos se ven que se tiene que que cómo cómo
+eso cómo tienen sus horarios los eh alumnos tengo una persona que me dijo que
+tenía que ir a cosechar y que tenía que irse un ratito y volvía sincronizamos
+eso Perdón yo entre la 1:00 y las 3 voy a estar un poquito complicado voy a
+entrar y escuchando la la clase pero no sé si voy a poder eh responder un
+cuestionario por ejemplo bueno eso sería para el de la tarde después Sí para la
+tarde ahora a la mañana no tengo problema bueno Entonces qué hacemos allá un
+rato confirmar que esté todo bien o no lo hago Dale dale dale bueno comenzamos
+bueno para los que no me conocen Mi nombre es Celeste corominas Yo Soy
+ingeniero en telecomunicaciones y me especialicé en internet de las cosas estoy
+ya hace 4 años trabajando en el laboratorio de sistemas embebidos empecé
+asistiendo a Ariel y a Pablo en la parte de de la dirección y también doy
+clases en dos materias que son gestión de proyectos y taller de trabajo final y
+hace un año y medio me incorporé en un nuevo rol que es el de coordinadora
+académica en la carrera de especialización que tenemos en el laboratorio que es
+en internet de las cosas está presentación la vamos a dar en conjunto con
+Cristian Yáñez que también es docente y coordinadora académico en el caso del
+de la carrera de sistemas embebidos en el laboratorio yo voy a estar dando
+ahora en la parte teórica y él va a quedar asistiendo me en el chat con las
+llegar a tener y después va a dar algunos casos prácticos porque bueno él es el
+ingeniero como el más práctico de nosotros dos yo soy como más la ingeniera
+teórica o por ahí la académica y él es el que está más en contacto con los
+fierros bueno De qué vamos a hablar en la clase de hoy de cómo internet de las
+cosas o it va cambiando el agro desde mi rol como bueno como ingeniero en
+telecomunicaciones que les contaba me entusiasma mucho poder compartir con
+ustedes como todas estas tecnologías nos permiten tomar decisiones mejor
+informadas poder ahorrar recursos y monitorear distintos procesos que antes por
+ahí eran eran invisibles Entonces quiero que se imaginen algo que el campo
+pueda hablar que los cultivos los Silos las bombas los animalitos puedan
+contarnos que les pasa que les está pasando si tienen sed sí eh hace calor
+dónde están si les está pasando algo que se encuentran en peligro entonces en
+en esencia lo que nos permite eh internet de las cosas es convertir cosas que
+son inertes en una fuerte una fuente de información que va a ser súper valiosa
+Cuáles serían los puntos claves bueno acá tener en cuenta que es eh Hay autismo
+pensemoslo como objeto físicos que están conectados que se que van a recolectar
+información la van a transmitir y van a reaccionar a datos en el agro en que se
+va a traducir esto en sensores en actuadores en nodos en lo que son redes En
+plataformas que van a automatizar todo lo que tiene que ver con monitoreo y en
+alguna acción específica la clave es ésta no que el campo ya genera datos ahora
+el desafío nuestro es datos y poder actuar en consecuencia vamos a hablar un
+poquito de lo que son los los beneficios del uso de internet de las cosas en lo
+que es agro no pensamos solamente en lo que es agricultura cuando yo digo abro
+el potencial de la tecnología de internet de las cosas también alcanza Bueno lo
+que es la ganadería lo que tiene que ver con el manejo del agua las
+instalaciones Rurales a la logística en todo lo que son los entornos
+productivos Entonces por ejemplo en lo que son cultivos nos permite medir en
+tiempo real por ejemplo sería la humedad del suelo la temperatura que tenemos
+en el ambiente la radiación solar y esto En qué se va a traducir bueno en
+decisiones más precisas en si tenemos que regar si hay que fertilizar o en el
+momento de que tocas sembrar ya no se trabaja Cómo se trabajaba antes eh Por
+calendarios sino que se te va a trabajar en función a lo que son las
+condiciones reales si nos ponemos a ver desde el lado de la ganadería lo que se
+puede hacer es controlar variables estos estuvo viendo la la clase anterior
+cuando presentaron las empresas lo que se puede controlar sobre este tipo de
+variables como el peso de los animales Cómo se están comportando O sea Sí se
+nota que ahí con algún comportamiento raro es porque algo le está pasando el
+animal su locación Dónde está ubicado y cómo se hace esto a través bueno de
+balanzas inteligentes a través de sensores de movimiento o lo que comentaban en
+la charla anterior estás caravanas electrónicas que se van automatizando en
+tareas que pueden tener que ver con lo que es la lectura de datos sanitarios y
+el animal está vacunado si el animal por ejemplo está está en celo o poder
+hacerle la gestión eh sin lo que pasaba antes que era el el estrés animal
+después en lo que es la infraestructura rural internet de las cosas nos va a
+ayudar también a monitorear lo que son pozos eh tanques bombas puedes usarse
+para compuertas ventiladores en en algunos galpones pensemos por ejemplo que
+tenemos un galpón con con aves con pollos y que por ahí sube demasiado la la
+temperatura entonces tener un un sensor con este tipo de tecnología lo que nos
+permite es que se active automáticamente un sistema de ventilación y que los
+animales no sufran ese cambio brusco de temperatura en el lugar donde donde
+están viviendo en todos estos casos lo que se busca es reducir el consumo
+innecesario siempre de de recursos o sea menos agua menos energía menos
+combustible para lo que son eh los traslados menos tiempo dedicado a tareas
+bueno que lo hablábamos la clase anterior tareas repetitivas o controles
+manuales no esto de tener que ir tomando los datos a mano que esa información
+se se pueda perder que no no se midan bien o sea con uno acá mete mucho el el
+error humano Entonces en este caso las personas se pueden enfocar un poco más
+en lo que son tareas de análisis y poder tomar decisiones Y de alguna forma
+poder delegar el control operativo más a lo que son los sistemas Qué pasa acá
+con internet de las cosas nos va a impactar de forma transversal en lo que
+tiene que ver con la agricultura con la ganadería con las instalaciones eh con
+el agua con esta cuestión también de de la logística De qué manera bueno
+nosotros a partir de la automatización podemos trabajar con determinadas o sea
+tomar decisiones medir determinadas variables que van a estar medidas por
+ejemplo por sensores que ahora después vamos a entrar en en un poco más de
+detalles sobre lo que son los sensores y otra cosa importante es que a partir
+de todo esto que contamos mejora la eficiencia y va a reducir este margen de
+error eh provocado por por el Humano o sea el Humano sigue siendo necesario
+pero en algunas cosas al usar estas tecnologías podemos hacerlo un poco menor
+bueno acá vamos a empezar viendo lo que es una arquitectura eh Hay autismo es
+una visión general está les voy a contar una anécdota porque van a ver que doy
+muchos ejemplos con respecto al tema del riego este verano me toca me tocó
+quedarme a cuidar a la gatita de mi hermano mi hermano es fanático de las
+plantas entonces tenía una sección de orquídeas y bromelias después tenía
+cactus Entonces él dejó eh puesto un sensor que ha sido activando para regar
+para determinada cantidad de tiempo él me dice Bueno fíjate los cactus sabes
+cómo son que no van a necesitar demasiada agua y no te preocupes por las
+bromelias y por las orquídeas bueno la cuestión que el que hizo fue contemplar
+más o menos la lluvia del verano pasado de enero y dijo Bueno pongo el río cada
+dos días pero tuvimos un verano un enero súper caluroso entonces lo que pasó el
+en vez de utilizar un sensor que directamente mide la humedad del suelo y a
+partir de eso active un riego a él lo que le pasó Es que él dijo bueno que
+riegue cada dos días Entonces se le secaron las plantas por eso es que justo
+cuando me toca dar este tema digo Bueno vamos a hablar de algo real que le pasó
+a él él no tenía instalado un sistema eh de internet de las cosas sino que
+tenía simplemente un sistema que lo que hacía ponía que se regaba cada dos días
+nada más O sea no es que tenía un sensor particular o algo así O sea a él se le
+abría el aspersor y Y regaban esa parte entonces bueno por eso traigo a
+colación van a ver que voy a hablar eh mucho del riego y de este de este tipo
+de de soluciones vamos a usar Este ejemplo sencillo que es el de automatizar El
+riego según la humedad que tengamos en en el suelo todo dónde va a empezar Acá
+en este caso es con un sensor de humedad este sensor va a estar colocado en el
+suelo y va a medir de forma continua Cuánta agua disponible van a tener las
+raíces de las plantas sí detecta que esta humedad baja de determinado valor va
+a generar un dato que va a ser un número que va a representar ese nivel ese
+dato no va a viajar solo va a estar enviado por un pequeño eh equipo
+electrónico ya vamos a ver que se llama eh nodo o también en algunos casos se
+lo puede llamar Gateway según el caso y la tarea de de este Gateway lo que hace
+es tomar la información que viene desde el sensor y la va a mandar a otro
+sistema para que este sistema la pueda interpretar A dónde llega esa
+información Bueno lo que se denomina un sistema remoto que puede ser eh la nube
+o una base de datos esto también puede ser una computadora local sí pensamos en
+la base de datos antes en la clase anterior se había hablado de la persona que
+estaba tomando los datos y los guardaba como en una libretita Bueno ahora la
+base de datos es lo que funciona como ese registro pero de forma digital sobre
+ese dato hay una parte lógica del sistema que es lo que llamamos backen también
+en un ratito vamos a hablar y el ba es lo que analiza si hay que hacer algo por
+ejemplo si la humedad está por debajo del 25% activar el riego que esto es lo
+que hubiera sido muy útil en el caso de los que les conté de la situación de mi
+hermano que es lo único que hizo es decir bueno regamos cada dos días teniendo
+en cuenta el calendario o sea cómo se cómo fue el clima el año pasado en enero
+entonces a partir de que la humedad esté baja se activa el riego si se cumple
+Esa condición el sistema lo que es lo que hace va a enviar una orden al
+actuador Entonces en este caso el actuador va a ser una válvula y o puede ser
+por ejemplo una canilla que es lo que va a hacer es abrirse solita para empezar
+a regar dónde podemos ver todo esto desde una aplicación una app o en la
+computadora esto que tenemos acá como como front-end y es la parte eh En el que
+usuario el usuario pueda ver todo puede Consultar los datos puede ajustar
+umbrales eh puedes activar manualmente por ejemplo el sistema si si fuera
+necesario porque por ahí lo que puede pasar es esto que puede llegar a ver un
+error y que esté regando cuando no no tiene que regar Bueno entonces para hacer
+un un resumen de lo que sería esta visión general estamos viendo una
+arquitectura básica de internet de las cosas el sensor va a ser el que mide la
+variable en este caso eh del ambiente como lo que sería la humedad que es lo
+que nos interesa el nodo o el Gateway es el que va a tomar el dato y lo va a
+transmitir la nube la nube y la base de datos van a almacenar la información el
+backend es el digamos que es el cerebro de todo no es el que va a analizar los
+datos y decide si tiene que actuar y el actuador es el que va a ser la la
+acción física que es la de bueno y el fernet es el que nos va a nosotros
+permitir o al usuario eh poder ver todo lo que pasa controlar y configurar todo
+Ahora sí vamos a entrar en los componentes de la arquitectura it y empezar a
+hablar un poquito más de cada uno lo que vimos recién es un un esquema típico
+vimos Cómo fluye está esta información en en lo que es un sistema de internet
+de las cosas y ahora vamos a ver un poquito más en detalle a ver esta esta
+arquitectura no es abstracta o sea está formada por dispositivos reales que se
+pueden instalar y que se pueden utilizar en el en el agro y que muchas de estas
+soluciones siempre son a medida y se pueden después escalar O sea no nos
+podemos quedar con una sola idea cada uno de estos componentes que estamos
+viendo nosotros acá cumple una función específica a ver que uno entienda no es
+que se va a volver experto en cada uno sino que nos va a permitir poder tomar
+una mejor decisión técnica en este caso y detectar eh más fácilmente dónde
+puede llegar a estar el problema si algo comienza a fallar Bueno vamos con
+nuestro amigo el sensor el sensor como dije antes lo que va a hacer es medir
+una variable física que levanta de del entorno puede ser por ejemplo la la
+humedad del suelo la temperatura el nivel de en un tanque del peso de un animal
+puede ser el el movimiento y es el punto de inicio del sistema donde se genera
+el dato ahí arranca todo después por otro lado tenemos el que es el equipo que
+se conecta al sensor es el que va a tomar eh la lectura y puede procesarla
+mínimamente por ejemplo convertir una señal eléctrica en un valor porcentual
+Por ejemplo yo tomo una atención a partir de de este sensor y después lo que
+hace es eh convertirla en un valor porcentual para decir bueno por ejemplo
+tengo un 30% de humedad y la va a preparar para poderla enviar hay nuevos por
+ejemplo que tienen autonomía que utilizan paneles solares y pueden tomar algún
+tipo de decisión simple Sí sí nos vemos que no no hay conectividad Bueno vamos
+a ir con el Gateway el Gateway lo que va a hacer es actuar como una especie de
+puente entre nodos y un sistema más amplio va a poder reunir datos de varios
+nodos y los puedan lo que puedo hacer es mandarlos eh de forma agrupada y acá
+cuando es útil tener un Gateway cuando las distancias son grandes o cuando eh
+No hay una conexión directa a internet Bueno vamos a la parte de protocolos de
+comunicación va a ser el lenguaje que usan estos dispositivos para poder
+entenderse entre sí Y estos protocolos lo que hace lo que permiten es asegurar
+que los datos viajan correctamente que no haya pérdidas en el medio de
+información que no haya errores y que del otro lado se puede interpretar como
+como corresponde ahora ya tenemos la nube y la nube es el el entorno es
+terremoto que hablábamos antes dónde se van a alojar los datos como esto está
+online uno puede entrar y consultar desde cualquier lugar y en cualquier
+momento y también ayuda eh uno tiene que compartir información entre entre
+varios usuarios o varios sistemas que es lo que está muy bueno de que esté
+online otra de las partes importantes es la base de datos a esto que veníamos
+hablando no de la persona que registraba sus datos en un papelito y ese
+papelito se le podía mojar se le podía perder Bueno a la base de datos por
+suerte no le pasa eso Y esta es la que guarda el el historial completo de las
+mediciones no solo nos va a mostrar el el último valor sino que también nos va
+a permitir eh poder analizar la evolución en el tiempo poder detectar si hay
+algún tipo de patrón y hacer eh comparativas con con otros momentos después por
+otro lado tenemos la parte del bacon que lo que les decía yo que es como el el
+cerebrito no es la parte lógica del del sistema y acá se van a definir todas
+las reglas automáticas esto que les comentaba no de que si el sensor detecta
+que hay bajo humedad va a decir bueno se tiene que activar el riego en algunos
+casos también se puede utilizar para generar alertas lo que son informes o
+algún tipo de de tarea programada bueno bacon vamos a a lo que es el el
+front-end y el dashboard el front-end es como lo que denominamos interfaz
+gráfica con la que el usuario va a terminar interactuando y tiene que ver con
+todo lo que son las pantallas los menudo que uno ve los gráficos las opciones
+de configuración dentro de lo que es el front-end porque a veces uno dice
+frontal es lo mismo bueno dentro del front-end está el dashboard que el
+dashboard es el panel de control visual dónde se van a mostrar eh todos los
+datos que son los que nosotros necesitamos ver el está info que tiene que ser
+resumida tener gráficas que nos importan algunos indicadores como decía antes
+que el front-end podía activar alguna alerta bueno la alerta la vamos a ver acá
+en este dashboard algún tipo de mapa que genere interés y este es el que nos
+permite saber o sea por ahí de de un vistazo Si todo lo que está eh funcionando
+lo está haciendo bien Cuáles son los sensores que está que están activos si hay
+algún tipo de alerta si hubo algún valor crítico cómo evolucionó Entonces poder
+tener acceso a un dashboard es importante para si uno tiene que tomar una
+decisión hacerlo rápido y que esa decisión también sea acertada no y después
+por otro lado tenemos el el actuador que va a hacer este dispositivo que como
+contaban la clase pasada es el que va a ejecutar no la acción física en el
+entorno en el caso de bueno que hablábamos antes de esa vista general de la
+arquitectura de internet de las cosas se da el que a partir de detectar de que
+había determinada humedad en el suelo se activa por ejemplo eh por ahí una
+canilla o bueno o habría una válvula puede llegar a encender una bomba en el
+caso de bueno de alimentar a distintos animales puede mover el el alimento de
+un lado al otro también esto de poder Activar una alarma frente a algún evento
+que surja y en un punto es el que termina eh cerrando el circuito y transforma
+el el dato en lo que es una intervención real por eso es que se llama actuador
+porque es el que actúa bueno esto por ahí ustedes no están interiorizados
+seguramente con lo que es el modelo Osi Ahora les voy a contar en
+telecomunicaciones electrónica o informática para entender cómo viaja la
+información desde un sensor hasta una pantalla como pasa por las distintas
+capas o niveles se usa lo que son distintos modelos en entre estos es el más
+conocido y el más utilizado es el modelo Osi que viene de Open System
+interconnection o interconexión de sistemas abiertos y se lo puede pensar como
+una cadena de trabajo que está dividida bueno en estos siete escalones que
+vemos acá como donde cada uno se va a encargar una parte específica de este
+proceso de de comunicación en el contexto de lo que estamos viendo ahora eh
+Para agro no siempre se usan las siete capas completas pero la lógica general
+que les voy a mostrar ahora es útil como para entender cómo fluye la la
+información o sea desde la parte física hasta la aplicación y arriba de la
+aplicación es Dónde dónde está el usuario No ahora Igual vamos a ver cada uno y
+si bien no hay una única forma de de representar un sistema de de
+comunicaciones Este modelo que tiene siete capas es el como más habitual y nos
+da como un marco Claro para analizar Cómo se van a conectar los distintos
+componentes lo podemos ver con el ejemplo este del sensor de humedad que que
+mide la tierra y bueno después en funcionar qué tan seco está activa el riego
+Entonces si vamos a la capa física Es lo que va a ser el el Hardware real va a
+ser el sensor eh lo que tiene que ver bueno por ahí el con el actuador todo lo
+que tiene que ver con el cableado la antena la y el ejemplo que podemos dar acá
+bueno es el sensor de humedad con la antena que va a emitir determinadas
+señales ahora ya cuando pasamos a la capa 2 Es la capa del enlace de datos Y
+esta es la que va a establecer cómo se transmite la señal entre dos equipos que
+están cerca es la que va a controlar todos los errores y se va a asegurar de
+que el mensaje eh llegue bien Y en este caso por ejemplo es el sensor el que
+habla con el nodo usando una eh red inalámbrica confiable en la capa 3 lo que
+tenemos es la capa de red que es la que se va a encargar de que estos datos
+lleguen al destino correcto Aunque tengamos muchos caminos posibles un ejemplo
+claro sería eh que los datos van a viajar desde el campo hasta un servidor en
+la nube y van a ir atravesando distintas rutas digitales Ahora cuando pasamos a
+la capa 4 que es la capa de transporte está es importante todas son importantes
+pero esta es muy importante porque es la que va a controlar Cómo viajan los
+datos Y esto es como si tuviéramos que mandar varias cajas que están numeradas
+en distintos camiones y al llegar el sistema lo que hace es verificar que estén
+todas completas y en el orden correcto Y si falta una o alguna llegada dañada
+lo que se hace es volverla a pedir entonces un ejemplo clave de esto puede ser
+que si el dato de la humedad se corta a mitad del camino esta capa va a ser la
+que pide envíame el valor porque lo perdí en el medio ahora pasamos a la sesión
+esta capa es la que va a establecer de alguna Por decirlo de alguna forma la
+conversación entre dos puntos por ejemplo puede ser entre el sensor y el
+servidor mientras el sensor está midiendo sigue manteniendo la conexión abierta
+con el sistema O sea no es que corta la conexión están midiendo pero eh sigue
+conectado por otro lado después tenemos la capa de presentación que es la que
+va a traducir estos datos a un formato que el software pueda entender
+Generalmente lo que tenemos nosotros son mediciones de alguna variable
+eléctrica por ejemplo puede ser un voltaje que mide un sensor o una corriente y
+la va a traducir en este por ejemplo como dije antes 30% de humedad tanta
+cantidad de bolt son para para hacer la traducción en un 30% de humedad Y por
+último tenemos el la capa la capa de aplicación que es la que interactúa con el
+usuario o el sistema de control O sea ya estamos yendo eh casi hasta hasta el
+usuario y acá es donde muestra dónde vamos a ver el el dato en el en el
+dashboard acá es donde vamos a ver que se dispara una alerta eh o si se tiene
+que activar una una válvula si hace falta así que bueno Ese es el eh Para que
+tengan una una noción general lo que es el el modelo Sí y después Si escucharon
+alguna vez el chiste de que es un error de capa 8 bueno es el usuario Entonces
+es un Es un chiste medio para los electrónicos los que estamos en esta que
+suele ser la culpa la tiene el que está sentado en la silla y no es de de las
+capas anteriores Bueno para qué sirve esto en el agro aunque no tengamos que
+que diseñar cada capa entender que la comunicación no es algo eh mágica no
+aunque nos va a ayudar por ejemplo a a detectar si hay algún tipo de de falla
+si el problema está en el sensor en la red en la aplicación a poder elegir
+tecnologías que sean apropiadas para cada entorno rural a comprender porque
+algunas redes eh Son más estables algunas son más lentas otras son más costosas
+bueno y después lo que vamos a ver nos vamos a ir metiendo no cada vez más en
+en lo que es el sistema de a poquito y vamos a ver eh En este caso vamos a ir
+de lo que es de la medición a la acción y el ciclo básico de de at&t lo podemos
+pensar con una secuencia lógica de de tres pasos que permite tomar decisiones
+que sean de tipo eh automática a partir de lo que pase en el entorno entonces
+este ciclo así como lo vemos que es eh sensor nodo y actuador es el corazón de
+muchas soluciones de de internet de las cosas que están por ejemplo en este
+caso aplicadas al agro es sencillo lo podemos escalar y sobre todo va a ser muy
+útil cuando nosotros tenemos que resolver eh situaciones reales sin tener que
+hacer una una instalación enorme o eh tener que contar con una infraestructura
+muy compleja hay que tomar un poquito de agua bueno como habíamos visto antes
+con el esquema sencillito que les había mostrado del del sistema de riego todo
+arranca con este sensor y este es el que va a medir la variable concreta que
+queremos en el ambiente en lo que es agro puede ser por ejemplo la humedad en
+el piso la temperatura nos puede importar también la luminosidad que hay en el
+el peso del de un animal Entonces por ejemplo pensando en lo que es eh riego se
+podría pensar en un sensor capacitivo de humedad que esté a 20 o 30 cm de
+profundidad y que este nos indique eh cuando el perfil del del suelo comienza a
+secarse Qué es lo importante esto que el sensor no va a tomar decisiones ni
+actúa por su cuenta la función de él es como simple vive una variable del
+entorno y va a generar un dato a veces ese dato ya viene eh procesado Por
+ejemplo como una temperatura en grados o un valor de humedad y en otros casos
+es sólo una señal que viene bruta Pero lo importante es que ese dato por sí
+solo no va a hacer nada lo que verdaderamente nos va a importar es lo que va a
+venir después que es cuando ese dato se analiza se interpreta se analiza y se
+tiene que terminar convirtiendo en algún tipo de de acción o decisión dentro
+del sistema ahora vamos a lo que sería el nodo el el dato que recibimos de
+nuestro sensor tiene que ir al nodo este nodo es una pequeña placa electrónica
+puede ser 1.32 después también vamos a ver que puede ser lo que está dentro de
+una carcasa o de o de un gabinete y ese dato llega al nodo y lo que tiene que
+hacer es interpretar lo que dice el sensor y va a decidir qué es lo que va a
+hacer con esa información puedo hacer varias cosas puede procesar la
+información y convertirla en en lo que son datos guardarlo en en una memoria
+enviarlo a la nube si está configurado determinada forma puede tomar decisiones
+directamente en el lugar entonces volviendo al ejemplo de de la humedad en el
+caso de que esa humedad bajé de determinado umbral el módulo que puede hacer es
+abrir una válvula para regar sin necesidad de que alguien lo supervise o lo
+tenga que habilitar remotamente Entonces esto En qué casos es muy bueno por ahí
+sí estamos en una zona que no tenemos una buena conectividad porque lo que nos
+permite es que el sistema siga funcionando Incluso si se nos cae internet eso
+es eso es súper súper importante ahora vamos al actuador que es el que eh es el
+que va a ejecutar esta acción física puede llegar a ser bueno como les
+comentaba antes una válvula que se abre un motor que se enciende un un sistema
+de alimentación una alarma y está vendría a ser como es la parte tangible no es
+la que hace algo real con el dato que uno detecta al principio este ciclo que
+es este ciclo como de tres partes Es como lo que denominamos el esqueleto
+funcional de internet de las cosas o sea con solo estos tres elementos ya
+podemos automatizar un montón de tareas puede ser el riego la ventilación el
+control de temperatura en un silo eh activar las luces la alimentación
+automática y lo mejor es que se puede implementar con equipos que sean que son
+accesibles se puede hacer en etapas se puede hacer en eh adaptarlo al contexto
+de cada de o sea de cada necesidad que esto es lo que decía que bueno son
+sistemas que se pueden hacer eh A medida Bueno después vamos a ver algo los
+protocolos de de comunicación cuando hablamos de de protocolos y comunicaciones
+en internet de las cosas lo que hacemos es hablar de cómo viajan los datos por
+ejemplo en este caso del campo desde el campo hasta donde se tienen que tomar
+las decisiones este tema central en cualquier solución de de internet de las
+cosas porque no alcanza a contener sensores o actuadores o nodos si no se
+pueden comunicar entre ellos y enviar información útil a un sistema de gestión
+o por ejemplo un dashboard donde podamos visualizar Qué es lo que está pasando
+con nuestro con nuestro sistema Por qué son importantes bueno porque son el
+lenguaje que va a permitir que los dispositivos de alguna forma se entiendan
+son los que van a habilitar todo lo que tiene que ver con la conexión el
+intercambio de datos la operación coordinada de los distintos componentes del
+sistema que son bueno sensores los nodos actuadores los gateways las
+plataformas web las aplicaciones eh de celular y si no tenemos este protocolo
+nosotros eh bien definido estos dispositivos no van a poder así decirlo hablar
+entre entre ellos Entonces es como tener un sensor que mide perfectamente pero
+nadie sabe lo que dice entonces por eso son eh una pata fundamental el tema de
+los protocolos en en las en las comunicaciones Gracias a todos estos protocolos
+nosotros podemos enviar información para poder automatizar decisiones poder
+mandar una alerta en tiempo real Crea una solución que realmente funcione e
+incluso a veces en en lo que son bueno condiciones adversas por ejemplo un
+sensor de humedad en una parcela puede enviar una medición eh cada a través de
+bueno de de Lora Lora One que fue algo que que vimos la semana pasada pero que
+ahora vamos a entrar un poquitito más en detalle y en este caso la manda a
+través de de Lora y si detecta que hay sequía lo que va a hacer es activar una
+orden de riego o poder enviar un aviso al celular del del productor para que
+bueno que vea que tiene que tomar algún tipo de acción elegir bien este
+protocolo va a definir muchas cosas por ejemplo el tema del consumo de energía
+la distancia que se va a poder cubrir la velocidad del dato la seguridad qué
+tan fácil puede llegar a ser escalar nuestra solución para más adelante
+entonces Cuáles son los principales beneficios que buscamos es que haya
+interoperabilidad que esto es clave que distintos dispositivos se puedan
+integrar sin problema porque muchas veces cuando uno trabaja con soluciones a
+medida pasa esto de que lo que más hay que pensar es el tema de la
+interoperabilidad y que puedan ser compatibles los distintos módulos o
+dispositivos otra cosa importante también es la eficiencia energética que es
+algo fundamental en lo que son las zonas Rurales la escalabilidad poder empezar
+de a poquito y crecer sin tener que rehacer todo la seguridad también que es la
+protección de los datos que se van a a generar y y transmitir Cuáles son los
+protocolos de comunicación bueno por un lado tenemos se pueden agrupar según
+donde actúan por un lado tenemos las comunicaciones inalámbricas yo las voy a
+mencionar ahora pero después eh en las lides la tablita que vamos a poder hacer
+la comparativa por ejemplo está Bluetooth que es para una distancia corta es de
+bajo consumo Es útil Cuando tenemos que hacer una lectura con el celular
+estamos en el campo tenemos que hacer una lectura después Está también wi-fi
+que es fácil de implementar pero es limitado en lo que es la cobertura rural
+lorawan que se venía hablando que es ideal para grandes extensiones Rurales
+Esto es lo que hay que tener en cuenta con lorawan es que tiene como una un
+alcance importante que puede llegar hasta los 10 15 km pero si tenemos árboles
+o Arboledas o edificios en el medio por ahí no no están tan bueno en ese caso o
+tan o tan exacto después Tenemos también núcleo ltm que aprovechan las redes de
+celulares algo ya estuve estuvieron explicando las empresas la semana pasada y
+estás pueden enviar datos desde zonas donde no hay una infraestructura previa
+que a veces el tema cuando uno tiene que elegir este tipo de comunicación es si
+tiene que montar una infraestructura especial para esto pero lo vamos a ver
+ahora en un ratito y hacemos una tabla comparativa que tiene cada una después
+hay otro tipo de protocolos que tienen que ver con la aplicación y cómo se
+organiza el mensaje que si alguna vez bueno http seguramente es el que más
+escucharon porque cuando abren la página web arranca como http cualquier página
+web y después tenemos bueno eh mqtt que es el que es más utilizado en en
+internet de las cosas por el que es de bajo consumo porque es simple y se puede
+eh sirve mucho para lo que es el envío de datos periódicos bueno y el http que
+es el más tradicional que es el que usamos en las plataformas web suficiente
+para sensores que envían poco estos protocolos son los que hacen Eh o los que
+permiten que todo esto funcione Entonces es clave poder elegir Cómo se van a
+comunicar los componentes en en una solución que esté basada o pensada en
+internet de las cosas eh No solo hay que pensar en cómo se van a comunicar sino
+también bueno Tenemos que tener en cuenta que hay que elegir el sensor del
+autor pero es superimportante pensar en Sí ya elegimos el sensor del actuador
+bueno Y ahora cómo comunicamos estos componentes Bueno después entrando en lo
+que son tecnologías de comunicación adentro del nodo cuando hablamos de un
+nuevo muchas veces lo imaginamos como una caja o algún tipo de carcasa que
+tiene sensores y que se conecta a Internet pero en realidad dentro del nodo
+pasan un montón de cosas Generalmente este no se va a tratar de de una unidad
+física puede ser un un gabinete y que va a integrar varias funciones sensores
+que miden puede Bueno hay un microcontrolador que es el que va a interpretar
+los datos un módulo de comunicación que es el que los va a enviar a la red y si
+hace falta se agregan actuadores que permitan que el sistema reaccioné
+automáticamente todo esto va a terminar conviviendo en un solo equipo pensado
+para funcionar de forma Autónoma y y robusta sería la idea no y una parte clave
+Dentro de este no es Cómo se conectan los sensores al microcontrolador que es
+el que va a recibir y nos va a terminar procesando la información Y acá es
+donde entran eh las tecnologías que vemos acá en en esta slide está que vemos
+así cuadrado cpi ahora después en la otra Ahí está USB y acá no hace falta que
+ustedes sepan los detalles de cómo se programa cada una de estas pero Eh sí
+entender que permiten hacer por ejemplo en el caso de de y2c es muy útil si yo
+quiero conectar varios sensores dentro de un gabinete y tengo que ahorrar
+espacio o cables en este caso Bueno voy a hacer de temperatura de humedad
+depresión ahora después en el caso eh spi es un poco más más rápido se usa
+cuando el sensor tiene que mandar muchos datos Y de forma muy rápida puede ser
+el El ejemplo de de una de una de una cámara de una pantalla después por otro
+lado tenemos la Word que también bueno está usada dos cables este transmisor un
+un receptor y en internet de las cosas se usa para conectar módulos de Lora GPS
+Bluetooth y otro también eh Muy usada es USB en en el campo no se la USA tanto
+pero es Útil para poder cargar datos hacer pruebas configurar nodos desde una
+Notebook Bueno hasta acá hablamos de sensores de nodos y cómo actúan los
+sistemas en función de lo que miden Pero bueno hay una pregunta que una
+pregunta clave que abordamos en en forma muy preliminar bueno cómo llega el
+dato al campo que viene del campo al celular a la nube o a quién tiene que
+persona tomé tomé una decisión y ahí es donde entra este bloque que son las las
+tecnologías de comunicación inalámbrica y lo podemos pensar así Yo tengo un
+dato medido él no lo interpreta y ahora lo que yo necesito es una ruta digital
+para que esa información viaje desde el campo hasta el sistema que lo va a
+mostrar y que después guarde o use la info para poder tomar una decisión esta
+ruta no son todas iguales algunas van a ser como un caminito rural tranquilo
+otras como autopistas rápido otras necesitan puentes o alguna estación
+intermedia cada uno de estos va a tener sus ventajas limitaciones y
+requerimientos y acá Bueno en el caso de de del agro elegir bien cómo van a
+viajar esos datos es tan importante Cómo elegir el sensor que va a medir los
+datos principalmente por las condiciones no eh que por ahí son áreas donde no
+hay cobertura de celular o dónde tenemos mucha arboleda o Tenemos un montón de
+situaciones que no permiten usar una u otra tecnología también en función a lo
+que uno quiera poder transmitir Entonces vamos a ver este cuadrito En dónde
+vamos a comprar las principales tecnologías en en lo que es el el ayuwoki rural
+por un lado tenemos tenemos alora tenemos a narro van a ir ltm wi-fi y hule que
+son como las más conocidas después tenemos otras soluciones otra otro tipo de
+tecnologías que por ahí bueno eh alguna empresa presentó la la semana pasada y
+hablo de este tipo de de tecnologías las vamos a analizar en función a lo que
+es el es hasta dónde llega la señal es la capacidad de transmisión o sea es
+decir qué es lo que podemos enviar Cuál es el consumo que tienen energética qué
+podemos transmitir por ejemplo el si el celular se puede conectar directamente
+al No si está en la misma red acá también lo que podemos ver Es la la
+infraestructura necesaria Y si vamos a a poder usarla eh directamente desde
+desde un celu no Bueno vamos con Lora Lora entonces va a funcionar muy bien si
+miramos el alcance estimado de dos a 10 o 15 km en lo que son estos entornos
+Rurales va a funcionar bien qué es importante que es el consumo que es de muy
+bajo consumo este gran alcance que tiene que puede rondar Entre 10 y 15 km pero
+siempre pensando en lo que es todas las los alcances estimados es que no
+tengamos en el medio algo que nos obstaculice la la señal Y para qué es ideal
+el oro One para enviar valores simples la velocidad es una velocidad de de 0.3
+a 50 kg por segundo qué podemos mandar por ejemplo bueno humedad temperatura el
+nivel de de un tanque el estado de una una de una válvula y la se envían datos
+en lo que son tramas y son tramas de la orden de 50 a 20040 bytes por mensaje
+para qué qué comparativa podemos hacer Bueno de entre 50 y 240 bytes es el
+equivalente a mandar tres o cuatro datos qué requiere requiere de una antena o
+o de un Gateway para poder enviar los datos a internet y en este caso no se
+conecta directo con el con el celular bueno Y acá un ejemplo con la analogía
+sería mandar un SMS por por hora para que vayan viendo cómo está asociada
+también eh el tema de de la velocidad y el consumo Cómo van a ir notando el
+patrón de que a partir de la velocidad que maneja que consumo va a tener Y
+cuando vamos teniendo una velocidad un poco más alta por ahí el el consumo Se
+va se va incrementando un poco más bueno entonces como les decía en el caso
+este de de Lora es como mandar un SMS por hora desde el sensor al sistema En
+qué casos lo lo podríamos utilizar un ejemplo típico es el de El monitoreo esté
+de riego que venimos hablando en Silos y lo que son estaciones meteorológicas
+por otro lado tenemos la roban iotti que este sí utiliza las redes celulares
+pero en un canal que es exclusivo para sensores Este es el que permite como
+datos más ricos tener una ubicación GPS las alarmas acá ya nos manejamos con
+tramas del orden de 1600 bytes o sea estamos casi no sé si es por 8 con
+respecto a lo que es Lora En dónde se lo que vamos a poder enviar es eh texto
+algunas coordenadas eh de localización de algún estado se requiere es un módem
+del tipo narración y necesita una SIM que sea especializada tampoco se va a
+conectar directo al celular pero bueno va a llegar a la nube si pensamos en el
+alcance está más o menos de del orden de de Lora Aunque su velocidad es es
+mucho más alto el consumo en este caso es bajo y bueno lo que podíamos
+transmitir es esto no que les decía tener algún tipo de dato en particular que
+que nos interese alguna alarma una localización GPS y la analogía sería Cómo
+enviar un mail corto con ubicación desde el campo Para qué para qué es
+recomendable bueno en algún tipo de Pozo remoto en lugares donde se trabaja con
+sensores de agua en instalaciones en estaciones que tienen GPS después por otro
+lado tenemos lo que es eh ltem le dicen Cat M1 la velocidad es mayor si se
+fijan es del orden de 10 hasta 100 meses eh Perdón es hasta un orden mucho más
+importante o sea es un millón de es un millón de bits por segundo con respecto
+a lo otro que son 250,000 va a permitir lo que sería movilidad pensemos en
+alguna sembradora que está en en movimiento y algún otro dato puede ser por
+ejemplo imágenes acá lo que tenemos son tramas grandes podemos mandar lo que
+son eh fotos o alguna serie de datos el consumo ya es mayor por eso que vemos
+que con respecto a las otras que veníamos viendo ya es un consumo de tipo medio
+y lo que requiere es una buena cobertura que sea la de tipo 4G Y en este caso
+es la que no se usa directamente con el celular que es lo que comentaba en el
+otro día en la en la presentación de las empresas en que uno dice no si yo
+estoy con mi celular detectó que hay una red ltm no tiene que ser un
+dispositivo particular para que pueda detectar este tipo de de red eso es que
+no se usa directo con el celu y cuál sería la analogía bueno mandar una foto
+por WhatsApp directamente desde el campo para qué es ideal bueno para lo que
+son nuevos que se vayan moviendo para sensores que sean un poco más complejos o
+para todo lo que tiene que ver con imágenes de de monitoreo vamos a ver ahora
+wi-fi que bueno wi-fi la conocemos todas y también sabemos esto no lo que dice
+lo de los 100 m Pero sabemos que por ahí sí tenemos puerta pared cosas en el
+medio esos 100 m no son 100 m reales o sea esto siempre he pensado en algo que
+tenés línea de vista no O sea directito directito a la señal que no tienes nada
+que obstaculice en el medio en el caso de wi-fi lo que tiene es muy rápido pero
+va a tener poco alcance y alto consumo Funciona muy bien si vos ya tenés wi-fi
+en el lugar por ejemplo no sé en un tambo en en un galpón en algún tipo de de
+vivero este puede transmitir megas por segundo o sea es grande la la velocidad
+y el celular sí se puede conectar directamente al nodo si está en la misma red
+y no no lo recomendamos en zonas eh grandes o dónde no infraestructura esto lo
+podemos pensar bueno como para subir lo que son envíos a YouTube que es algo
+rápido pero bueno Caro y ilimitado a lo que son eh zonas cubiertas Como por
+ejemplo puede llegar a ser un un invernadero algún biodigestor algún tango
+informatizado después por otro lado tenemos esperen que tengo al gato que me
+está atacando la zona por otro lado tenemos a a a b o Bluetooth Energy que está
+pensado para lo que es el el uso cercano al al celular el consumo Es muy bajo y
+en este caso no No necesitamos internet y como habíamos visto en en la clase
+pasada se usa mucho en lo que son las caravanas electrónicas en lo que son
+sensores portátiles algún tipo de de balanza o lo que se conoce como tags rfid
+las tramas de estos son son tramas pequeñas del orden de 20 a 20044 bytes más o
+menos se conecta directamente con el sol celu y no necesita de de un nodo
+intermedio en este caso lo que hace el operario es se acerca sincroniza y ya va
+a tener los datos y acá la analogía podría ser de cómo pasar archivos del
+sensor al celular por Bluetooth y es ideal para Bueno este tema de las lecturas
+de caravanas como veíamos con las vacas la la semana pasada lo que son
+recorridas de de control hacer un un muestreo de de datos en el sitio entonces
+acá tengamos en cuenta lo siguiente para poder elegir bien cuando tenemos que
+pensar en una solución de este tipo de de internet de las cosas lo que tenemos
+que preguntar es qué datos Quiero enviar y Cada cuánto desde dónde si hay señal
+celular si hay wi-fi Si no hay nada si voy a usar un celular eh cerca si tiene
+que ser autónomo cuánto quiero que dure la batería si puedo instalar una
+infraestructura eh o Necesito algo que sea para enchufar y y utilizar
+directamente Bueno ahora vamos a hablar de algo que se presentó la la semana
+pasada que es el el rfid y quiero que pensemos en algo que que usamos a diario
+ustedes usan la sube o alguna yo por ejemplo para entrar a la Facultad tengo
+una credencial para para poder acceder a los molinillos Bueno a los molinetes
+eh En este caso ahí se usa el rfid o no sé si alguna vez fueron a a un a un
+localista en esas etiquetas que tienen en los shopping o hay chips también que
+se le ponen a a las mascotas todo eso funciona con el refri esta tecnología O
+sea la voy a explicar no no tiene que ver tanto con lo que veníamos viendo
+antes pero como las empresas la presentaron la tecnología Está bueno que que
+conozcamos un poquitito más es un tipo de tecnología que es eh identificación
+por radiofrecuencia qué nos permite este tipo de tecnología es identificar
+cosas que no tengan contacto ya no hace falta que esté a la vista Ni que
+nosotros toquemos nada solo con que nos acerquemos sistema va a reconocer lo
+que tiene adelante y ustedes se preguntarán Y por qué es útil esto en en el
+agro porque Bueno nos va a permitir lo que contaba el colega la semana pasada
+de que la vaca pasé por la manga que quede identificada automáticamente sin
+tener que anotar nada ni hacer ningún tipo de de escaneo y cada caravana va a
+tener un un código único y así lo que podemos hacer es un seguimiento
+individual de del animal podemos saber el peso Si fue vacunada y cuando se está
+preñada bueno Esto de que si estaba en celo Y además también hay otro tipo de
+de etiquetas que no solo van a a a identificar sino que pueden guardar más
+información por ejemplo la fecha que hace la vacuna a la a la a la vaca o eh al
+lote que pertenece Y cómo se conecta todo esto con con iot bueno El lector este
+rfid se va a conectar a un nodo que puede ser eh Bluetooth wi-fi ora si no me
+equivoco la solución que se habló el año pasado era de tipo la clase pasada era
+de tipo eh Bluetooth y se va a conectar a a este nodo y va a enviar todos los
+datos directamente puede ser ya sea celu como a la nube y el operario no va a
+tener que hacer nada más que dejar que pasen los animales de eso se tiene que
+ocupar el animal va pasando y eh El lector va tomando los datos toda la
+información va a quedar registrada sin errores imagínense por ahí esto Cómo se
+tenía que hacer antes no que uno tenía que la vaca por ahí se recaba o lo que
+sea y uno se ponía nerviosa anotaba cualquier cosa No no es lo mismo que tener
+a la tecnología de de nuestra mano en este caso eso no de no tener que depender
+de las planillas así que bueno esta tecnología es una que usamos eh todos los
+días pero para lo que es en el caso del agro tiene mucho potencial
+principalmente para lo que tiene que ver con trazabilidad la gestión sanitaria
+y la automatización de procesos Bueno vamos a seguir con el tema de del Gateway
+o lo que podemos denominar modo central hasta ahora todo lo que veníamos viendo
+es Cómo funcionan los sensores los nodos y bueno los actuadores y todas las
+tecnologías de de comunicación por lo general para que este ecosistema funcione
+bien lo que necesitamos es un punto de Unión es decir un cerebro que coordine
+el flujo de de la información el error lo va a cumplir el el Gateway lo podemos
+pensar como un coordinador este Gateway que es el que va a recibir los datos de
+los distintos sensores o nodos que pueden estar usando tecnologías diferentes
+por ejemplo uno con Bluetooth low Energy otro con Lora otro bueno Con ward que
+es una de las comunicaciones que vimos y los va a traducir en un lenguaje común
+para que el resto de los sistemas lo puedan entender y lo que una
+particularidad del Gateway es que no manda todo lo que recibe sino que puede
+filtrar la información la puede resumir o agrupar en el caso que sea necesario
+para que solo viaje lo que necesitemos esto En qué nos ayuda en eh poder
+ahorrar mucho ancho de banda energía y y es superimportante cuando trabajamos
+con muchas mediciones o con enlaces que son limitados por otro lado también se
+encargan de lo que es la seguridad de de los datos autentican los los
+dispositivos que se que se vayan a conectar cifran los datos eh antes de
+enviarlos y bloquean si pueden llegar a aparecer algunos accesorios que no que
+no sea autorizado y es el que de alguna forma pone orden y organiza y permite
+que todo se se maneje de forma eficiente y segura o sea si no estuviese este
+Gateway cada sensor estaría trabajando por su cuenta sin coordinación ni
+control Bueno después vamos a hablar un poquito más en detalle el backend y el
+front-end Ya vimos como bueno medimos los datos en el campo Cómo se lo envía a
+un nodo cómo viaja a través de las distintas tecnologías el trabajo que hace el
+el Gateway Y ahora qué pasa después de eso qué qué es lo que hacemos con el
+dato dónde lo vemos Cómo sabemos si si pasó algo y acá es donde entran en juego
+estos dos conceptos importantes que son el front-end y el bac en el frontón
+como les decía antes es el que ve el usuario es la parte visual del sistema que
+la podemos ver por ahí en la aplicación en el celu eh alguna web que tenga
+gráficos un panel con indicadores cuando nosotros abrimos el celular eh y vemos
+la humedad del suelo el nivel del tanque o si una válvula está cerrada eso es
+el fronterizo y está pensado para que sea algo claro rápido visual y es donde
+uno tiene que rápido en este caso todo lo que vemos está alimentado por el el
+cerebrito detrás de de la interfaz del usuario que es el sistema que va a
+recibir los datos los guarda los procesa Define que Mostrar también puede
+generar alerta esto ya lo había mencionado hacer algún tipo de cálculos
+estadísticas o sí tiene que activar alguna acción automática otra cosa que es
+importante es que detrás del backend hay una base de datos que va a ser la que
+va a guardar toda la información histórica o sea acá ya no no andamos más con
+la libretita sino que ahora archivamos esa información vemos lo que está
+pasando ahora pero también se puede ver lo que pasó ayer la semana pasada en
+otros meses en otros años y entonces una buena forma de pensarlo es que el
+perhonen va a ser el tablero que ve el productor y el bakkan va a ser el motor
+que hace que todo ese tablero funcione con datos reales Entonces cuando
+nosotros hablamos de it no vamos a hablar solo de sensores actuadores o nodos
+el valor va a estar en toda la información que toda la información que nosotros
+eh necesitamos la información que es rica para nosotros lo importante es que
+llegue a una interfaz eh Clara con un bakkan sólido detrás para que se pueda
+tomar decisiones informadas y a tiempo o sea no llegar tarde Vamos a ver un
+poquito sobre las tecnologías en en la nube ya venimos hablando de cómo viajan
+los datos desde el campo ahora la pregunta es a dónde van a parar esos datos Y
+acá entra jugador importantísimo que es la nube hoy en día no hace falta tener
+una compu superpotente en un galpón o depender de alguien que anoté todo el
+volumen de nuevo al que no anotaba todo en la planilla Entonces todos estos
+datos se suben a a internet automáticamente y van a quedar ahí guardados de
+alguna forma van a estar seguros y uno puede acceder desde cualquier lado Esto
+va a tener muchas ventajas eh Para lo que es el agro Por ejemplo si nosotros
+tenemos algunos sensores que están midiendo la humedad del suelo o la
+temperatura o el nivel de tanque o sea el peso de un animal lo podemos ver todo
+desde el celular mientras estamos recorriendo el lote o si estamos en otra
+Estancia o incluso si estamos de casa o sea eso es la genialidad de la nube Y
+qué hace la nube bueno que nos permite que esta información esté ordenada que
+la tengamos disponible y que esté eh actualizada constantemente además todo se
+va a guardar en un historial no Solo lo que pasa hoy sino como fueron los
+valores eh los últimos días semanas o meses como digo siempre no que esto es
+sumamente Útil para poder tomar una decisión de forma más informada y no decir
+bueno porque el año pasado llovió cada 15 días pongo eh activo mi mi riego cada
+dos días Entonces eso ya a mí por lo menos con mi hermano no me va a pasar más
+porque antes eh antes que pase de nuevo eso y que se le llegue las plantas voy
+a tener que intervenir Entonces por ejemplo si estamos viendo si regalo o no lo
+que podemos hacer es comparar por ahí con las bendiciones y saber
+verdaderamente si hace falta o si el suelo todavía retiene la humedad por medio
+de los de los sensores y esto que es es re importante es que al estar todo
+online es fácil compartir los datos con otras personas otros usuarios un
+ingeniero agrónomo un veterinario la persona que esté encargada del campo y
+todos van a poder ver lo mismo en tiempo real sin tener que andar reenviando
+nada o sea pueden acceder todos desde distintos lugares y eso eso ayuda mucho
+así que en el caso de de la nube para el milagro hace que bueno ustedes puedan
+tener la información Siempre a mano y que sea bueno no la base para tomar
+mejores decisiones bueno eh seguimos con un poco con la nube cuando pensamos en
+la nube No es otra cosa que que servidores remotos a estos servidores se puede
+acceder por por internet y nos van a permitir guardar procesar y consultar
+datos desde cualquier lugar y en cualquier momento cuando la usamos bien en el
+agro nos va a ofrecer ventajas concretas bueno por un lado el tema de la la
+escalabilidad masiva donde no importa si arrancamos con tres sensores o con 30
+la nube lo que hace es adaptarse automáticamente sin tener que bueno ni comprar
+nuevos servidores ni hacer eh instalaciones técnicas sino que sí pasa que crece
+el sistema simplemente lo que se hace es ajustar después por otro lado tenemos
+lo que es el el procesamiento y el análisis avanzado hoy lo que se puede hacer
+es aplicar herramientas potentes para procesar en el campo general alerta hacer
+análisis históricos bueno no me voy a meter en el campo de de Federico pero eh
+También se puede usar la Inteligencia artificial por ahí para encontrar
+patrones y todo esto sin que el el productor tenga que instalar nada en en su
+campo otra cuestión importante es la la gestión centralizada que se puede hacer
+desde una sola plataforma y ahí podemos monitorear podemos configurar
+actualizar todos los dispositivos Aunque estos estén distribuidos en en
+distintos lotes galpones o incluso a veces en en Campos que estén en diferentes
+locaciones otra cuestión es el tema de la conectividad global que si nosotros
+tenemos acceso a internet podemos ver lo que está pasando en en tiempo real y
+lo podemos hacer desde cualquier lado esto es es muy importante cuando hay
+gente que trabaja con con más de un establecimiento eh o para técnicos que van
+haciendo la supervisión a distancia otra cosa que se le suma es el tema de la
+reducción de costos no hay que invertir los servidores suelen ser muy caros
+entonces uno no tiene que invertir en servidores locales ni en mantenimiento de
+infraestructura esto se paga por el tiempo de uso y ahí muchas plataformas que
+también eh nos ofrecen versiones que son gratuitas o escalables después hay
+plataformas específicas para para internet de las cosas está aws hay auditor
+que es de Amazon está ashure que es de Microsoft o Google Cloud it que eso es
+lo que hacen es ofrecer servicios que están listos para usar por ejemplo en lo
+que es almacenamiento en lo que es seguridad todo lo que tiene que ver con con
+estas pantallas los dashboard y con la lógica de de automatización integrados
+la nube lo que nos da es eh flexibilidad hace que todo sea un poco más
+eficiente y nos permite tener el el acceso remoto a lo que podemos llamar bueno
+agro digital también hace que podamos tomar decisiones basadas en en datos sin
+necesidad de tener que manejar la parte técnica y hoy una Es una herramienta
+súper fundamental para cualquier sistema de internet de las cosas que que esté
+bien diseñado Después vamos a tener algunos modelos de de servicio en la nube
+hay tres modelos que son el de infraestructura como servicio conocido como
+guías o el de plataforma como servicio que es en paz o el que es el de software
+como servicio que es el SAT una de las más básicas Pero también es como la más
+potente es lo que se llama Y eso bueno como les dije recién infraestructura
+como servicio La idea es simple en lugar de tener que comprar una computadora
+carísima o muy potente un servidor lo que hacemos Es lo alquilamos en la nube y
+es como si tuviéramos esa compu reposa trabajando eh para nosotros pero en otro
+lugar y podemos acceder a ella por por internet lo bueno de esta computadora
+virtual es nosotros podemos instalarle el sistema operativo que necesitemos lo
+mismo los programas y la podemos ir configurando eh A medida para lo que
+nosotros tengamos que o queramos hacer y cómo entra usted viene Bueno si
+estamos trabajando con con algún tipo de sensor o dispositivo que que recolecta
+datos lo que podemos hacer es usar este servidor en la nube para poder procesar
+esa info aplicar algún tipo de de regla hacer una generación de gráficos bueno
+de lo que nos interese guardar todo lo los registros históricos y no tener que
+depender de una máquina física en la oficina o en o en el galpón además al
+tratarse de un servicio que que es escalable si mañana necesitamos más
+capacidad con esto que les decía antes no de que se nos ocurrió escalar esto y
+tener más sensores Bueno más lotes lo que se hace es ajustar no hay que comprar
+nada nuevo sino que uno por un Plus pone más nodos entonces en este caso es una
+opción Útil para el que quiera tener el control técnico del sistema pero sin
+tener que encargarse del Hardware ahora vamos a ver la plataforma como servicio
+a diferencia de otros modelos donde uno tiene que armar todo desde cero está ya
+viene con muchas cosas resueltas es como si nos dieran una computadora virtual
+pero con todo listo acá ya viene el sistema operativo ya está instalado ya está
+el entorno como para programar ya vienen las bases de datos configurados O sea
+ya viene un nivel más que que el anterior entonces uno lo que hace con este
+tipo de plataforma es empezar a trabajar Esto va a ser muy útil cuando hablamos
+eh de internet de las cosas en lo que es el agro porque nos va a permitir
+enfocarnos en lo que nos importa que son los datos del campo no tenemos que
+perder el tiempo en ponernos a configurar un servidor instalando programas
+complicados Entonces en este caso al usar este tipo de plataformas podemos
+armar un tablero en la nube donde podamos ver en tiempo real un ejemplo no la
+humedad del suelo la temperatura que que hay en el ambiente el peso de algún
+animal y todo esto sin tener que tocar nada de infraestructura técnica uno lo
+que hace acá es decide qué quiere Mostrar cómo le va a querer analizar y la
+plataforma se va a encargar del resto Esta es una buena opción para los que
+quieran soluciones personalizadas pero sin tener que meterse en el lío de lo
+que es Instalar todo desde cero ahora vamos a la que es software como servicio
+este de una forma es el modelo más simple y directo de todos acá no hace falta
+instalar nada ni configurar servidores ni saber programar simplemente lo que
+hacemos Es entrar a una plataforma que ya va a estar lista desde el navegador o
+desde una app puedes entrar y ya directamente la comenzás a a utilizar ejemplos
+Hay un montón y y como muy concretos una puede ser por ejemplo una aplicación
+en donde podamos monitorear el el clima en en tiempo real una plataforma para
+gestión de cultivos o de rodeo un sistema que tenga dashboard reportes alarmas
+que ya estén integradas sin tener que tocar nada de la parte técnica entonces
+justamente la que más se usa hoy en el agro es ésta porque permite que
+cualquier productor técnico eh o asesor pueda acceder a lo que es tecnologia it
+sin tener que ser especialista en sistemas eso es clave solo lo que se va a
+necesitar es un usuario y una contraseña y ya se puede empezar a consultar
+datos se pueden mirar gráficos se pueden descargar deportes o eh recibir
+algunas alertas en el celular ahora si ponemos los tres modelos perspectiva
+agarramos el y hace el pase la diferencia principal está en cuanto se encarga
+el usuario y cuánto viene ya resuelto entonces haciendo como un breve resumen
+en lo que era la infraestructura como servicio uno tiene que armar todo desde
+el servidor hasta los programas es súper potente Sí pero necesita de de que la
+persona tenga conocimientos técnicos en qué casos se recomienda este tipo es
+cuando tenemos grandes empresas o cuando hay un equipo con eh con
+desarrolladores ahora eh plataforma como servicio ya trae muchas eh
+herramientas listas y uno lo que se va a hacer porque uno lo que va a hacer es
+enfocarse en en la solución pero sin tener que ocuparse como del motor es ideal
+más que nada para gente técnica o asesores con algo de experiencia digital y
+ahora yendo a a software como servicio todo Ya está listo para para ser
+utilizado entonces uno lo que hace es acceder y ahí se pueden consultar mmm ver
+cómo están los sensores se pueden recibir alertas y estas que sería como la
+opción más práctica y es recomendable para quienes van a querer resultados sin
+tener que meterse en tanto la infraestructura Bueno ahora vamos a ver
+blockchain que les estoy como spoileando algo de que seguramente van a hablar
+las empresas la semana que viene mucho por ahí escuchan blockchain y lo asocian
+con las criptomonedas pero cuando en el agro Hablamos de blockchain lo estamos
+hablando de criptomonedas estamos hablando de una herramienta que puede ayudar
+y mucho en algo que es clave para el campo que es la confianza de los datos vos
+Imagínate que podés Mostrar sin discusión Qué hiciste cuándo lo hiciste y bajo
+qué condiciones Esto es lo que permite blockchain Entonces nos permite
+registrar información de manera segura sin que nadie la pueda modificar después
+por ejemplo podemos dejar constancia de que una vaca fue vacunada de que un
+lote fue cosechado en determinada fecha o que se aplicó algún insumo
+certificado todo esto dónde va a quedar bueno va a quedar guardado como en un
+libro de actas digital que no se puede borrar una vez que se cargó sinfo es
+inviolable si ahí no se puede alterar también ayuda en lo que tiene que ver con
+la seguridad que si alguien quiere modificar datos O cambiar una configuración
+el sistema lo detecta Y eso en algún punto nos da como mucha tranquilidad
+cuando trabajamos con este tipo de tecnología en el campo algo que está
+empezando a usarse no sé si lo escucharon es lo que se llaman contratos
+inteligentes y son como si fueran acuerdos automáticos Entonces por ejemplo
+vamos a ver un caso si un sensor detecta que se cumplió con cierta condición
+por ejemplo que se aplicó el riego o alcanzó determinado peso el sistema lo que
+hace es registrar el cumplimiento o activar un pago sin que nadie tenga que
+intervenir entonces blockchain lo que va a hacer es una forma de darle respaldo
+transparencia y automatización a los datos del agro y nos permite de alguna
+manera no solo eh hacer las cosas bien sino también poder demostrarlo y lo que
+veníamos hablando de los cubitos me quedó desfasadas las Light en los contratos
+inteligentes todo el tema de la trazabilidad y acá vamos a ver el eh algún caso
+de uso con estos tomatitos tan pintorescos Cómo Eh blockchain puede aplicarse
+de forma concreta en lo que es un proceso productivo real en este caso la
+trazabilidad de de los tomates del campo a nuestra a nuestra mesa por un lado
+vamos a tener el registro de de datos en tiempo real no Qué es durante el
+cultivo va a haber sensores que están instalados en el lote estos van a medir
+variables por ejemplo como la humedad la temperatura el pH y la aplicación de
+fertilizantes Entonces todos estos datos se van a registrar automáticamente y
+se almacenan en en blockchain lo importante es que cada lote de tomates va a
+tener un identificador único vinculado a esos datos lo que garantiza es que eh
+No se mezclen registros y que se la trazabilidad desde el inicio por otro lado
+después tenemos a lo que es importante que es el el seguimiento de de la cadena
+de suministro una vez que estos tomatitos se cosechan pasan por varias etapas
+ustedes lo pueden saber mejor que yo no la parte del del procesamiento del
+empaque del transporte y en cada una de estas lo que se hace es eh registrar
+como una nueva transacción o sea van quedando todas registradas Ahí es donde
+nos va a quedar documentado Quién hizo qué en qué lugar se hizo a qué hora y
+queda de forma inalterable o sea esto Una vez que se cargó ya no no se puede
+modificar y ahí es como que se construye una especie de historial completo de
+nuestro producto desde que el producto sale del campo Hasta que el producto
+llega al al punto de venta y lo último con respecto a la información al al
+consumidor lo más importante Lo más interesante es que toda esa información no
+sólo queda para la empresa el consumidor lo que puede hacer es escanear el
+código QR que viene en el en el empaque del del tomate y va a poder acceder a
+todos los datos esto que decíamos no dónde se cultivó si usaron prácticas sí
+fertilizante sí Cuál fue el por ahí la la fecha de de la cosecha y toda la
+información que nos nos interese sobre sobre estos tomates qué genera el uso de
+blockchain bueno la confianza la transparencia y da un eh valor agregado enorme
+tanto para lo que es el el mercado interno como Bueno ahora Christian les va a
+hablar un poco sobre aplicaciones prácticas va a contar a partir de trabajos
+nosotros tenemos la carrera de especialización en internet de las cosas en en
+la facultad en el laboratorio de sistemas embebidos y lo que hicimos es
+seleccionar algunos trabajos está por un lado la carrera de especialización en
+en en internet de las cosas la carrera de especialización también en sistemas
+embebidos Así que Cristian acaba de mostrar algunas aplicaciones prácticas de
+alumnos que hicieron la especialización y la maestría en en internet de las
+cosas que la maestría en internet de las cosas es una maestría compuesta por la
+carrera de especialización en en internet de las cosas y la carrera de
+especialización en sistemas embebidos Así que ahora los dejo con Cristian que
+cuente un poco sobre aplicaciones prácticas donde podamos ver todo lo que
+venimos contando en esta horita y media Sí perfecto Cris Muchas gracias eh
+Bueno voy a intentar compartir mi pantalla o no sé si serán me ayudas con
+pasadores diapositivas Bueno ahí vamos ahí me ayudas pasándolas al día pues
+entonces y nada como decía hacerle lo que hicimos en esta parte de la
+exposición mostrarles algunos casos reales digamos de implementación muy reales
+y que tomamos de alumnos de posgrado que están interesantes tienen diferentes
+arquitecturas tienen diferentes objetivos Estaría bueno que ustedes eh se
+lleven una idea de bueno los procedimientos las herramientas más arquitectura
+común Entonces ahora les vamos a mostrar tres ejemplos de estos exámenes Así
+que nada espero que les ayude un poquito para que tengan un día más general de
+cómo es precisamente todo el proceso que venimos hablando no sobre el internet
+de las cosas en aplicaciones un ejemplo que es un sistema un sistema
+administrativo remoto de apiarios Sí ustedes seguramente conocen muchísimo más
+que yo las cuestiones todo el proceso no de la polinización eh el proceso
+natural digamos que hacen las abejas Sí bueno en el caso de esta de este
+trabajo lo que se necesitaba era monitorear la piel y el cliente lo que
+solicitaba era la ubicación de los héroes es una especie de Colmena artificial
+digamos no eh Necesitamos saber la ubicación y algunos elementos como la
+temperatura y la humedad Sí entonces necesitaba tener ese registro de cada uno
+de los apiarios Cuál fue la solución planteada lo que está el autor al
+especialista licenciada Cindy Escobar si me ayudas a hacerle con la próxima
+Gracias bueno la arquitectura que se planteó para este problema fue la
+siguiente tenemos diferentes dispositivos que agrupaban precisamente el censado
+de las características que necesitaba el cliente Cómo es la temperatura de
+ubicación nuevos se comunicaban a través de la nube mediante protocolo https a
+servicios de salud pero que ustedes conversaron con selenio en las diferentes
+clases de arquitecturas que se pueden encontrar los servicios en la nube bueno
+sí eh acá están diciendo por el chat que se te entrecorta un poco Yo creo que
+es que se te escucho un poco distorsionado también por ahí no sé si podés
+regular un poco la la ganancia del micrófono o algo de eso sacó la cámara
+porque no se me consumes sí se escucha mejor ahí eh Se sigue escuchando
+distorsionada no sé si Tenés algún algo para o poder alejarte del micrófono o
+bajar un poco las ganas Sí sí este debe estar configurando tendríamos que poner
+música de ascensor en este momento sería lo más apropiado también sí algún
+producto que vendamos no sé si estás probando Cris pero bueno prendes y apagas
+el micrófono no sé si eso es parte de lo que está probando Cómo que se activa
+el micrófono Parece que va a empezar a hablar y ahí a ver ahí escúchame sí no
+sé si mejor o peor Pero bueno sigamos y y si se complica mucho vemos vemos
+hacemos una nueva prueba a ver si vamos no sé qué le pasó a mi micrófono
+entonces decía que la solución que se implementó fue la de completar servicios
+en la nube y un proveedor aws que tiene diferentes servicios bueno vieron las
+arquitecturas los servicios que se pueden contratar en la nube este sería un
+servicio sars sí Entonces los proveedores para precisamente abarcar la mayor
+cantidad de solicitudes de los clientes sí en este caso para esta aplicación
+particular se despliega en inglés el que se va a quien y el fraude Sí vamos a
+ver más adelante las tecnologías específicas que se utilizaron pero para que
+quede claro lo que se necesitaba pueda tener elementos para tener esos defectos
+y una aplicación que les pudiera ir monitoreando frecuentemente entonces Cuáles
+son los conocimientos por favor esto se utilizó para esta implementación Bueno
+lo que es GPS tcp y http para la comunidad para los protocolos de la
+comunicación entre uno y el Gateway primero de los servicios de ams se utilizó
+el servicio 2 que esto te permite el despliegue dentro del marketing Sí para el
+despliegue Joaquín se utilizaron tecnologías más puntuales como no es Express y
+my sql sí un poquito eh cada una de estas estas herramientas sí todas estas
+tendencias desplegadas sobre los servicios de ads tu opinión es una especie de
+motor para phone que es comúnmente utilizado tiene muchas potencialidades que
+se usa para muchas cosas una de esas cosas es el desplante en el caso del Ratón
+hay una biblioteca unas funciones específicas eh que incluían las reglas del
+átomo por ejemplo el expreso son funciones diferentes herramientas que te
+ayudan a formar parte desde la base Sí y muy bueno que nos permite el control
+de bases de datos Sí todo esto este estado en contenedores es mediante las
+herramientas de Google ahora mismo no necesitas ver exactamente qué hace cada
+uno de ellos pero para que tenga una idea tipo de arquitecturas son muy comunes
+seguramente ustedes entran un poquito en el tema van a encontrar reiteradas
+veces estos nombres Entonces esto es un poquito para que se hagan a la idea de
+que es bueno lo que lo que hace es juntar estas herramientas o sea todo el
+desarrollo que se hizo en base no desprendes y msql y las encapsula en un
+contenedor y ese contenedor luego se ejecuta en este caso en www en el caso de
+framing Tenemos también diferentes herramientas ojo que también son las únicas
+como si son más comunes específicamente las utilizadas para esta aplicación hay
+muchas más hay muchas bibliotecas muchas herramientas muchos proveedores Pero
+bueno eh cada uno con su potencialidad y cada uno cubre mejor los
+requerimientos que se tienen van a necesitar la aplicación específica no bueno
+en caso tenemos también un servicio la wc y acá se ejecuta el fondo mediante
+las herramientas de angular como la normatividad chats y opiniones son
+herramientas no son las únicas también son muy comunes para el uso del framing
+en el caso de angular sería como la base del flumen la materia es es son
+funciones es una biblioteca que permite darle estilos por ejemplo a los botones
+bueno todo lo que se va a mostrar en la interfaz gráfica les dan un cierto
+estilo predeterminado y el usuario lo que hace es agarrar este caso de estilos
+de ir Armando su propio Front en el caso del chat es una biblioteca que permite
+crear gráficos En caso de que quisieran ver tendencias o bueno un histórico con
+diferentes pues uno se le dice el chat y aprendes facilita lo que es la
+utilización es más para la ubicación en este caso Sí claro Entonces tenemos
+preguntas que veo el chat Espero que no se me está escuchando Mejor música
+electrónica del proyecto donde les expliqué un poquito que era precisamente
+tener el las variables de temperatura ubicación de ave del apiario siguiente
+por favor en dos partes fundamentales digamos no en el lado izquierdo tenemos
+el prototipo ahí pueden ver ni modo es ese sería un nuevo tenemos baterías en
+este caso se utiliza la batería de los sensores el microcontrolador principal
+todos tenemos en encapsulado digamos porque iba a estar a la intemperie bueno
+esto sería un número real digamos no y en el lado derecho tenemos la interfase
+a esa es la forma digamos que se desarrolló para ir monitoreando cada una de
+las variables entonces en en la interfaz se pueden agregar diferentes nodos
+diferentes métricas vean lo que el usuario necesita para su aplicación está en
+este barco sí Entonces esto es un ejemplo de una arquitectura para una solución
+específica en el problema de registrar datos de apiarios y bueno vamos con el
+siguiente ejemplo en este sistema en particular no había actuado eh Juan porque
+eso no se pregunta nada más sí eh Hay muchos sistemas que son solo de
+telemetría digamos y dónde al usuario tres valores para luego tomar decisiones
+el otro Sí hay actuadores Me parece que tengo un ejemplo más adelante Bueno
+ahora vamos con otro ejemplo de la generación de mapas agronómicos integrando
+datos de sensores del suelo con imágenes satelitales eh autores de la
+especialista ingeniero Francisco tintor también ex alumno de los posgrados bien
+De qué trataba este problemática lo que se buscaba solucionar era o se
+intentaba implementar en un sistema que combina tanto las medicinas que tenían
+un modo de uso con las imágenes obtenidas de un satélite sí esto se conjugaba
+digamos eh unificaba en una interfaz gráfica que le permita al operario en
+función a las imágenes que registraba el satélite y y las medidas de los
+sensores ir determinando ciertos factores para tomar decisiones que lo pudieron
+llegar y lo que se conoce como la agricultura de precisión sí y en el futuro
+hacer estimaciones tal vez mediante Inteligencia artificial para la
+automatización de procesos sí Entonces cómo se usa la solución siguiente por
+favor las imágenes satelitales Sí y por otro lado tenía una estación
+meteorológica que algunos ascensor dónde estaban diferentes precisamente
+sensores de eh dirección de viento la temperatura eh También hay muchos saludos
+con la actividad em ubicación bueno diferentes sensores dentro del estación
+meteorológica que es una estación meteorológica comercial digamos un equipo de
+sensores implementados Sí entonces Mira combinar las imágenes de los satélites
+y las lecturas de la estación meteorológica mediante apis que son funciones que
+son procedimientos que nos permiten precisamente interactuar es una interfaz eh
+que nos permite interactuar con otros servicios ingredientes y los datos de los
+sensores se comunicaban también a los servicios de obs en la nube sí acá
+tenemos otra arquitectura por ejemplo tenemos otro servicio Wanda este servicio
+nos permite ejecutar diferentes acciones que tienen su proceso o su servicio de
+rds Entonces nos permite ejecutar estas acciones para combinar precisamente los
+servicios de la noche sí tenemos miedo como ya les mencioné que es un motor
+para lo que es el único y aquí y también tenemos Amazon que es otro servidor
+digamos de bases de datos hay muchos también antes Bueno Hay muchísimas
+generalmente se divide en dos las bases de datos son relacionales y no
+relacionales sí hablemos un poco para que lo tengan presente pero ahí también
+hay muchísimos servicios que nos ayudan a trabajar con diferentes bases de
+datos la base de datos también van a tener el tipo de base de datos del tipo de
+precisamente de datos que vamos a necesitar guardar sí container que es un
+servicio que nos permite manejar contenedores vieron que les hablé de docker
+que los servicios para contener servicios Bueno también son las container nos
+permite guardar y trabajar con contenedores por ejemplo docker arquitectura
+Bueno aquí en la arquitectura que se utilizó para esta solución vamos más
+adelante a ver eh un poco más el prototipo acá por ejemplo como les dije la
+parte de los imágenes satánicas y fue parte del desarrollo porque eso mediante
+una lápiz se hacían solicitudes digamos que a la aplicación del satélite para
+descargar imágenes y la parte de los sensores no se diseñó y De igual forma se
+utiliza un lápiz para comunicarse con la estación meteorológica y el diseño
+consistió en elaborar dónde se combinaban las imágenes y todas las bibliotecas
+recolectadas Esto para mí generar magia de datos históricos y para hacer
+predicciones a futuro mediante herramientas de Inteligencia artificial o grande
+el manejo de grandes volúmenes de datos que también se pueden integrar en la
+mano esto también fue una solución que se diseñó bueno para este caso puntuales
+ya tenemos otro caso de un controlador de cultivo hidropónico tipo nft y acá
+también eh seguro que ustedes saben muchísimo más O mejor la definición del
+sistema hidroponico nft no tenemos em es una derivación digamos de lo que es la
+aeroponia Dónde tenemos una solución nutritiva que se va dosificando a las
+plantas está bien entonces acá sí vamos a tener un actor cómo vamos a ver más
+adelante entonces lo que se buscaba solucionar con este sinceramente un control
+controlar el caudal de la de la solución nutritiva para las plantas Ver el
+estado del temperatura también ambiente y diferentes métricas para tomar
+decisiones Precisamente en la activación manual del la bomba y de la
+dosificación no eh Vamos adelante con la arquitectura implementada bien acá
+tenemos otro tipo de arquitectura tenemos un nudo central muy concentradores y
+modos sensores tenemos un actuador que sería una bomba tenemos un sensor de
+temperatura el relé que nos va a permitir comandar la onda y con el
+caudalímetro para ajustar precisamente el nivel de caudal de las soluciones que
+se entrega al a las plantas no tenemos una solución conectada a internet y
+tiene una aplicación local digamos un monitoreo control local y aplicación
+celular también para la notificación y el envío de alertas sí le vamos a dar un
+poquito más sobre tecnologías utilizadas simplemente bueno acá tenemos las
+diferentes tecnologías utilizadas como dije y los elementos utilizados por un
+lado tenemos los sensores Y actuadores tenemos el sensor el caudalímetro
+tenemos el sensor de temperatura y humedad tenemos el relé que nos va a
+permitir nos va a permitir comandar la bomba para la dosificación Generalmente
+está Generalmente no siempre en la nube y servicios como los que ofrece aws o
+Google o Microsoft tienen Brokers que lo que hacen es agarrar las
+comunicaciones en el protocolo mmc y las van dirigiendo a a los destinos
+finales también que pueden hacer dentro de la misma nube o puede ser otro
+dispositivo conectado a la red de gestión pueden ser diarios o nodos
+concentradores que lo que hacen es recolectar toda la información de los nodos
+sensores y generalmente hace un preprocesamiento de los datos antes de que esto
+sea guardados o una vez que son tomados de la base de datos Sí para que luego
+esos datos que son preprocesadores pueden ser fácilmente expuestos en la
+aplicación del usuario para este caso particular a la aplicación del diseñador
+se hizo mediante angular que es un framework que permite crear aplicaciones web
+lo que son las instrucciones y vienen con una biblioteca especial que se conoce
+Pues hay un niño que está pensada para hacer aplicaciones móviles que son
+responsables de la facilidad de poder visualizarse correctamente tanto en
+computadoras en teléfonos móviles se va Ajustando el diseño para que pueda
+verse la información correctamente no sé si les ha pasado que alguna vez abren
+una aplicación al teléfono se ve muy bien y luego luego se ve súper malo o
+viceversa bueno las tecnologías las herramientas que permiten crear un fondo
+ayudan es precisamente que es un diseño sea adaptarme a cualquier dispositivo
+donde se esté mostrando sí acá Tenemos también el uso de mysql y el protocolo
+http que es una constante en lo que son las aplicaciones en las construcciones
+de las Api eh que son interfaces para las comunicaciones web Es un protocolo
+muy utilizado Así que tampoco pero como dije es el más común Eh Así que
+seguramente ustedes lo van a escuchar frecuentemente Cómo fue el prototipo
+final se siente por favor Acá podemos poner algo que sería el nuevo sensor
+tenemos un sp32 hay muchos microcontroladores Hay unos que están basados en
+arduinos o en algún microcontrolador de alguna familia de fabricantes tenemos
+una raspberry pi que sería el nodo concentrador el nodo que hace el
+preprocesamiento de datos Y tenemos los diferentes sensores tenemos el cable de
+milímetro tenemos el relé para actuar en que van a permitirnos controlar la
+bomba eso como medio por otro lado tenemos una parte del dashboard desarrollado
+dónde podemos ver las métricas precisamente de temperatura y que se lograron
+implementar bien y bueno esto sería un ejemplos eh algunos de los ejemplos hay
+muchos eh si ustedes se van al a la página de los posgrados en el archivo
+histórico vamos a encontrar muchísimas temáticas de iot y muchísimos temáticas
+de iot en milagro industria sí tantos si les interesó alguno de estos temas en
+el archivo histórico pueden encontrar el documento completo donde da una
+descripción total en todas las tecnologías utilizadas el procedimiento
+realizado de lo que se logró eh de los objetivos alcances del trabajo futuro un
+documento muy completo que está en la web Así que si alguien le interesó algo
+puede ir a los documentos y están también las referencias de cada una de las
+tecnologías incluso Me parece que está en los contactos de los autores Entonces
+nada eh si es que les interesa podemos ir a a esa fuente directamente Eh bueno
+no sé si hay alguna pregunta que dan cosas en el chat A ver se le está
+contestando cosas manchadas Muchas gracias Bueno entonces ahora vamos a la
+parte de reflexión y acá sí me gustaría que ustedes eh interactúen un poquito
+con nosotros Porque bueno la reflexión es es para todos nosotros les damos acá
+un poquito de lo que es nuestra experiencia porque lo poco que podamos aportar
+pero también me gustaría que ustedes Bueno nos eh nos hagan saber su opinión no
+así que tenemos como puntos de reflexión estos tres puntos que elegí muy
+interesante que sería Por qué fracasan los proyectos del Hotel herramientas
+para relevar los problemas de implementación Y bueno que piensan si la idea te
+reemplaza el productor o la potencia es bueno Me gustaría saber un poquito la
+opinión de ustedes sí Y por qué fracasan los proyectos de iot de manera hay
+muchos factores que pueden determinar el fracaso no del proyecto en general no
+el proyecto de vida yo personalmente les digo en dos factores principales no
+son únicos No son eh No están fuera de discusión bueno eh Para mí son dos
+elementos claves que por una cuestión de experiencia me parece que es así que
+son por un lado la mala gestión sí Qué significa la falta de estrategia una
+falta de idea de negocio una mala planificación una mala ejecución una pobre
+estimación de costos una idea de negocio muy completa muy consultada bueno
+entre otros entre otros puntos no una mala gestión les voy a dar un ejemplo
+también un poco personal digamos sobre alguna de las implementaciones en las
+que alguna vez tuve que colaborar y bueno tenemos un cliente le voy a dar
+nombre pues obviamente como para mantener una cuestión de mantenerse para las
+las cosas no eh tenemos un cliente que necesita una aplicación de telemetría
+para vehículos no entonces necesitaba mirar la tecnología de los elementos que
+ya tenía funcionando de una nueva tecnología para ofrecer nuevos servicios a
+sus clientes Entonces entra todo el diseño que se elabora el dispositivo se
+aprobó se entregó todo bien todo el mundo Más o menos salió al mercado porque
+una vez que tenemos un dispositivo comenzaron a ver que el servicio que ellos
+pretendía vender digamos ya no tenía la competencia digamos y tenía con mejores
+prestaciones Sí entonces obviamente no salieron del mercado como dispositivos
+que ellos habían creado eso sería que no hicieron un en un análisis de Mercado
+eh oportuno no una idea entonces debieron haber notado que había ya un una
+competencia Y tratar de hacer un punto diferenciador Pero bueno no se hizo eso
+y al final eh el desarrollo quedó ahí se desarrolló pero quedó como para el
+historial digamos de de los de los proyectos de la empresa entonces con mucho
+la parte de lo que hicimos es muy importante en muchos aspectos Sí eso por un
+lado por otro lado o sea posible causa de que los proyectos fracasen es el
+desconocimiento de las tecnologías sí Generalmente entendemos todos sabemos Eh
+por las últimas tecnologías no por lo menos por lo novedoso por lo que todo el
+mundo está utilizando eso no siempre es la mejor opción sí hay que hacer un
+análisis muy específico de la necesidad y evaluar las diferentes tecnologías sí
+pasa muchas veces y esto también es un ejemplo de la vida real digamos por
+ejemplo en el que lleva un trabajo que que también participe un cliente que
+tenía unos nudos sensores que trabajaban mediante comunicación satelital Sí
+entonces último modelo los mejores interpretaciones Bueno eso es cuestión del
+el comercial de los de los dispositivos no de los nodos entonces ojo acá en
+Argentina y cuando quisieron utilizarlo no pudieron porque resulta que la
+cobertura satelital con los que trabajaban los nodos estaba pensada para Europa
+sí y no para latinoamérica eso y también que ofrecían los los sensores con lo
+que son em la la parte de servicio técnico la parte de consultas todo ese tipo
+de cosas de mantenimiento de los lados em no era libre o sea tiene que ser como
+empresa Sí o sí y los servicios de comunicación también Únicamente con empresas
+que vendían el producto sí podrías conectarlo a cualquier red satelital
+entonces estaba todo muy restringido al final no se pudo no se pudieron
+identificar acá a pesar de que teníamos súper buenas prestaciones y y etcétera
+etcétera Pero con un desconocimiento de la tecnología no se pueden usar acá y
+ahora nosotros estamos tratando de resolver ese ese problema digamos tratando
+de dar alguna alternativa de conectividad de los modos que se compraron
+Entonces el desconocimiento de la tecnología es un factor muy importante porque
+nos va a dar a futuro las potencialidades de por ejemplo estabilidad de
+seguridad de tener puntos entre nuestros nuevos sensores entre todas las
+tecnologías que vamos a utilizar etc y bueno cuestiones de seguridad también
+así que es muy importante conocer al menos la dosis de las tecnologías en las
+que vamos a trabajar o sea para mí esos son dos aspectos muy importantes que
+pueden definir el éxito del fracaso es un proyecto en general lo que es un
+cognado la gestión y también el desconocimiento de las tecnologías que se van a
+utilizar Bueno ahora en cuestión 1.2 Qué herramientas hay para relevar
+problemas en la implementación no hay como una única respuesta a esto sino que
+hay un un programa un software no es que el chat te va a decir el chat que te
+va a decir si estás haciendo bien a las cosas eso también tiene que ver mucho
+con la gestión pasa pasar míticas trazar alcances y el mundo si se logran los
+objetivos Entonces ese tipo de instrumentos que se ven en gestión de proyectos
+todo este tipo de medicamentos nos pueden ayudar Así es A ver si se están
+alcanzando los objetivos y se están logrando solucionar el problema con los
+recursos ideales o no Si va a ser un buen negocio y todo ese tipo de análisis
+que precisamente se se hace una gestión de proyectos es algo muy importante y
+que se debe tomar en cuenta sí las alianzas estratégicas entre socios Bueno ese
+tipo de cosas también se pueden gestionar y se pueden ayudar digamos no Y eso
+nos va a dar miedo Si es que el proyecto va en un buen camino o no va en un
+buen camino sí lo importante como ustedes implementen en cualquier tipo de
+desarrollo es que eh si se van a equivocar se equivoque se equivoquen rápido y
+barato Sí entonces esa ese consejo sí no gasten demasiado no traten de hacer
+súper megaproyectos vayan de a poco y vayan siempre midiendo los objetivos los
+alcances y y vayan haciendo un avance progresivo muy difícil el punto 3 y ahí
+está no reemplazan todos los potencia y un solo reproductor sino también al
+ingeniero agronomía todos los actores de lo que sería el medio de la
+agroindustria Sí desde el consumidor hasta precisamente bueno pasando por el
+ingeniero agrónomo hasta el productor etcétera los proveedores el las
+tecnologías de potencia a todas esas energías de personas que desarrollan y
+producen sí Entonces eso sería todo de mi parte no sé si alguna persona que
+tiene alguna opinión o algún bueno Muchas gracias Cris Gracias Tere también
+bueno vi que estuvieron interactuando un montón por el chat Así que eh Nada
+Cómo cómo estamos pensando de acá hasta las 12 eh Nada estaría buenísimo
+debatir de afuera de que estuvieron preguntando por el chat podemos ahora Cómo
+sumar reflexiones también a partir de los disparadores que que dijo Cris y la
+idea es darles unos unos 10 minutos de pausa y cuando nos conectamos hacemos el
+cuestionario así así nada descansan un poquito de de estas casi 2 horas de
+corrido em y hacemos el cuestionario Bueno nada ahí está me gusta hay manos
+levantadas Así que creo que primero levantó Juan el que te escuchamos buen día
+cómo andan muy interesante todo lo que plantearon a mí personalmente lo que me
+pasa ante el tanto ítem 1 y 3 eh es por ejemplo yo tengo un par de ideas Pero
+la realidad es que es un mundo totalmente distinto al que me manejo y uno no
+sabe dónde caer como para intentar plasmar esa idea y que salga el menor costo
+posible o algo razonable entonces también un poco me anoté en esto para para
+intentar entenderlo un poco más y en mi caso personal que trabajo más en lo
+extensivo que lo intensivo veo como que no hay tantos ejemplos porque sí la
+hidroponía eh de de aplicaciones lo mismo que lo intensivo en una plantación de
+tomate pero me es difícil llevarlo a algo más extensivo y que tenga un costo
+que lo pueda pagar un productor promedio es un poco lo que lo que a mí me
+plantea la cabeza hoy con todo lo que vimos Bueno está muy bien a ver vos decís
+que te gustaría abordar lo estás haciendo obviamente desde el lado de la de la
+agronomía no me imagino Sí sí correcto Bueno para mí igual También dejó abierto
+para para los demás que quieran participar Christian Celeste que estuvieron
+principalmente a cargo pero para mí no hay alternativa de hacer algo de bajar
+la idea que tengas que que nuevamente puede ser maravilloso seguramente lo sea
+Porque además estás en el día a día eh que no sea involucrarte con alguien que
+que maneje esta disciplina porque no no no o sea es todo un universo eh todo lo
+que estuvieron contando Cristian y Celeste de hecho como como también lo
+hicimos al principio ellos se han especializado siendo que vienen de la rama de
+ingeniería llamémosle más bueno sale de telecomunicaciones Cristian electrónica
+pero de todas formas igual implica hacer un paso más para para acercarse más a
+esta tecnología entonces creo que es muy poco viable pensarlo sin asociarse con
+alguien que que lo maneje de hecho habrán visto por ejemplo en pasteus la
+semana pasada que estaba Alejandra que manejaba la parte agronómica de pastos y
+estaba Fernando que manejaba la parte de de llamémosle de iot sí Sí o sí tienen
+que existir esos vínculos y para mí es lo óptimo cada cada uno enriquece a la
+solución desde su O sea no puede existir la solución sí eh si uno de los dos
+falta ese es mi visión no sé si va por ahí la pregunta Juan Manuel Sí sí
+totalmente creo Exactamente lo mismo que vos no pretendo aprender yo todo esto
+porque muchas cosas son chino básico o pegan el palo eh pero pero bueno en ese
+universo que me planteas vos bien eh Hay un montón de de personas para empresa
+Según uno no sabe a dónde o por lo menos en mi caso no A dónde volcarse eh con
+quién hacer este camino con quién imprimió Sí para para que no fracasé
+justamente lo que plantea el punto uno está bueno bien no sé si alguien quiere
+aportar algo más sobre ese aspecto o bueno también abro antes de pasar Analía
+abro al resto si quiere hacer algún aporte comentario yo creo que hay hay mucho
+por desarrollar pero también hay mucha tecnología Lo que pasa que no nos
+enteramos por ahí yo no soy muy usuario pero al al ser docente ahí en la
+facultad por ahí te enteras de algunas tecnologías que no llegan al usuario no
+sé por ejemplo el año pasado Tuvo una empresa acá en la facultad que es una
+empresa brasilera que tiene unos robots de monitoreo que se alimentan con panel
+solar y están las 24 horas monitoreando todo el cultivo tiempo después si
+detecta alguna plaga se comunica al celular del del propietario o de quien esté
+a cargo y le pasa la información a otro robot que es el encargado de aplicar de
+las coordenadas Dónde tiene que ir a aplicar y ese robot de monitoreo
+absolutamente todo el año pasado que tuvimos problema bastante grave con con la
+chicharrita en el maíz este robot ya ya estaba detectando la y como eso te
+detectaba un montón de cosas el tema está en lo que en lo que en lo que te digo
+que por ahí nos llegó a nosotros Porque estamos en la facultad y estaban
+buscando que validemos el producto pero por ahí no llega al al propietario sí
+como esos hay hay un montón de de de de de de de de cosas que por ahí el que
+está con más desarrollo por lo menos desde el punto de vista pío no el que está
+mucho más en desarrollo hoy en día es lo que es la producción animal que
+también No es que está atrasada sino de que están apareciendo muchísimas cosas
+nuevas como éstas las balanzas las los bastones eh la otra vez en una Expo vi
+una empresa que en vez de bastón tenía un guante o sea en el guante tenía el el
+sensor que leía Entonces hubo al mismo tiempo podrías trabajar No es que el
+bastón te molestaba no sé detalles y un montón de tecnologías que que están
+dando vuelta el tema creo que es un poco la falta de llegada al al productor al
+consumidor no sí sí es un poco no no por ser autorreferencial pero es un poco
+el lugar en el que se quiere posicionarse no esto de vincular productores que
+por ahí no conocen soluciones y ver la forma en la cual los solucionadores cómo
+lo llamamos se acerquen a los productores para que que que que conecte mejor
+obviamente después los productores tienen que hacer la evolución la evaluación
+que también fue algo que hablamos la semana pasada decir bueno Y cuánto me sale
+esto y además de cuánto me sale Cuál es el tiempo que llevo hasta lo que lo
+implemente y está funcionando Cuál es el riesgo la empresa está me lo instala
+el día de mañana desaparece se me rompe un equipo no como que bueno es todo una
+cuestión llamemosla pero pero que es súper valiosa y necesaria no por otro lado
+la otra vez le preguntaban a a un referente maquinaria agrícola que es Ricardo
+Martínez Pet sobre las tecnologías estás en el campo y yo creo que él decía
+algo muy importante la tecnología sirve Sí sí es rentable O sea si vos en tu
+empresa de hacer rentable eh va a servir ahora si vos sos un productor promedio
+de acá de nuestra zona de 50 a 100 hectáreas y quieres comprarte una sembradora
+como la velocidad por ejemplo completa pero ahora filosofía es una una
+sembradora no sé si la conocen pero que tiene sensores por todos lados y
+actuadores por todos lados y hace todo sola es un es un robot vamos a decir
+pero va a tirar con un tractor lo único lo único que no hace es auto
+transportarse pero tiene sensores de todo absolutamente todo las regulaciones
+ya no las haces vos sino que la hace la misma máquina en lo que es
+transferencia de peso a las ruedas niveladoras la transferencia de peso a las
+tapadoras eh que monitorea la calidad de siembra eh tiene también en en la
+colita de pastor o plástico Pizano sensores que te van diciendo materia
+orgánica humedad fósforo en el suelo un montón de sensores de todo ahora si vos
+sos un producto promedio de mi zona que no sos contratista que tenés 50 100
+hectáreas y no esa tecnología no te va a ser rentable porque no lo va a dar
+ninguna Ajá sí sí puedes ir seleccionando tecnologías de toda esa gama no sé si
+me explico o sea no sé tener una sembrado ahorita y le pones un monitor nada
+más entonces yo creo que que me parece que viene un poco por ahí de que si
+fracasa o no de de hacerla rentable para para lo que vos necesitás totalmente
+Sí sí Además está muy buena la perspectiva que traes de otra es como como
+digamos testimonios en de primera mano Así que está está bárbaro Bueno un poco
+también respondiendo Juan Manuel gracia seguimos así no no cortamos y también
+hacemos la pausa nos da tiempo para todo bueno en función de las ganas eh
+tiempo etcétera Bueno uno de los recursos que también aportamos desde el
+posgrado es lo que llamamos el programa de vinculación sí alguien que no es de
+eh digamos que tienes París en iot Inteligencia artificial o embebidos tiene
+una idea Sí y la trae como una propuesta de un trabajo final para un alumno que
+se puede interesar que sí tiene el expertise no el expertise técnico no en esas
+tres disciplinas y bueno pueden pueden recorrer ese camino de desarrollo juntos
+Sí en ese sentido eh nosotros como tanto como institución facultad como
+posgrado solamente hacemos el llamémosle Cómo Cómo se dice hoy en día o el
+tinder de de de de de de de de de persona que tiene la idea y y sabe lo que
+necesita y la persona que tiene la expertise para desarrollar esa idea y
+después la forma en la que se relaciona ya sea de forma rentada o eh Como
+socios o lo que sea eso nosotros no nos involucramos sí nada lo dejo también
+ahí como una herramienta de de de de de tantas otras que puede que pueda ver
+bueno pasemos a eh Analía y después estaba Juan Pablo no entiendo que ese es el
+orden Qué tal cómo les va Buen día eh Bueno un poco una parte de la pregunta
+era la misma que fue la primera Así que ahí eh fui escuchando todo lo que
+decían que con respecto a la conformación de los equipos iniciales esa era una
+de mis dudas Cómo hacían para definir los perfiles necesarios en la en la
+conformación de esos equipos iniciales em bueno se me venía un poco a la cabeza
+del tema de eh Qué importante es el el perfil técnico del técnico que va a
+ayudar en la definición de Qué tecnologías se van a usar porque no tiene que
+ser un muy especialista en algo sino que tiene que ser medio generalista y
+Conocer bien qué es lo que lo que conviene para cada caso no ese ese perfil eh
+que bueno aunque no sepa los detalles de cómo implementar cada tecnología si
+sepa y nos ayude a a elegirla bien eh después veía el otro perfil del del que
+esté Armando y y monitoreando el modelo de negocio No que lo dijeron recién el
+modelo de negocio se tiene que es clave eh Y bueno y la parte del que aporta la
+idea y toda la la relación con el agro Eh bueno una pata importantísima porque
+si no eh lo electrónico y lo y lo informático se puede delirar en algo que
+después no sea práctico no aplicable O funcional Así que esa otra esas tres
+patas y también con lo que decían de por ejemplo el ejemplo este del guante en
+vez del bastón Eh me vino a la mente está otro perfil que que últimamente se
+habla mucho que los diseños centrados en el Qué bueno eso también son personas
+especializadas en en ver que que el dato llegue la manera correcta Pero además
+que sea cómodo para el que para el que tiene que introducir el dato y y bueno
+este este ejemplo me pareció ideal y lo que me la otra parte de la pregunta era
+eh qué tiempo se manejan o cómo hacen para manejar esos tiempos hasta que
+aparece el primer mbp no eh es muy variable no como para que la gente no se
+desmotive en el camino y bueno eso es un universo entero que bueno en en
+particular en el caso llamémosle de lo que te puedo contar el programa de
+vinculación hay una tercera pata ya que hablamos de pata que es el director de
+ese trabajo final no como que hay tres jugadores está el el la empresa o ya
+vemos que hay que entrar en la idea o la propuesta el alumno que la va a
+desarrollar y un director con una determinada experiencia trayectoria que puede
+decir que no sé Esto va a tardar tanto cuidado acá no Entonces qué hace asesora
+en eso del llamémosle el mbb pues obviamente si es una empresa va a tener una
+persona que puede hacer eso que pueda definir tiempos también pero bueno pero
+bueno esto por ejemplo estos proyectos que plantearon ahí son proyectos que se
+habrán desarrollado en un en un tiempo prudencial de lo que es un trabajo final
+que no lo sé cuál es si el posgrado está dividido en eh o sea lo pensamos como
+5 bimestres o sea que se hacen 10 meses corridos Sí ahora quienes llegan a
+completarlo en esos 10 meses son personas que pueden dedicarse full time a
+desarrollar los cursos es un es un ritmo intenso semana y además tienen un
+tiempo para disponer al desarrollo de su trabajo final o sea con lo cual es
+full time dedicado el resto de las personas o en general llamémosle están
+cursando pueden ir haciendo algo pero El Avance más fuerte se suele dar cuando
+cuando terminan de cruzar Está bien entonces y después tenemos el tope que son
+10 bimestres o sea tiene 2 años para terminar la carrera y presentar su trabajo
+final sí Ese es como el límite todo tiene que ser diseñado definido de forma
+tal de poder hacerlo sí Y también está bueno aclarar que nosotros estamos
+velando por la parte académica llamémosle Sí o sea nosotros queremos que se
+desarrolle un trabajo final que esté acorde a los contenidos del posgrado Sí
+ahora el hecho de llegar mbp es un tema que nos excede digamos Está bien No no
+es parte del del del del del contenido sí sino es bueno completar aplicar los
+contenidos del posgrado en un en un trabajo que integre sí ahí como que bueno
+empieza empieza a mezclarse cuestiones empresariales con cuestiones académicas
+Que bueno hay que hay que pautar las bien o sea sí María celos Muchas gracias
+por lo que sumaste vos pero lo que quería decir es que estos trabajos son del
+orden de 600 horas qué es lo que nosotros le le pedimos a los alumnos Pero
+bueno es esto que decía Pablo también que tenemos los 10 bimestres pero va a
+depender del alumno si lo puede llevar a cabo en ese tiempo o le puedes llevar
+más tiempo pero el alcance es del orden de 600 horas para los proyectos que les
+pasé el el link en el archivo histórico pueden consultar no solo de la
+especialización en internet de las cosas sobre la maestría si no está en el
+resto de las especializaciones pues más tarde cuando vayan a ver la parte de
+Inteligencia artificial y también están todos los trabajos pueden elegir en la
+solapa era eso bueno estaba estaba Juan Pablo mayo que creo que bajó la mano y
+si no tenemos a Martín Hola eh Sí perdón no sé si me escuchan sí perfecto no
+estoy teniendo un problema de audio que si usó los auriculares no me bloquea el
+micrófono no sé por qué y después por eso tengo que salir de la reunión y
+volver a entrar para para poder hablar Bueno un poco va En referencia a lo que
+estaban hablando recién eh yo lo que veo es que a ver creo que la primera
+Consigna era porque fallan los proyectos de iot Eh bueno Yo no sé si decir que
+fallan eh lo que creo Es que o por lo menos acá yo estoy en la zona de
+Patagonia Sur acá es de muy o sea o no se ve que haya una oferta de ese tipo de
+proyectos eh Por lo menos para los productores De esta zona por otro lado creo
+que hay algo eh que te digo que a mí como como docente investigador y
+extensionista en el área agropecuaria el problema grande que tenemos es que hay
+muy poca implementación de cualquier tecnología que se desarrolle en el ámbito
+rural por lo menos en esta zona este seguramente en Pampa húmeda con no sé mmm
+más eh más jornadas de extensión más demostraciones muchas más densidad de
+agencias agropecuarias Y eso quizás haya más penetración digamos en el ámbito
+acá es muy difícil y estamos hablando de tecnología pero recontra básica al
+lado de lo que ustedes están proponiendo y así todo el productor no las tomas
+por otro lado el otro inconveniente que tenemos acá es el tema de falta de
+conectividad o sea eh quizás con esto que ustedes han mencionado eh de estas
+redes nuevas el ltm creo que era ese tipo de sistemas se puede solucionar bueno
+acá yo Yo no lo tengo no tenía conocimiento de eso eh Y y no sé si si alguien
+acá en el medio lo lo manejará pero acá recién no sé te diría que hace 2 años
+como mucho eh los campos y más Precisamente en el caso de las estancias Los
+cascos de las estancias empiezan a tener eh wi-fi o sea empiezan a tener
+internet en el casco obviamente o sea salí del casco y no no tenés nada eh
+capaz que ahora con esto de starling Y eso se puede incluso eh difundir más
+pero los que tienen internet no la eh No la tienen por starling hay una empresa
+que provee servicio que no sé cómo cómo lo hace Pero bueno recién hace muy poco
+tiempo digamos el el casco del establecimiento empieza a tener internet otra
+cosa que veo es Eh bueno el tema de rentabilidad eh la mayoría de los hay un
+compañero mencionaba que casi todos estos proyectos van apuntados a eh
+actividades intensivas yo me imagino que debe ser por una cuestión de
+justamente de rentabilidad de lo que estás haciendo O sea eh seguramente No sé
+un invernadero industrial de tomate capaz que tiene tanta rentabilidad o más
+rentabilidad que eh un campo que hace el trigo extensivo entendés entonces
+bueno los los márgenes que se manejan deben ser distintos en el caso nuestro
+que estamos o sea en lo que es producción ovino y producción bovina la verdad
+que los márgenes de los establecimientos acá al menos por lo que dicen los
+productores eh No son muy buenos viste entonces están medio como ahí al límite
+eh Aunque seguramente si uno puede eh mostrarle todos los beneficios que puede
+llegar a tener un sistema de estos eh Y se hace los números capaz que hasta les
+conviene hacerlo pero bueno em Yo creo que por una cuestión de idiosincrasia de
+cultura de no sé de de de de de de de de de conservacionismo por ahí Son medios
+reticentes a la adopción de este tipo de tecnologías y otra cosa que ocurre acá
+por lo menos Es que la verdad que él en algunos casos eh va eh Yo te diría que
+generalmente lo que se ve es una una escasa formación en la gente que está
+manejando los campos viste o sea por ahí tienen una formación eh saben un
+montón de vacas de ovejas Y eso sí la tienen clarísimo pero eh pero por ahí no
+no se abren a a a a a a a a a nada a adoptar este tipo de tecnologías o sea
+nosotros por ejemplo hacemos estamos tratando de de de de de de de de de
+difundir la práctica de fertilización de Vegas o de incluso eh evaluación de
+pastizales o siembra de pastura que digamos es lo más rudimentario que hay y
+bueno acá nos cuesta muchísimo entrar con esas cosas viste o sea por ahí el
+productor que la que nosotros Dónde hacemos la práctica le mostramos los
+resultados todos los resultados de los trabajos que hacemos los Tratamos de de
+digamos de de transformar en números económicos Entonces le decimos bueno
+gastaste tanto en fertilizante acá tenés tantos kilos más de pasto podés poner
+tantos animales más poder ganar tantos kilos de carne o sea Tratamos de de que
+el tipo vea la ecuación eh Cómo pero así Todo es muy difícil eh entrar viste a
+mí me parece que también hay una cuestión ahí cultural que bueno eh yo no O sea
+me cuesta mucho manejarla no no te puedo No sabría encontrarle una explicación
+No quería comentar eso Gracias no no está muy bueno el aporte Así es hiper
+complejo hiper complejo eh Y bueno nada como que cada cuestión hay que hay que
+como abordarla de de distintas formas para mí el apoyo de lo que son las
+estructuras institucionales gubernamentales es fundamental la cuestión de
+contagio con los centros llamémosle los la las los regionales las agrupaciones
+de de de de productores también el contagio en eso de que uno lo hace No hay
+una especie de influencer dentro de de de los productores porque la doctora
+Entonces le va y le cuenta al otro No esas cosas también funcionan eh es como
+muy muy artesanal me parece en ese punto Pero pero bueno Nada ese es un desafío
+estamos Completamente de acuerdo Te propongo que pasemos a Martín eh Terminamos
+el debate cerramos Así nos da tiempo el el cuestionario los van a ser 10
+minutos que que les damos y después que nos queden por lo menos unos minutos
+para hacer una devolución está bien de Martín Hola qué tal Buenos días a todos
+eh primero quería hacer una consulta que está un poco abierta tanto a la gente
+de la facultad de ingeniería como a los compañeros del inta de las
+universidades es si existía o conocían ustedes algún programa como el converge
+que entiendo que es de de Uruguay sí existía algo acá o que sí existía y
+después si no qué viabilidad le veían de implementar un sistema de ese tipo
+bien bueno un poco lo comentamos la semana pasada la idea es es de hecho ya
+estamos en conexión con o a ver India ya se conecta con los demás ígneas del
+sur a través de esta organización que se llama pros y sur y está la voluntad y
+de hecho están trabajando en desde Uruguay transmitir O sea la persona con la
+que nosotros trabajamos que es planta de India está trabajando con con los
+demás ígneas para transmitir la experiencia y que en algún momento también
+simplemente eh en los incas ígneas Eh bueno en concreto en el inta de Argentina
+De hecho está participando no sé si hoy no sé si la veo bueno Ahí tiene la del
+inter Bueno ahora no la veo pero la responsable de Access que que nada estaba
+participando del curso Así que también ahí tenemos un contacto pero Gabriela
+tallarico ella que no la veo no no está no Juli hoy nada Ella está en contacto
+con la persona en línea responsable bueno Guadalupe tiscornia que es quién está
+a cargo de de toda esta esta nueva área que se está abriendo niña y que está en
+contacto con cada uno de ellos se reúnen periódicamente y cómo es ella la que
+está bueno estamos trabajando fuertemente transmite la experiencia a los demás
+con el objetivo de que esto exista en la región sí perfecto y después eh Nada
+quería un poco como a sumarme un poco al debate esto sobre el tema de de los
+fracasos y por ahí retomando una consulta que hizo Juan Pablo en el chat que
+era sobre el proyecto este de eh que por ahí quedaba claro Bueno voy a tomar
+estos datos pero no quedaba claro digamos eh agronómica digamos que que
+implicaba tomar esos datos entonces yendo al tema de bueno por qué fracasan
+quizás uno lo que tendría que preguntarse es qué es un éxito en la
+implementación de iot No si simplemente o no Simplemente porque no es simple eh
+si la implementación de un sistema que permita transmitir datos en forma
+eficiente rápida y que estén bien registrados y se puedan ver o si eso se tiene
+que traducir en eh digamos en algo con un resultado económico y con una
+adopción de digamos de de los usuarios en a otras cosas que por ahí plantearon
+otros compañeros que hablaron antes eh Si todos estos aspectos del productor
+del conocimiento del productor de la capacidad de digamos de adoptar el esas
+tecnologías del productor si no deberían estar incorporadas en estos en estas
+arquitecturas del sistema o sea porque hay una arquitectura del sistema que
+tiene que ver con los componentes electrónicos los protocolos y Y qué pasa con
+los usuarios Cómo se se deberían o no se deberían incorporar en estos modelos
+al al momento de pensar y sus conocimientos qué es lo que tienen al modelo de
+pensar digamos estos sistemas totalmente a ver en los dos en los dos ejes que
+que hablaste el primero desde este lado ya hemos leído la parte electrónica
+etcétera está lleno de proyectos que son pensados desde la óptica de alguien
+que estudia electrónica y piensa que es lo que necesita un un productor pero
+que no tiene contacto con la realidad sí Y obviamente fracasan porque digamos
+no tipo Bueno yo estoy para qué me no ahí también hay un espacio que India
+también Uruguay yo hablo desde ahí porque bueno son con quién estamos
+vinculados eh entiende que ese es un problema e intenta acercar a
+solucionadores en etapas tempranas a el contacto con especialistas en la
+temática que corresponda para bajarlos a tierra no O sea está maravillosa que
+existe técnica iot con conexión bueno a ver espera esto no no hagas esto que no
+lo uso a nadie no le sirve a nadie Sí entonces tratar de encaminarlos en etapas
+tempranas para para que para que el recorrido sea bueno eso eso por un lado y
+respecto al otro el otro eje es fundamental sí no tengo más que decir que es
+fundamental porque él el productor tiene que que va a ser el usuario finalmente
+tiene que tiene que ser cómodo tiene que entenderlo bueno es todo un universo
+que a veces tampoco se se toma en cuenta y coincido Bueno pero si sos breve
+buenísimo así ya no eh cuantificamos el recreo a 5 minutos o sea no no con toda
+la seguridad sí llegó no dos cuestiones una vinculada a los costos son me lo
+imagino esto como el ABS del auto al principio lo traía Mercedes Benz y hoy lo
+lo tiene el Fiat más barato no así que y como la velocidad es exponencial en
+estos desarrollos Yo creo que la difusión va a ir escalando y popularizando no
+como pensamiento y en cuanto al comentario que dice traje a medida o el traje
+de confección hoy en día nosotros en administración rural tenemos que aún
+teniendo la misma dotación de recursos dos empresas agropecuarias son
+diferentes porque el productor agropecuario no es el mismo y a veces las
+soluciones pueden ser más genéricas o más específicas dependiendo de que
+estemos hablando no así que ahí hay todo una un remedio universal aunque sea
+parezca la Aspirina no así que también esa forma de de de de de de encararlos
+estos temas a veces son muy específicos otras veces pueden ser soluciones más
+genéricas nada más quería dejar esa esa idea no es nada nuevo Pero bueno no es
+la idea aportar mirar reflexiones sobre sobre todo sobre esta problemática Que
+obviamente nadie tiene la verdad revelada Pero cada uno trae sus experiencias
+Así que sí para eso bueno estás Ariel eh No sé si estás por ahí Pero cómo te
+parece que nos organicemos estos últimos minutos para hacerlo del cuestionario
+les podemos dar 2 minutos para que se despejen son 11:38 2 minutos bueno cuándo
+seguimos un contador regresivo de 2 minutos No hay dudas al respecto Bueno
+estamos entonces Bueno entonces te voy a pasar el link voy a pasar el link para
+responder en el chat voy a cerciorarme que sea link correcto bueno estupendo
+mucho suspenso Bueno ahí fue el link me confirma si lo recibieron bueno a ver
+son cinco preguntas muy sencillas Así que se le querés poner un timer de Bueno
+lo pongo yo le pongo de nuevo son muy sencillas las preguntas [Chunk 84 failed:
+Could not understand the audio] bueno queda menos de un minuto ya tenemos 25
+respuestas los puntajes son altísimos Realmente altísimos así que bueno me
+quedo 26 respuestas me quedo tranquilo que el tiempo es acorde y la dificultad
+es acorde o a lo sumo demasiado fácil pero no es demasiado difícil aparte es a
+modo de repaso ya le habíamos prometido que iba a ser algo sencillo Bueno ya
+van a haber respondido casi todo porque hay 27 respuestas estoy por cerrar
+bueno cierro Entonces ya 28 personas respondieron está muy bien Bueno bien
+bueno entonces les voy a compartir acá les voy a compartir acá el puntaje
+Aguántame que comparto pantalla Bueno ahí se está viendo todavía no Mario Me
+parece bien gracias Estoy compartiendo otra compartiendo chile También tenemos
+unas preguntas en el chat Ari mientras vamos a resolver la parte técnica si
+querés las leo bueno dice qué pasa con el parchecito si uno de los días no
+podemos estar conectados cuando lo mandan particularmente el miércoles que
+viene tengo que estar en el campo esa es una de las preguntas si se van a
+volver a tomar no se resuelva Bueno pero que no que nos avise no que nos mande
+un mail para que le pasemos el el formulario y después lo mismo No a lo mejor
+me tengo que ir a la compu eh Si puedo me conecto me lo envías y la contestó
+Bueno lo mismo también para que María Ay sí Ahora sí se está viendo no Sí ahora
+sí se está viendo las 28 respuestas okay Bueno ahí ven los puntajes la verdad
+que felicitaciones aparte de los que respondieron al principio un momento queda
+como algo así como 9 respuestas y todas tienen 5 puntos Así que las Natasha
+bien Está súper bien como digo a los humos se pueden quejar que fue demasiado
+fácil pero seguro que es muy difícil no fue fue correcto y son unos fenómenos
+cosa que es muy probable o quizás nos quedamos Pero bueno nada la idea
+básicamente es eh repasar no creo que haya mucha mucha discusión porque bueno
+las putas que son altísimos pero nada podemos ver acá las distintas respuestas
+eh lo voy a hacer rápido no así ya ya podemos cortar y poner a comer porque la
+verdad que nada esto con eso así tan tan positivo el resultado no no hay mucho
+espacio para para discutir demasiado no eh Pero bueno básicamente la primera
+pregunta que todos respondieron bien y eso me pone muy contento eh es este tema
+de que el objetivo del curso no que la vez pasada lo lo charlamos un poco y y
+es un tema importante que es fijar las expectativas de hasta dónde llega este
+curso no que es un curso que justamente como como indica acá es que ustedes
+comprendan el funcionamiento de de estas temáticas digamos y que puedan
+interactuar con especialistas en estas temáticas para para soluciones para el
+agro hasta ahí llegamos después nada se nos puede profundizar no sé hay
+montones de producciones de los mismos damos cursos en la Facultad de
+ingeniería que pueden ver ahí en en la web hay otras distintas opciones de
+cursos eh pero fijemos la expectativa que lo que queremos en algo tan breve
+como 44 encuentros digamos a lo largo de un mes es esto es que entiendan los
+lineamientos y que puedan interactuar en forma solamente con especialistas
+Bueno después relativo a lo de lo de netra eh Nada acá Acá está la acabo un
+poquito más de de divergencia digamos respecto al resultado pero la solución
+correcta es la que está marcada ahí eh lo que presentó es soluciones aplicadas
+al riesgo y otras aplicaciones agropecuarias y básicamente acá Bueno justamente
+como no no todos respondieron bien Podemos discutir un poquitito bueno la
+primera opción tiene que ver con con entender que visión artificial es algo que
+vamos a ver a la tarde vamos a a mencionar como las aplicaciones de
+Inteligencia artificial el otra opción Que varios Fueron por ahí también va por
+el lado de Inteligencia artificial y los de blockchain no no tiene nada que ver
+con lo que lo que mencionó bueno Está también fue el 100% de acierto Ahí le voy
+a Le voy a a mencionar al nombre de Daniel que que fue muy clara Así que
+tampoco hay mucha mucha vuelta pero sí que quieren claras las cosas como
+básicas como que es un actuador creo que no hay no hay mucho que decir porque
+todos respondieron bien después por acá hubo alguna algunos errores que fueron
+para el mismo lado eh No sé no sé si vos querés aclarar está puntual que acabas
+de explicar vos sabés la de Qué ventajas clave ofrece la tecnología Lola eh
+para aplicaciones iot El agro Bueno lo que habíamos estado viendo no el tema de
+de tener eh este nodos o que estén sensores conectados el bajo consumo
+energético y Lora viene de lo que es long Range o sea por eso es el el largo al
+mencione esto que veíamos que dentro de todas las tecnologías era la que tenía
+eh mayor alcance lo que habíamos comentado del orden de de 10 a 15 km y después
+la otra que decía conectividad directa con sistemas satelitales eh comerciales
+era la otra que habían tildado que no bueno no no se habló de conectividad de
+satelital así que bueno es eso lo que habíamos estado viendo del Ahora sí las
+aplicaciones básicamente cuando usan la hora en general son aplicaciones que
+están en un campo instaladas fijas no y quieren darle conectividad como como
+explicó cl capaz que las que tienen que ver con sistemas satelitales capas más
+para una cosechadora algún equipo que es móvil tiene alto valor todo no tanto
+el equipo como el alquiler de ese equipo y todo eso y quieren datos en tiempo
+real y demás Entonces ese equipo particularmente que tenga un camión de dinero
+y una cosa así cientos de miles de dólares eh se equipa con 42 satelital que
+Bueno en realidad hoy en día ya es mucho más barata pero se justifica mucho más
+razonablemente en el caso de un sistema que está distribuido en un campo que
+requiere conectividad en los distintos nodos hubieron con celene es mucho más
+razonable ir por el lado de la tecnología como Lora por lo que dice ahí de de
+consumo al alcance y demás y es algo que ya queda establecido y estático no
+bueno y que era la última pregunta que también todos respondieron bien Así que
+tampoco hay mucho espacio para para el debate y la controversia eh Cuál
+diferencia entre sensores actuadores bueno esto ya creo que no no que todos
+respondieron bien no hay mucha que darle vuelta Bueno entonces Ah ya son las 12
+prácticamente faltan poquitos minutos No sé si alguien quiere hacer alguna
+acotación o alguna pregunta algún comentario o algo sino ya sí puede ser sino
+ya a la 1 nos nos reencontramos directamente ya para para comenzar con el
+examen de la parte de de ia de lo visto la clase pasada Sí perdón mete te iba a
+preguntar eso que con qué arrancamos a la tarde eh el examen ese de superficial
+y después venían inteligente artificial toda la tarde Ah perfecto bien bien
+bien bueno Gracias eh hay alguien más se levante la mano quiero hacer una
+pregunta comentario yo quería preguntar el tema de eh si les tengo que mandar a
+ustedes algún mail como para que me manden el el link al cuestionario porque
+justamente estoy por salir para el campo y no sé eh Cómo mandarnos sus
+comentarios listo listo entonces Ah bueno me mandas por WhatsApp como justo
+tenemos el inicio de una charla también te lo mando un par de ustedes lo
+activan y lo desactivan o queda activo lo mantenemos activo si puede completar
+sin problema después Dale listo listo Yo ni bien puedo lo contestó Bueno
+entonces estamos la verdad que bueno no sé creo que estamos estamos bien Bueno
+no sé si hay más comentarios o algo Si no ya cortamos y retomamos más tarde Hay
+una mano ahí levantada apareció Gabi que antes Te habíamos mencionado Sí a las
+13 volvemos no quería comentar eh dos cositas la primera que quizás eso de de
+de de inta que me estaba Gaby Quizás es por una cuestión de que están hackeado
+el sistema y no nos dejan usar las máquinas analizar eso nada más y la otra que
+no se hagan ilusiones que esté fue fácil Y por eso probamos pero no creo que
+sigamos igual nada nada este fue fácil Y por eso probamos No creo que continuar
+así ya está bien está bien no les adelanto para que también si quieren hacer un
+repaso o algo así como una especie de ayuda por las dudas que también la de la
+tarde se va a centrar mucho la el examen digamos en el tipo de soluciones que
+presentaron el objetivo de las soluciones que presentan las empresas de de ia
+que fueron cuatro la semana pasada como también para poder usar eso como
+disparador después para para relacionar lo que vamos a ver en la tarde en la
+charla técnica digamos Cómo fue la de la mañana eh respecto a ella y
+relacionando cada una de esas cuatro aplicaciones que son bastante distintas
+con los temas que se van a ir a ver viendo durante la tarde okay Bueno bárbaro
+estamos entonces y una consulta más que escribieron A ver si quieres leerlo así
+ustedes quieran la encuentro si quieres leerla mientras Si en algún tiempo me
+olvidé de preguntar sobre el protocolo isobus cómo se encaja cómo encaja en lo
+presentado hoy voy a responder la voz López o yo este no lo conozco bueno es
+una hizo pero no no lo pero no exactamente pero bueno básicamente va por ahí eh
+No sé yo estoy pensando No no tengo ningún recuerdo de de ninguna aplicación
+tipo iot que que vaya por ahí pero si tengo recuerdo concreto de sistemas que
+se conectan a la maquinaria agrícola mediante hizo Haz una que no llegamos a a
+probarlo por una cuestión de de de sincronización con la empresa Pero tenía que
+ver con eso y tomaba de ahí información y después ya una vez que tomaba esa
+información entraba tipo en el mundo de iot y ya la reportaba a internet y que
+hacía todas las demás cosas que viene Entonces es justamente eso algo que está
+en mucha maquinaria agrícola para poder adquirir la información que está
+circulando dentro del vehículo Ariel y sabes si además de la cuestión nada de
+costos que tiene para la certificación y para toda la compra de la de la norma
+Hay algún otro impedimento técnico en Argentina que todavía no se extendió como
+en otros países le hizo más se interpreta bien tu pregunta Y a partir de mi
+experiencia personal de haber estado en las parejas eh el impedimento creo que
+tiene más que ver con el conocimiento que tiene muchos de los fabricantes de
+maquinaria agrícola de tecnologías electrónicas informáticas no no más que eso
+como un desfasaje entre su capacidad de herrería por decir así hacer los
+fierros y yo lo he visto por mis propios ojos y me parece muy muy bien y bueno
+y su su conocimiento yo te hablo igual hace unos años un par de veces no pero
+su conocimiento debemos de dentro de la empresa el sector de electrónica que es
+más viene más relegado no sé si hoy en día se habrán puesto más al día pero en
+aquel momento justamente íbamos por eso porque estaba en un desfasaje bastante
+importante en ese sentido no muchas gracias otra pregunta Matías tiene
+levantada la mano Sí yo quería hacer una trabajo del curso que no me en
+realidad me tiene un poco preocupado Pero porque soy medio ajeno de de todas
+estas cuestiones de Inteligencia artificial Yo recién me estoy formando en
+ciencias de datos Y esas cuestiones Soy ingeniero agrónomo pero bueno como que
+no tuve nunca mucho contacto No es cierto con las tecnologías que estamos
+viendo y eso Entonces más o menos Tengo la idea de por dónde plantear el
+trabajo pero no sé qué Tan detallista digamos o qué tan profundo Habría que ir
+con Eh bueno con porque por lo que veo hay muchas cuestiones como el Hardware o
+las cosas que se utilizarían viste que por ahí a mí se me escapa digamos esa
+nada más es la es una cuestión bastante está bien la pregunta ni atinada y de
+hecho aprovecho para decir hasta el momento solamente algo así como tres de los
+30 alumnos enviados viste que habilitamos un Excel para que vuelquen ahí Creo
+que este es un tema que lo podemos charlar un ratito más en profundidad a la
+tarde Matías bueno ahora sí a todos les hablamos un poquito más en profundidad
+sobre cómo encarar el trabajo Igualmente Ahora les voy a volver a mandar el
+link a un Excel dónde fueron volcando algunos eh los intereses sobre Qué temas
+trabajar Recuerden que el trabajo este puede ser individual o de a dos o hasta
+tres personas con lo cual se pueden unir en algún tema que les interesen como
+un propuesto Por alguno de ustedes si les parece miren eso ahora un ratito al
+mediodía y a la tarde lo charlamos vale buenísimo Bueno nos volvemos a
+encontrar a la 1 puntuales que quedó ahí en el chat con el audio sobre el GPS
+Ahora hay dos partes distintas al GPS para los dos que no haya confusión en
+general los GPS se basan como lo que todos Saben una constelación de satélites
+y en base a eso no no estiman la ubicación de dónde está el el equipo quizás la
+pregunta tiene que ver con Cómo se puede acceder a esa información cuando ves
+que está allá al GPS ya tiene una información y eso depende mucho de poner
+distintos protocolos con los cuales accede información muchas veces es un
+protocolo ward que son los que se mencionó sólo para que quede claro Pero puede
+haber otros protocolos depende mucho del GPS en cuestión está bien ya que
+estaba por ahí Bueno nos vemos entonces a la 1:00 coman rico

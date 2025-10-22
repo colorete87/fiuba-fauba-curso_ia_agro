@@ -1,0 +1,1691 @@
+[Chunk 1 failed: Could not understand the audio] [Chunk 2 failed: Could not
+understand the audio] [Chunk 3 failed: Could not understand the audio] Juan
+Pablo escuchas porque nadie te contestó para ver si escuchabas con el audio
+Hola a todos en breve arrancamos un segundito buenas Hola a todos se me escucha
+se ve bien bueno Comencemos Sí para ahora teníamos planificado arrancar con el
+examen Sí así que les les mando el examen ahora por el chat y dejamos 5 minutos
+y luego continuamos con la clase Sí sí me confirman que pudieron Acceder al
+formulario gracias luz Cómo vienen Alguien necesita un rato más de tiempo bueno
+ahora sí deberíamos estar todos juntos quizás Natanael quizás el único que
+todavía no terminó así que bueno vamos a hacer rápidamente un repaso de las
+respuestas Aunque Natanael tenga algo de ventaja em ya entregó bueno buenísimo
+Entonces ahora sí salvo que alguien más me diga que necesita algo más de tiempo
+voy a cerrar las respuestas hacer un seguimiento igual Perdón Federico las
+respuestas las vamos a ver ahora o arrancamos con el teórico que están
+esperando vale Bueno entonces lo dejó abierto por si alguien necesitaba dos
+segunditos más eh Y comparto la pantalla lo pueden confirmar que se ve la
+pantalla Sí sí se ve perfecto Gracias ahí puse esto para ver las reacciones
+también Bueno entonces me presento nuevamente Mi nombre es Federico cerquinha
+soy parte del equipo de de los posgrados de rsm del s22 sí junto con Ariel
+Pablo Celeste Cristian que está desde que estuvo también participando hoy y eh
+soy coordinadora académico de las carreras de los posgrados de Inteligencia
+artificial y justamente ahora vamos a comenzar con la charla sobre Inteligencia
+artificial aplicada al sector agropecuario bien Vamos a hacer una introducción
+sí sobre Qué es la Inteligencia artificial el objetivo de esta parte es que
+ustedes los participantes comprendan Qué es y que no es la Inteligencia
+artificial y que conozcan un poco los distintos tipos de Inteligencia
+artificial que hay sí veamos algunos nombres o términos que se utilizan mucho
+sí que a veces pueden llegar a confundir o generar algún tipo de digamos de
+desconcierto que es la Inteligencia artificial es como un término general que
+va a abarcar todo después tenemos el Machine learning o aprendizaje automático
+o aprendizaje de máquinas en algunos casos también sí que es un conjunto de en
+su conjunto de cuestiones de la Inteligencia artificial que está asociada al
+aprendizaje a partir de datos Sí eso es lo que más nos vamos a centrar hoy en
+toda la toda la charla Y luego como subconjuntos de Machine learning existen
+podríamos decir distintos algoritmos que son las redes neuronales artificiales
+y el aprendizaje profundo sí que no son más que redes neuronales artificiales
+también pero centrémonos en lo que es el Machine learning sí que es el
+justamente el aprendizaje sí o algoritmos que aprenden a a darnos respuestas o
+que nos arrojan un resultado Sí basándonos en en datos sí Fernando qué tal esto
+en base a datos numéricos o también puede ser mediante imágenes datos de manera
+general ahora vamos a ir a vamos a ir explicando más en detalle todas estas
+cuestiones sí bien bueno entonces el dato Sí continuamos bueno em para definir
+la Inteligencia artificial en realidad no es no es fácil definirla si hay
+varias maneras de hacerlo por ejemplo em las maneras en las que se definió a la
+inteligencia en sí de una máquina es eh mediante una prueba que propuso Alan
+turing por eso por allá por los años 50 que la idea era determinar si la
+máquina puede demostrar un comportamiento inteligente que no se pueda
+distinguir desde un humano sí Entonces para esto el test constaba del siguiente
+escenario Donde había un una persona sí que interactúa con otras contra otros
+docentes a y b Sí y la idea era que em la persona tenía que saber distinguir si
+alguno de esos otros docentes era un humano o una máquina Sí en el caso que no
+no nos podía distinguir si se decía que el sistema o esta Inteligencia
+artificial había pasado el test sí esto era una manera de definir lo que era la
+inteligencia sí básicamente en que otro ser humano no pueda distinguir si está
+hablando con una máquina o está hablando con un humano sí bien Eso está muy
+bien para que ellos para que esa época hoy en día se aplica mucho también en lo
+que tiene que ver con todo lo que es el procesamiento del lenguaje natural hay
+varias cuestiones relacionadas sí Pero quizás Esta no es la mejor manera de
+definir a la Inteligencia artificial para lo que sería nuestro los problemas
+que estamos planteando en este en este escenario porque a nosotros inclusive
+por ahí un sistema inteligente alguno que sepamos que nos pueda responder una
+pregunta mucho más rápido que un humano y con lo cual nos podríamos dar cuenta
+enseguida Si eso no es una máquina sin embargo Estamos buscando ese
+comportamiento Como por ejemplo eh en algún ejemplo que ya dimos sí En dónde se
+de repente hay una máquina agrícola que decidía en tiempo real y mientras iba
+avanzando Sí fumigaron una planta en función de capturas de de un video que se
+iba filmando en tiempo real Bueno eso es una una habilidad de alguna manera
+sobrehumana sí sin embargo es un comportamiento que estaríamos esperando de una
+de un de un sistema que utiliza Inteligencia artificial Entonces algo un
+poquito más más más más simple podría ser la Inteligencia artificial es si es
+la capacidad de una máquina para realizar tareas que normalmente requieren
+inteligencia humana Sí por ejemplo en este caso que mencionaba recién mediante
+el análisis de una foto de una imagen eh teníamos que definir si tenía que
+fumigar o o tirar un pesticida o alguna cuestión o alguna cuestión similar sí
+la máquina lo que va a hacer lo va a hacer inclusive mucho más rápido No acá no
+estamos tratando de decir que la máquina Piensa como un humano sino que estamos
+imitando comportamientos humanos Sí pero estamos diciendo que piense bueno
+algunos ejemplos bastante simples es no sé por ejemplo reconocer el tipo de
+plantaciones más imágenes satelitales como las que se pueden obtener a través
+de Google Maps sí eh pronosticar lluvias también es una una tarea que se puede
+resolver mediante Inteligencia artificial bueno Traducir idiomas está un poco
+alejado de lo que va la charla de hoy eh recomendar tratamientos para una
+planta enferma eso hoy en día existen aplicaciones en celulares que que por
+ejemplo hacen esa tarea sí son aplicaciones más bien hogareñas o por ejemplo
+estimar grado de maduración de alguna fruta esto se presentó por ejemplo en un
+trabajo final de de uno de los posgrados sí en donde la idea era mediante
+observación no intrusiva digamos sin tener que que intervenir a alguna a las
+frutas poder estimar el grado de maduración de la fruta que venía en sí bien la
+Inteligencia artificial en el ámbito de que la vamos a tratar hoy la vamos a
+utilizar para principalmente dos problemas eh que es son problemas de
+clasificación o problemas de estimación sí clasificar es justamente elegir eh
+Nada basándose en datos de entrada elegir una categoría para esos datos de
+entrada eh Por ejemplo podría ser lo que habíamos visto recién una fruta muy
+madura una fruta con la maduración justa o una fruta pasada serían tres
+categorías em y Bueno hay una estimación o regresión también llamada también
+con uno de los ejemplos que debemos hacer recién puede ser Eh cuántos minutos
+faltan para que empiece a llover para que haya una tormenta Cuál es el el la
+fecha eh estimar la fecha de de de de recolección óptima cosas por el estilo sí
+Entonces qué le vamos a querer clasificar o estimar algún valor bueno qué más
+tenemos de acuerdo a como a la función que cumple la Inteligencia artificial
+también vamos a hablar de análisis o de predicción de datos sí que esto es lo
+que estábamos hablando recién sí detección estimación en donde predecimos
+resultados Sí y después hay otra rama también ahora muy popular que es
+justamente la generación de datos donde se crea contenido nuevo textos imágenes
+audio videos bueno en esta presentación no nos vamos a centrar en eso sí porque
+eso sí bien hoy en día es muy popular y demás no es específicamente lo que
+necesitamos para resolver los problemas que eh digamos que estamos planteando
+está bien Bueno luego vamos a eh vamos a poder clasificar a a los algoritmos de
+Inteligencia artificial de acuerdo a cómo es que aprenden sí Ya estuvimos
+hablando algo de que em bueno los algoritmos le dan datos Sí para aprender todo
+lo que es aprendizaje máquina aprendizaje automático Machine learning que son
+sinónimos ehm necesitan datos Y estos datos pueden venir eh eh en varias
+maneras sí por ejemplo los que se llama el aprendizaje supervisado necesita
+datos que vengan etiquetados sí es decir me va a venir una imagen y voy a decir
+que es una pera y una otra imagen va a decir que es un durazno me va a decir me
+va a venir otra imagen y me va a decir que es una banana Sí entonces esos eh yo
+lo voy a poder luego definir sí eh cuando venga otra otra fruta decir si es una
+banana un durazno una manzana sí o si no es ninguna de las tres creo que habían
+puesto otras tres frutas pero creo que se entendió Sí en no supervisado Si
+queremos el mismo tipo de de analogía con las frutas por ejemplo eh tenemos es
+distinto si nos van a venir los datos Pero estos datos no van a estar
+categorizados no van a estar etiquetados Cómo se dice voy a tener una imagen sí
+hablo de imágenes nuevamente aclaro o a modo de ejemplo Sí pero esto aplica a
+otros tipos de de datos ahora podemos ver algunos ejemplos más Sí pero bueno en
+una en un no supervisado no me van a venir los datos categorizados Entonces en
+este tipo de es un problema que es que que se da bastante No Bueno pero esto no
+quiere decir que no podamos hacer nada Sí el mismo algoritmo puede aprender a
+diferenciar frutas porque vamos a poder saber sus características eh lo que no
+me va a poder decir es que disfruta es Sí pero sí me las va a poder agrupar Eh
+entonces eso es un problema también que se usa bastante o que que sirve
+bastante sí y en particular bueno es útil justamente cuando los datos no están
+eh están ordenados o no están etiquetados Sí porque el proceso de etiquetar los
+datos y adquirir datos nuevos o etiquetarlo todo eso es bastante costoso
+entonces a veces se utiliza este tipo de aprendizajes y el aprendizaje
+reforzado es otro tipo de entrenamiento en dónde em los datos se pueden se
+tiene acceso a un al entorno Sí y se puede interactuar de alguna manera con el
+entorno acá lo más lo más normal si se va el ejemplo más clásico es cuando
+aprendemos a jugar al tatetí al ajedrez o algo por el estilo sí en donde
+nosotros tenemos acceso al al tablero y y podemos interactuar interactuar es
+mover una ficha con una cruz o lo que sea y en base a nuestro a nuestra acción
+sí tenemos una recompensa la recompensa en el fondo es sí perdidos y gané sí
+podemos medirlo tan fácil como eso puede ser más complejo Que en el fondo
+podemos resumirlo de esa manera entonces lo que está sucediendo es que yo estoy
+generando en un aprendizaje reforzado mis propios datos de entrenamiento qué
+voy con esto tengo el tablero de tal manera mueve una pieza y obtengo una
+recompensa Sí esa recompensa sería es el equivalente a la etiqueta ganemos
+perdí sí Al haber hecho tal o cual cuestión entonces se van generando los datos
+de manera automáticamente Sí bueno este tipo este tipo de aprendizaje es un
+poco especial no está muy relacionado a lo que vamos a hacer en los problemas
+donde nosotros vamos a a lo largo de la clase no no no se va a poder aplicar el
+aprendizaje reforzado si tiene otras características justamente como como esto
+que acabamos de hablar hay un entorno o con el cual se interactúa y demás y no
+aplica sí Entonces ese lo vamos a descartar eh Y nos vamos a centrar en los
+otros dos eh e inclusive nos vamos a centrar la mayoría de los ejemplos lo
+vamos a los vamos a a marcar sobre lo que es aprendizaje supervisado Así que
+son los eh en general es es donde también esto se encuentran los problemas más
+interesantes sí aunque bueno sabemos que viene con la contra esto de que
+tenemos que tener los datos bien etiquetados bueno un poquito de historia sobre
+historia sobre la Inteligencia artificial y acá lo único que quiero marcar es
+son algunas cuestiones si no hace falta que veamos en detalle lo que dice pero
+sí que todo esto comenzó ya hace bastante bastante tiempo allá con los años 50
+justamente con los con el ejemplo que marcamos al principio de la clase y en
+dónde empezaron a ver avances en el en el en el área de Inteligencia artificial
+y de repente hubo toda una época Sí desde los años entre los 70 y los 90 que se
+le llama el invierno y la Inteligencia artificial durante todo ese tiempo no no
+se pudo no se avanzó nada o sea tratamos durante ese tiempo no se avanzó mucho
+y en realidad se avanzó en otras ramas relacionadas a lo que se llama la la
+lógica sí la Inteligencia artificial simbólica y algunos sistemas expertos en
+dónde se se imitaba el comportamiento humano pero se depen de de o plantear los
+digamos que haya un grupo de expertos que plantee las reglas con las cuales
+tenían que funcionar un sistema o una máquina y esa máquina podía más o menos
+eh digamos eh realizar tareas inteligentes Sí pero bueno ese ese justamente ese
+ese problema Te estaba que no estábamos aprendiendo los datos ahí justamente no
+estábamos hablando de aprendizaje de máquinas no estamos hablando de una
+Inteligencia artificial de otro estilo Sí entonces a partir de que bueno
+aparecen comunicaciones empiezan a aparecer más datos empiezan a mejorar las
+computadoras empiezan a aparecer algunos algoritmos nuevos relacionados a todo
+esto es que esto empieza a crecer Sí una vez que pasamos esa meseta o es
+invierno en la Inteligencia artificial es que realmente empieza a ver avances
+Sí y los avances se dieron bueno por varias cuestiones relacionadas
+principalmente a la Big Data sí que hay el avanza de las comunicaciones y la
+capacidad de almacenar datos y de transmitirlos y que las computadoras los
+podían procesar Bueno eso fue lo que realmente impulsó todo esto y y así y se y
+y empezó a tener un crecimiento exponencial sí eh Y bueno justamente en este
+último tiempo también se vio muy potenciado también en este último tiempo me
+refiero a cuando empiezan a aparecer las a las placas gráficas por un lado pero
+posterior a eso empezaron a aparecer lo que llegaron las placas de propósitos
+generales que no importa los detalles pero básicamente se dieron una serie de
+condiciones que empezaron a permitir que las máquinas podían explotar a fondos
+Sí todos los datos que estaban apareciendo y ahí es cuando aparece el auge de
+Machine learning bueno Y esto ya empieza con una crecimiento exponencial el que
+estamos viviendo hoy en día sí pasamos a la parte dos no sé qué es eso segundo
+toque sin querer el link Disculpen Bueno entonces otra cosa que me parece que
+iba muy importante mencionar en esta en esta clase es describir Cómo funciona
+un proyecto de Inteligencia artificial que para que podamos entender Si todos
+los pasos que hay que recorrer para partir desde un problema y hasta llegar a
+una solución que que esté funcionando no que es un poco lo que tienen que tener
+en cuenta a la hora de plantear una problemática que se quiere que quieran
+resolver mediante Inteligencia artificial Sí bueno lo primero por lo cual vamos
+a a partir estamos hablando Inteligencia artificial pero recordemos que la
+parte de Machine learning donde el principal foco son los datos Entonces lo
+primero que necesitamos son datos sí los datos es justamente la materia prima y
+el ente del del Machine learning sí son pueden ser fotos textos números audios
+videos Sí todo lo que vamos a utilizar para enseñarle a nuestra Inteligencia
+artificial Entonces el primer paso es la adquisición de estos datos es verdad
+que en algunos casos vamos a partir de datos que alguien más haya adquirido Sí
+y luego o trabajar con datos que estén públicos o algunos otros datos Y luego
+nosotros vamos a simplemente adquirir nuevos datos eh Pero bueno en el fondo
+Siempre vamos a necesitar datos Y si tenemos un problema nuevo Siempre vamos a
+tener datos nuevos Sí bueno Entonces tenemos varias fuentes sí pueden ser
+planillas formularios eh cualquier tipo de de registro de software de cualquier
+cosa sensores que fue lo que estuvieron viendo hoy en la mañana cualquier tipo
+de sensor está recolectando midiendo variables y y recolectando datos Sí
+también pueden ser redes sociales cualquier cuestión en internet está generando
+datos todo el tiempo bases de datos abierta que esto era un poco el ejemplo que
+estaba tratando de dar al principio eventualmente podemos utilizar datos de
+alguien más para hacer un entrenamiento y luego y luego perfeccionar nuestro
+algoritmo con datos propios por ejemplo o bueno lo que mencionaba antes
+cualquier cosa en internet que los datos se pueden utilizar se pueden obtener
+mediante la llamada y simplemente lo mencionas es una manera de obtener datos
+automáticamente de internet si no es que nosotros nos vamos a ir a buscar de
+audio eh Pero bueno hay muchas fuentes de datos muy diversas sí Y acá surge
+también Como hay muchos datos también y tipos de datos queremos hacer una
+diferencia entre lo que se llaman los datos estructurados y no estructurados
+básicamente los datos estructurados son aquellos que están en una tabla Sí con
+filas cada fila representa algo cada columna representa algo sí cómo puede ser
+un Excel una base de datos sql o cualquier otro tipo de base de datos que
+conozca y después tenemos los datos no estructurados que básicamente no siguen
+un formato fijo y acá entran las imágenes los videos los audios texto Bueno ese
+tipo de datos Sí donde no están estructurados no están en en una tabla sí eh Y
+por qué es importante marcar Esto sí porque los datos cuando están
+estructurados en general son mucho más fáciles de procesar porque tenemos bien
+Qué significa tiene un significado ese dato sí Y podemos tratarlos de una
+manera más simple a los no estructurados vamos a tener que hacer cosas más
+complejas sí En general todos los algoritmos de procesamiento de imágenes por
+ejemplo eh que es una técnica que es muy útil para para cuestiones del agro no
+son mucho más mucho más complejos sí que por ahí eh tratar de procesar algún
+dato de algunos registros sobre que vengan está un lado está bien en general la
+mayoría de los datos que vamos a encontrar y de los datos que van a provenir de
+digamos de los problemas más más interesantes son No estructurados sí pero que
+además debe estar de ser no estructurados van a estar desordenados van a estar
+desprolijos pueden estar incompletos pueden tener un montón de problemas más sí
+esto nos va a llevar entonces Ah bueno el siguiente punto y tenemos que hacer
+algo no porque Qué pasa si partimos de datos desordenados de datos que no están
+que no están bien formados y que nuestro set de datos para que vamos a utilizar
+para entrenarlo está bien armado en nuestro modelo nos va a aprender bien Sí
+entonces justamente ahí se conoce esto de Gary que quiere decir que si los
+datos no son buenos la salida de nuestro algoritmo tampoco va a ser bueno sí
+entonces un modelo puede aprender solamente las cosas que ve no de lo que no ve
+esto nos lleva Entonces al segundo punto que es muy importante también fíjense
+que estamos siempre centrados en los datos O al menos en estas etapas estamos
+centrados en los datos Y es que antes de entrenar Antes de antes de pasar al
+siguiente paso antes de hacer algo con nuestros datos hay que ordenarlos hay
+que dejarlos eh emprolijar los que no hay que hacer varias cuestiones entre las
+cosas que hay que hacer hay que limpiarlo sí básicamente si detectamos que hay
+datos que puedan ser errores que puedan ser no representativos que sean cosas
+que faltan sacarlos o reemplazarlos o hacer algo al respecto en el caso que
+mencionabas estamos en el aprendizaje supervisado también vamos a tener que
+etiquetarnos a estos datos sí indicar que justamente En qué categoría o o a qué
+categoría pertenece sí eso es para un problema de clasificación ya vamos a
+hacer eso bien y otra cosa que por ejemplo es importante es em es el balanceo
+de los datos si nosotros estamos en en un problema de clasificación y tenemos
+volvemos a las a las peras y las Manzanas Y tenemos eh No sé 10,000 imágenes de
+peras y 10 imágenes de manzanas ahí están muy desbalanceadas los los nuestros
+datos si tenemos mucha información de cómo son las peras y muy poca información
+de cómo son las Manzanas esto es un problema grande porque también nuestro
+algoritmo Sí después nosotros lo queremos utilizar para reconocer a estos dos
+tipos de de de de de de frutas eh va a haber una de la cual no va a conocer
+mucho Está bien entonces esto se llama el balanceo balancear los datos Sí hay
+bastante hay diferentes técnicas lo ideal es siempre es poder ir y recolectar
+más datos si no se puede hacer eso bueno se pueden aplicar otras técnicas que
+ya veremos pero no es lo ideal siempre la lo ideal es que podamos tener datos
+originales y lo más balanceados posibles sí nunca más de 10 a 1 en la relación
+entre las categorías Sí bueno entonces decíamos podemos tener datos incompletos
+podemos tener eh sesgos en los datos sí que que no sean justamente que no estén
+representando a todo nuestro problema eso es un poco cuando los datos son
+cerrados les balanceados Bueno te podemos tener problemas de otro tipo también
+con los datos que que sean sensibles con lo cual También tenemos que darle un
+tratamiento especial sensible es justamente que no que que hay información
+sensible dentro de esos datos Entonces no nos podemos exponer bueno y todo eso
+de alguna manera puede complicar nuestro proceso digamos de nuestro proyecto eh
+A veces directamente a esta cuestión de que como los datos son sensibles es muy
+difícil conseguirlos y que los compartan Entonces se tiene que trabajar con
+otros tipos de datos alternativos pueden tener formatos inconsistentes em no sé
+Un ejemplo muy claro es si alguien estaba llevando un registro de los alumnos
+de no sé de alumnos o participantes o algún tipo de penn de registros sobre
+animales sí y que de repente eh En un momento cambiaron algún algún sensor pero
+empezaron a tomar algún registro más o cambiaron la manera en la que no miden o
+cambiaron algún tipo de instrumento o algo y entonces los datos a partir de una
+fecha pueden cambiarse están ordenados de una manera distinta puede haber una
+columna más Sí una más información bueno todo eso hay que saber qué hacer no
+Porque no tampoco me sirve descartar todos los datos anteriores es usarlo pero
+bueno voy a tener datos dónde van a faltar una columna por ejemplo no muy bueno
+datos duplicados los datos duplicados a priori parecería que no son no es un
+gran problema si la si los datos están demasiado duplicados y se utilizan para
+entrenar es como que se le va a pensar que si Se entrena y hay un hay una un
+dato que se repite muchas veces o varios datos que se repiten muchas veces van
+a tener más importancia en nuestro algoritmo Sí porque van a van a hacerlo
+aprender más sobre ese tipo de datos Eh bueno eso es algo también que Sí bueno
+y los datos Como he mencionado y sin etiquetas bien bueno entonces volviendo a
+repetir esto sobre la importancia de los datos en muchos casos estas cuestiones
+de adquirir los datos y preparar nuestros Data set O Nuestro conjunto de datos
+para el entrenamiento puede llegar a ser la parte más importante de todo el
+proyecto Sí por eso es muy importante tener esto en cuenta a la hora de
+plantear una problemática una vez que tenemos nuestro conjunto de datos bien
+armado Y prolijo sí limpio y como nos gusta a nosotros Entonces recién podemos
+pasar a los a la siguiente etapa que es lo que es la del diseño de los
+algoritmos y los modelos Bueno es un modelo sobre esto vamos a ver un poco más
+adelante Sí pero un modelo es una representación matemática de la realidad que
+intenta aprender patrones está bien no es que piense demás sino que justamente
+nuestros modelos detectan patrones correlaciones sí o o o cuestiones que se van
+a que se van a ir repitiendo está bien bueno entonces cómo es que aprende sí un
+ejemplo sería que un niño cuando vas viendo ejemplos y después de de un rato
+empieza a generalizar por ejemplo no si le damos a un a un niño le damos una
+pelota de fútbol a patear después le vamos a dar otra pelota de fútbol a patear
+y después quizás le damos una pelota de básquet y la va a patear Bueno ahí
+después podemos discutir se generalizo bien un generalizo mal pateando la
+pelota de básquet pero en el fondo hay una pelota y sabe que la puede patear y
+le dieron la pelota nueva una que no había visto nunca sí se va a patear muchas
+veces con una de fútbol y luego De nada más que también la eso sería
+generalizar Qué quiere decir va repito de vuelta es que con cuestiones nuevas
+que no fueron vistas por nuestro modelo podemos entender de qué van sí podemos
+procesarlas de todas maneras Está bien bueno en este caso es esto mismo otro
+ejemplo sería si muestro los algoritmos lo nuestro de de reconocimiento de
+imágenes de muestras 1000 imágenes de frutas etiquetadas va a aprender los
+patrones que es rojo que es alargada que tiene tal textura que tiene una forma
+más redonda eh Y esas cuestiones y luego le vamos a mostrar una imagen nueva
+que nunca vio y va a poder indicar Si eso no es una fruta y qué fruta es Sí esa
+es nuevamente la parte de generalizar Bueno entonces Comencemos no hay una
+única Inteligencia artificial para esto hay muchísimos modelos y cada uno de
+estos modelos va a ser distinto va a tener características distintos va a ser
+mejor o peor para una tarea para la otra entonces justamente en la parte en
+esta etapa donde diseñamos los algoritmos o seleccionamos los modelos es
+importante digamos contemplar a contemplar nosotros o justamente seleccionar el
+modelo adecuado para nuestra tarea sí y luego va a venir el entrenamiento sí
+entrenamiento de inferencia dice pero bueno la diferencia es una luego cuando
+lo vamos a usar sí Bueno pero el entrenamiento es cuándo utilizamos nuestros
+datos todos los datos que adquirimos y que luego ordenamos y luego que
+seleccionamos el modelo los vamos a utilizar Sí para hacer que el modelo
+aprenda Sí esta parte es la parte eh que es computacionalmente muy costosa sí
+acá esto se fue Se vio bien apalancado blanqueado por la la existencia de
+computadora cada vez más poderosa de placas gráficas y estas cuestiones y y que
+fue justamente esto revolucionó el entrenamiento de los modelos esto quiere
+decir que podíamos hacer usar también modelos más complejos y con más
+parámetros y que pudieran aprender relaciones y patrones más complejos Sí
+justamente porque teníamos más capacidad para entrenarlos sí Durante este
+entrenamiento es que se bueno que se tarda mucho tiempo que se gasta mucha
+energía sí que es necesario eh Hardware muy costosos sí em no sé si escucharon
+allá por enero hubo una noticia de que en China habían revolucionado con una
+Inteligencia artificial nueva y que justamente lo más importante que fue que
+hizo caer las bolsas tenía que perdí envidia perdió como 15 puntos ese día eh
+estaba relacionado a que habían podido entrenar un modelo en este caso de
+desplazamiento del lenguaje natural que no es lo que nos interesa en esta clase
+pero lo pongo como ejemplo para este caso particular que habíamos logrado
+entrenar en un modelo que era más o menos igual de bueno que el del chat
+chiquitín el opening pero lo habían hecho con una fracción del costo sí estamos
+hablando que Bueno ahí había gastado alrededor de 500 millones y acá era 100
+veces menos el costo 5 millones había varias cuestiones de había otras
+cuestiones más para tener en cuenta respecto de esto pero a grandes rasgos Esa
+era la lo disruptivo digamos fíjense que estamos hablando de que gastaron
+solamente 5 millones de dólares al entrenar no y es frente a los 500 en un
+montón la diferencia Sí pero este proceso es muy muy costoso sí bien fue para
+el otro lado pero ahora Bueno luego tenemos la diferencia que que una vez que
+tenemos a nuestro modelo andando o entrenado Perdón es que eh vamos a utilizar
+lo que ya aprendió esto quiere decir que es cuando va a venir un nuevo dato
+nosotros vamos a poder utilizar a nuestro modelo para obtener una salida una
+salida como decíamos nos vamos a concentrar en problemas que sean de
+clasificaciones de regresión es decir vamos a poder eh clasificar a una imagen
+vamos a poder detectar una cara vamos a poder detectar una cara eso no hay
+problema de clasificación predecir el precio de una casa en base a su ubicación
+cantidad de cuartos eh estado eh y algunas cuestiones más podemos llegar a
+predecir el precio sí puedo generar texto general texto es nuevamente redes que
+no nos interesan por ahora pero bueno problemas de detección o eh o estimación
+Sí y durante la inferencia todo esto que hablábamos de Los costos y demás sí
+bien hay algunos modelos que son eh bastante pesados para correr las
+comparaciones en cantidad de cuentas que hay que hacer o energía que hay que
+gastar durante la inferencia Comparado contra el entrenamiento es despreciable
+digamos Sí entonces bien acá una cuestión más que está bueno que recuerden es
+que el proceso de entrenamiento es costoso y el proceso de inferencia una vez
+que ya se estrenó el modelo suele ser un poco más accesible bueno tiene
+analogía que no sé Pero la idea es que cuando entrenamos es como cuando estamos
+estudiando cuando estamos estudiando nosotros tenemos acceso o sea las
+respuestas o podemos verificar sobre estas respuestas están bien o justamente
+aprendemos vamos y vemos el texto que ya tienen las respuestas Y cuándo vamos a
+dar un examen solamente tenemos la pregunta y nosotros somos los que tenemos
+que ingerir la respuesta correcta Bueno entonces Acá hay una cuestión que
+también es importante pero que no vamos a hacer mucho foco tampoco en el curso
+que es que esto se va a encargar a alguien más pero eh tenemos que una vez que
+entrenamos a nuestro modelo Queremos saber si funciona Sí nosotros de alguna
+manera le dijimos que va a funcionar para nuestros datos de entrenamiento los
+que los datos de entrenamientos los vio el modelo ya vio esa foto y aprendió ya
+vio esa fila en esa tabla y ya aprendió ya eso Tal cual texto ya aprendió Sí
+pero cómo sabemos si funciona para eso hay que evaluarlo para poder evaluarlo
+tenemos que utilizar datos nuevos eh datos nuevos que nunca haya visto Y con
+esos datos nuevos es que realmente vale hacer la evaluación de nuestro modelo
+para saber si es bueno en la tarea que está haciendo si es bueno generalizando
+el problema Sí sí es bueno generalizando los datos con los que aprendió a datos
+nuevos está bien y para bueno para medir también que tan bueno es un modelo o
+no se utilizan algunas métricas distintas métricas Y estás métricas o estás por
+estos problemas la durante la evaluación em lo que estamos haciendo es inferir
+O sea que estamos haciendo inferencia pero estamos no solamente hacemos la
+inferencia sino que después evaluamos Esa diferencia es correcta sí y no
+inclusive si quieres después es posterior Porque todavía cuando estamos
+haciendo la evaluación del modelo vamos a utilizar datos etiquetados Porque
+para poder evaluar el modelo nos vamos a mirar la respuesta vamos a inferir la
+respuesta y la vamos a comparar con la respuesta correcta sí Y ahí vamos a ver
+si Cuántas veces estuvimos en lo correcto en un problema de clasificación o qué
+tan lejos de la del resultado correcto estuvimos en un problema de estimación
+Sí bueno Y para clasificación es el escenario es bastante complejo si hay
+varias métricas que se pueden utilizar para medir la Qué tan bueno es nuestro
+modelo sí las más conocidas son estas que están acá que son las que se llaman
+precisión recall y f1 score Sí en la precisión es ehm bueno justamente eso qué
+tanta Qué porcentaje de meses dije la respuesta correcta el récord es de las de
+las cosas que me importan ahora vamos a ver un ejemplo que sería algo que no
+importa cuántas veces lo lo dije bien Sí y el f1 score es una especie de
+balance entre ambos Sí y después hay unas curvas roc Bueno hay montones de
+cosas acá para para hablar el escenario es bastante complejo ahora vamos a ver
+una cuestión eh Ya te dejo pero sí pero Uy por ejemplo no hablando de la
+precisión y del récord por qué puede ser importante de usar métricas distintas
+es que por ejemplo en sí estoy clasificando eh frutas Me parece que está bien
+eh usar la precisión a ver qué tanto que también clasificó sí puse la fruta en
+el cajón pero imagínense si hay una enfermedad que está en un diagnóstico sí
+estamos haciendo un diagnóstico y tengo que clasificar a mi paciente que está
+enfermo o que no está enfermo es muy grave eh decir que no está enfermo cuando
+realmente no estaba porque ese paciente puede abandonar el el tratamiento sí o
+o abandonar el tratamiento o nunca empezarlo sí Entonces ahí es muy importante
+el caso detectar bien el caso de la enfermedad detectarlo con con bastante
+precisión el caso de cuando está enfermo sí no está enfermo y después le
+dijimos que sí es bastante menos grave quizás se puede pegar un buen susto pero
+desde el punto de vista de la salud de esa persona Va a continuar va a hacer
+otro estudio otro tipo de estudios va a repetir el mismo y en algún momento se
+va a dar cuenta de que no sí mientras que al revés es no no Quizás eso no
+sucede Y entonces ese es creo que es un ejemplo muy claro de Por qué a veces
+hay casos o categorías que le interesa me interesan más Eh no tener falsos
+negativos sí como ahí entra este concepto de falso positivo falso negativo que
+no sé si están familiarizados Sí entonces la métrica está depende del contexto
+y digo una cosita más y ya te dejo hablar creo que era Pedro sí que es esto que
+está acá sí esto es no no hace falta esto simplemente es una imagen para que
+vean que hay muchísimas métricas que se pueden utilizar esta imagen está tomada
+en Wikipedia estaba la la cita ahí en algún lado pero hay muchas maneras de
+medir el rendimiento de mi de mi modelo Sí y bueno cada uno depende del
+contexto del problema Sí sí Pedro Sí qué tal Federico Gracias por la
+presentación y yo me pongo a pensar eh si estamos midiendo frutas o haciendo
+identificación de marea por semilla que claramente un sí o no está
+perfectamente definido la cosa como ingeniero agrónomo ingeniero al fin me
+queda claro No ahora cuando entramos a pensar en cuestiones más económicas eh o
+a un texto si querés que es más ambiguo en la definición del correcto no
+correcto sino que pasa por la aceptación y hacerme un texto explicándome no sé
+la belleza de una mañana no y me escribe y después solo yo lo voy a ajustar o
+en el caso de una empresa agropecuaria que es una de las ideas que tengo eh
+Cómo equilibrar un presupuesto financiero no más allá de que si es una empresa
+forestal una Ganadera o un tambo tienen distintos niveles de perfiles de
+ingresos también hay una preferencia de que algunos agricultores quedan por dar
+un ejemplo irse de vacaciones en verano y otros querrán irse en invierno
+entonces también en algún momento habrá que calibrar esas preferencias que son
+más subjetivas con calidad por por evaluar o para que termine produciendo una
+inferencia acorde a las expectativas de quién le pregunta Quién te entiende muy
+bien el cuestionamiento está muy muy bien la pregunta voy a hacer una pequeña
+aclaración con lo del texto tratemos de no centrarnos cuando tratemos de pensar
+en ejemplos no eh los que son estos de procesamiento del lenguaje natural y
+chat City eh Siempre vamos a encontrar cosas raras inclusive no cabe ni
+siquiera entre los entrenamientos el entrenamiento que se utiliza para esos
+para esos sistemas de Inteligencia artificial se llama autos supervisados o sea
+ni siquiera de los que estamos hablando acá mmm digo como ejercicio más que
+nada para ustedes porque ahí van a encontrar cosas que no van a se van a
+adaptar bien a todo lo que estamos viendo acá entonces traten de pensar otros
+ejemplos con eso igual la pregunta de Pedro está muy muy bien sí y que tiene
+que ver con Qué es lo mejor no O sea este este objetivo más adelante vamos a
+ver no que cuando uno cuando vamos a decir que estamos entrenando un modelo lo
+que vamos a estar haciendo es optimizando una una función utilizar unas
+funciones a encontrar un mínimo máximo encontrarlos parámetros que mejor se
+ajustan hay varias maneras de ver No sí pero bueno hay una hay una siempre hay
+una función como de de costos asociada Sí y justamente esta función de costo es
+la que nos va a decir qué tan costoso es o no un error en la salida Bueno
+entonces en el ejemplo que ponías sobre cuestiones que ya se pueden ser
+personales o demás em Bueno hay varias maneras de enfocarlo no una la la lo más
+fácil digamos para responder esa pregunta es a la hora de hacerla de de de de
+de de de entrenar el algoritmo y de y de Cómo se dice me entren algoritmo solo
+para aprender en la función de costo la función que venía de qué tan qué tan
+costoso es eh tener un error incorporar estas cuestiones sí Esto es lo más
+fácil Entonces si uno puede incorporar en esa en esa función de costo todas
+estas cuestiones que a uno le interesan ponderarlas por ejemplo porque sea él
+Bueno voy a ganar 10 pero tengo libre enero o yo no tengo libre enero Bueno
+cuánto vale tener libre enero no hay que hay esa función de costo ya es muy
+personal y no hay una una única respuesta para eso Entonces Bueno se puede uno
+podría tranquilamente incorporar o tratar de medir cuánto vale tener vacaciones
+en enero e incorporarla otra cuestión que se llama es como una optimización
+como un multijugador en donde la Pero esto las capas complejos eh se deja
+abierto el problema y te dice justamente lo óptimo teniendo vacaciones entre el
+lunes y el 5 son a las 10 y si en 5 en 10 a las 11 y en el 5 entre el 10 y el
+15 ganamos 20 y así entonces hay varias salidas O sea no hay una sola función
+de costo hay dos Sí una que tiene que ver con los días que tiene vacaciones por
+decirlo de alguna manera y otra que tiene que ver con él con la ganancia que
+vos vas a tener bueno Esto es una se llama una optimización multiobjetivo pero
+es un tema bastante más complejo sin embargo lo que está bueno de esto es que
+que que que que me parece que está bien que entiendan que pueden pasar que hay
+cosas que no son objetivas que no están definidas por una fórmula matemática
+cómo puede ser estás métricas que estamos viendo acá o inclusive las que vamos
+a ver en la próxima diapositiva que todavía mucho más más mejor el ejemplo y
+una cosa que son sugeridas a ver traigo colación algo que quizás iba a decir
+más adelante pero que está muy de acuerdo con esto es que cuando se hizo el
+cuando se estaban desarrollando los algoritmos de de hadas que es bueno para
+los algoritmos de de que de los autos que se manejan automáticamente había
+Cuando se ponía en riesgo la vida de una persona de un animal eh daños
+económicos justamente ahí no había no había una sola de de medir Cuál era la
+mejor decisión que tenía que tomar el auto no Cuál era el costo asociado a tal
+O cuál cosa entonces una de las cosas que se hizo igual creo que no triunfó
+mucho es era o sea hacían encuestas no y no sé si alguno estuvo se cruzó con
+alguna de esas en donde le aparecían un dibujito de no sé una persona eh de dos
+niños cruzando la calle y por el otro lado dos ancianos y uno tenía que elegir
+cuál era la mejor opción que caminó tomar si no podía frenar o sea era un poco
+una locura también pensarlo Entonces es una pregunta abierta esa todavía Sí hay
+respuestas desde este punto de vista de las de optimización de objetiva después
+uno puede tomar una decisión ya personal pero bueno es otro de los problemas
+más que hay que saber que existen sí espero haber respondido la pregunta Pedro
+Sí sí Perfecto muchísimas gracias Federico buenísimo De nada bueno a las
+métricas que veíamos recién tenían que ver con la precisión que teníamos para
+detectar falsos positivos de con la precisión que teníamos a la hora de
+clasificar eh clasificar nuestras entradas Sí en distintas categorías y bueno
+lo que Estuvimos viendo recién y a la hora de hablar de de procesos de de
+estimación sí acá siempre va a haber un error esto también es Ah está bueno
+también siempre tenerlo en cuenta no la Inteligencia artificial siempre va a
+tener un error siempre sí es muy bueno para detectar un patrones ocultos y un
+montón de cosas que están en los gatos que nosotros no vamos a ver pero si
+nosotros queremos calcular no sé trata de usar chiquitín para calcular el una
+alguna cuestión matemática que tenemos probablemente en algún decimal o algo
+les voy a pistear Sí o sea tienen errores todo el tiempo sí Y es mucho mejor sí
+conocemos la la cuenta que queremos hacer o sea una calculadora sí usar alguna
+herramienta que sea mejor Entonces no todo tampoco lo vamos a resolver con
+Inteligencia artificial en algunos casos no vale la pena en algunos casos está
+mal no es que no vale la pena sino que también está mal eh porque van a vamos a
+introducir errores sí eh Bueno pero en la hora de eh dónde estás hablando de
+esto no siempre estamos hablando medir nuestros errores y cuando estamos
+hablando de problemas de regresión las métricas que se utilizan son el error
+cuadrático medio el error absoluto medio y el y el r cuadrado Sí el error
+cuadrático medio Son creo que varios de Ustedes deben estar más o menos
+familiarizados Sí pero qué tanto se se se elevan al cuadrado y los errores
+respecto de mi estimación con respecto a los al valor del dato que que
+realmente tenía o el valor de la salida que realmente tenía que darme Sí y al
+estar elevado al cuadrado vamos a ver que es muy bueno para eh Es malo Perdón
+es bueno para algunas cuestiones pero es malo por ejemplo si hay datos que
+están con mucho error eh que se llama outlier así que no pertenecen y que si
+hay un solo dato que está muy mal está rama a cualquier cosa hay otra que se
+llama soluto medio que como no está elevado al cuadrado va a ser mejor para
+trabajar con estos outliers más adelante veremos algo al respecto Sí y este que
+está acá en general esto se utilizan así como como éstas a la hora de hacerla a
+los dos primeros se utilizan en la hora de hacer la el aprendizaje y una vez
+que nuestro modelo aprendió hay otra métrica que se usa para evaluar lo que es
+ésta y lo que se llama la bondad del ajuste a los del modelo a los datos que
+veo Sí eso es básicamente que también este modelo representa los datos que le
+estoy eh con lo que con los que lo estoy evaluando Sí nada simplemente tengan
+en cuenta que hay varias cuestiones que es una cuestión bastante compleja
+elegir las métricas Sí y evaluar de manera eficiente si el modelo está el que
+elegimos está bien o no sí bien una vez que pasamos la evaluación nuestro
+modelo cumple con lo que esperamos pasamos a la etapa del despliegue
+despliegues ponerlo en producción sí poner a la Inteligencia artificial en el
+mundo real sí puede ser en una aplicación en un sitio web en la nube en un
+robot en un sistema embebido donde sea pero la idea es que hay que ponerla a
+funcionar cuando la ponemos a funcionar salimos de esta de este laboratorio si
+entramos a un mundo real y en ese mundo real aparece con ese problema en ese
+escenario real aparecen otras problemas que hay que tener en cuenta que es que
+cuando estábamos en el laboratorio estábamos haciendo pruebas con pocos datos
+quizás si viene evaluando cada uno algo cómo funcionaba Al momento de ponerlo a
+funcionar capaz que queremos ver nos va a interesar mucho el rendimiento el
+rendimiento es que hay tanta cantidad de datos puede precisar por segundo el
+retardo está asociado también a desde que entró la imagen hasta que me dijo si
+hay que fumigar o no pongo ese ejemplo porque es bastante representativo cuánto
+tiempo pasó Sí sí pasa un milisegundo el algoritmo me sirve si pasan 10 minutos
+el algoritmo no me sirve porque ya no estoy más en la zona para saber si tenía
+que fumigar o no y bueno y el rendimiento a diferencia del retardo es que no
+importa si tarda 10 minutos a mí me importa que si yo sí le mandó 10 imágenes
+por segundo eh que me las puede procesar igual sí que no se va a trabar los
+resultados los voy a tener 10 minutos más tarde pero los voy a tener todos y
+bien sí Ese es el rendimiento la escalabilidad es si es alguna aplicación que
+te creo o algún sistema que esté compartido en la nube o algo así que antes
+consultado qué tantas inferencias pueda realizar por segundo de qué tantos
+usuarios al mismo tiempo el mantenimiento bueno que siga funcionando sí eh
+mantenimiento es exactamente lo mismo con cualquier tipo de sistema y Enrique
+de datos habla de sí a lo largo del tiempo me me me problema cambia por ejemplo
+si es un sistema de Inteligencia artificial que se usa para hacer el pronóstico
+Eh sí del clima y yo lo diseñé hace 10 años capaz que con el cambio climático
+eso ya deja Ya deja de de de de de de funcionar bien Sí bueno puse ese ejemplo
+sería el cambio climático Pero así como ese hay otros que son más dinámicos que
+no hace falta que en vez de esperar 10 años para que dejen de para que empiecen
+a hacer obsoletos sí Entonces con ese tipo de sistemas lo que pasa es que hay
+que estar constantemente reentrenamiento Sí pero sin sacarlo de producción
+entonces esa es otra otra dificultad más que se puede encontrar Sí bueno Y esto
+es justamente lo que decía porque a veces hay algunos modelos que hay que
+reentrenar los periódicamente porque los datos van cambiando bueno acá hay una
+especie de resumen de todo lo que vimos recién sí volvemos a repetir adquirimos
+los datos y medimos hagamos fotos lo que se haga falta lo pensamos con algún
+dispositivo iot de un sistema expedido luego los preparamos esto quiere decir
+los dejamos listos ordenados formato que necesito para poder hacer el
+entrenamiento igual antes de hacer el entrenamiento hay que evaluar Qué modelo
+qué algoritmo vamos a usar con esos datos Sí luego entrenamos Luego evaluamos
+si cuando evaluamos tenemos un problema quizás tenemos que volver a seleccionar
+el modelo para seleccionar otro modelo a veces puede ser un modelo que
+necesitemos un modelo más complejo o ese es un modelo más simple Por qué
+podríamos necesitar un modelo más simple lo vamos a ver mejor después con un
+modelo más simple a veces eh responde mejor por ejemplo cuando tengo pocos
+datos Quizás sí o a veces es un modelo más simple generaliza mejor que uno más
+complejo Ya lo vamos a ver eh Y bueno entonces entramos en un Loop donde
+seleccionamos el modelo entrenamos evaluamos si no funciona volvemos a
+seleccionar otro modelo volvemos a entrenar volvemos a evaluar si no funciona
+así hasta que en algún momento decimos bueno por acá no es quizás necesitamos
+más datos Entonces tenemos que ir y adquirir más datos Sí y Volver a empezar
+todo el proceso de nuevo Y entonces por eso está la otra flecha por arriba
+bueno Y finalmente una vez que pasamos la evaluación es lo de esto último que
+hablamos que es que llegamos al despliegue sí la puesta en producción de
+nuestro algoritmo Bueno entonces qué nos tenemos que llevar en claro en claro
+de acá es que un proyecto de Inteligencia artificial no es solamente la parte
+de usar crear un modelo ya muchísima parte del trabajo está en en la parte de
+los datos sí no recordemos que esto es machine learning los datos son la
+materia prima dijimos los datos es la parte importante sí los datos es Dónde
+está la información que se utilizan para aprender entonces hay mucho trabajo en
+esto de los datos tanto en la adquisición como en la preparación sí la parte
+del despliegue de Inteligencia artificial Bueno también es un problema que no
+hay que minimizar que a la hora de poner una producción podemos tener un
+algoritmo que funciona muy bien pero ahí No termina nuestro problema Sí después
+de eso hay que ponerlo en producción y que estén dando que se que se pueda
+exceder como uno quiere y así bien bueno Esto nos lleva sí am a lo siguiente
+que es vamos a mostrar algunos ejemplos de aplicaciones reales de la
+Inteligencia artificial con cada uno de los tipos de inteligencia que tiene un
+poco de las que Estuvimos viendo Sí entonces La idea es que veamos algunos
+ejemplos de Para qué se usan hoy en día em sí que esto lo pueden extrapolar por
+el sector agropecuario a la hora de de proponer problemáticas Sí entonces de
+acuerdo vamos a clasificar los desbordes de la industria y salud podemos se
+utiliza muchísimo lo que es diagnostico particularmente el diagnósticos por
+imágenes Sí cómo puedes hablar dice de radiografías o para la detección
+temprana de enfermedades o asistencia virtual sí a veces eh No estamos diciendo
+en este caso que va a reemplazar al médico pero sí que es capaz de proponer una
+serie de diagnósticos probables de una manera muy eficiente para luego pasar
+por el por el ojo de un experto humano es muy muy útil sí Inclusive hace poco
+también salió hace poco no Ya el año pasado salió ahí unos estudios una una se
+diseña una máquina que hace un diagnóstico no intrusivo es decir simplemente
+saca fotos de diferentes bandas espectrales del del cuerpo humano entre 160
+grados y a través de eso se detectan una cantidad de de manera temprana
+montones y montones de de de riesgo de enfermedades a futuro Cuál es la primera
+máquina y durante el primer la primera semana que también estaba funcionando ya
+tenían más de un año de espera de gente que estaba bueno reservando para para
+hacerse los estudios o sea es algo que funciona muy bien Yo estoy en finanzas
+funciona mucho para lo que es la detección de fraudes Sí el score en crediticio
+también se usa mucho para traer algorítmico también eh Sí y bueno atención
+automatizada eso no sí sí creo que hoy en día se utilizan en todo tipo de de
+atención automatizada Sí en ese caso eh Bueno sí estamos hablando de Estos
+tipos de modelos de lenguaje que igual no son lo que nosotros ya estamos
+entrando en retail en ventas si se hacen recomendaciones personalizadas sí esto
+yo también sabemos Eh en recomendación en como las eh cualquier lugar que
+estemos una red social páginas web o demás nos hacen publicidades especialmente
+dedicadas que son justamente están recomendadas de una manera para nosotros
+Porque serían cosas en teoría que nos deberían interesar Bueno también se hace
+para para predicción de demanda gestión de inventarios para lo que es logística
+se utiliza mucho para la manufactura sí mantenimiento control de calidad eh
+También es es muy importante es muy útil en la educación eh También Sí para las
+distintas plataformas para la evaluaciones automatizadas asistentes virtuales
+en este caso estamos viendo todas las oportunidades Sí pero también existen
+desafíos en cada una de todas estas áreas no eh Bueno agricultura eh algoritmos
+de visión son muy útiles para el monitoreo de cultivo predicciones del clima y
+rendimiento esto sino con con con datos con series de datos de tiempo serie de
+datos temporales Mediante los cuales se aprenden podemos aprender patrones y
+mejorar el pronóstico sí eh el pronóstico tratar de establecer la fecha óptima
+de maduración y cuestiones parecidas a mí para detección de plagas para los
+robots agrícolas y drones eh drones que se manejan solos y análisis del suelo
+Sí bueno caso de uso de una aplicación práctica bueno los sistemas de
+recomendación que decían ya sea en Netflix o publicidades de alguna manera
+están prediciendo lo que a una persona le puede interesar o no eh en Misión por
+computadora tenemos detección de enfermedades en cultivos clasificación de
+frutas granos semillas sí eh control de calidad de los productos Sí y lo que
+esas imágenes imágenes satelitales también ya vimos que hay varios de las
+personas que expusieron utilizaron visión por computadora para extraer
+información sí de estas imágenes luego tenemos la parte del procesamiento del
+lenguaje natural insisto no es lo que más nos interesa en esta en esta clase
+Pero podemos utilizar el procesamiento del lenguaje natural en este caso nos
+centramos en el procesamiento del lenguaje y no en la generación del lenguaje
+sí que podemos hacer si nos llega un texto una llamada un audio sí sobre alguna
+conversación podemos evaluar Cómo fue el sentimiento Sí sí por ejemplo hay una
+llamada a la atención al cliente Queremos saber si el cliente se fue contento o
+no si tenía una queja o no eh puedo solucionar su problema no también se puede
+utilizar para clasificar los textos sí documentos pueden clasificar por esto
+mismo se paraba la parte que estábamos haciendo en el punto anterior
+procesamiento del lenguaje porque no estábamos generando no la idea generativa
+es otro mundo también Sí justamente acá las mencionamos vuelvo a repetir que no
+es lo que más te interesa para esta presentación Pero bueno ya esto ya lo
+conocemos podemos generar texto imágenes podemos generar códigos reportes
+automáticos eh No sé resúmenes técnicos cualquier eh Cómo se dice Bueno cómo
+sería como el manual del producto que uno está que uno está vendiendo me
+refiero el agro Pero bueno no me sale la palabra que estoy buscando Bueno
+podemos utilizarlo para predecir fácilmente como Perdón mal de uso ti no me
+refiero a cuando uno vende un producto lo lo lo envía con una ficha técnica de
+alguna manera sí Bueno no importa pero creo que se entiende la idea sí eh Bueno
+se puede utilizar para predecir las ventas precios la demanda fechas de cosecha
+modelos de clima sí humedad de plagas detecciones de de enfermedades o
+detección temprana de riesgos de enfermedades Sí también como ya vimos que que
+se utilizaba en una de las empresas que que mencionaba que podía predecir de
+manera temprana posibles riesgos de enfermedades Sí justamente en una de las
+preguntas teníamos dando vueltas y en el agro Bueno si bien Igual Todo lo que
+estuvimos mencionando algunas están Mmm sí eh podemos monitorear de manera
+inteligente los cultivos de detectar estrés hídrico monitoreo de enfermedades
+también cálculo del rendimiento Sí en lo que es la maquinaria tenemos tractores
+autónomos pulverizadoras con ajuste automático también mencionamos algo robots
+o algo fechas mantenimiento predictivo sí esto también es bastante útil a la
+hora de cuando tenemos alguna maquinaria podemos saber si tenemos que hacer
+algún tipo de mantenimiento antes de que empiece a fallar para evitar sí
+pérdida de dinero y por por la que la máquina esté parada o pérdida del del de
+la producción en predicción de los rendimientos y justamente prediciendo el
+clima el suelo y cómo va a ir las el el clima justamente podemos ver cómo cómo
+va a rendir o no tal lo cual plantación también estuvimos hablando se presentan
+algunos trabajos más soluciones que hablan de sensores para el comportamiento
+de los animales los animales se puede predecir en la fecha de celo enfermedades
+sí o lo que estuvimos hablando más temprano Está bien iot es un justamente con
+Inteligencia artificial es como que la complementa en este caso porque insisto
+el centro de todo esto son los datos y la parte de iot es justamente la que
+está encargada de recopilar los y transmitirlos de manera eficiente esto sobre
+todo cuando está en producción Bueno un poco lo mismo que estuvimos hablando
+podemos predecir sobre el clima Sí también alguien ya hablamos de de que
+podemos sugerir eh en función del cambio climático Cuál es la mejor fruta de de
+cosas que son a largo plazo y así todos podemos tratar de estimar Cuál va a ser
+la mejor semilla para para cultivar Sí para sembrar em y bueno en cuestiones
+comerciales también Algún que otro ejemplo dimos sí segmentación de productos
+oportunidades de Mercado o reportes automáticos sí sobre los productos bien
+entonces en esta parte de nuestro trabajo del de la presentación lo que
+queríamos ver lo que queríamos dejar en claro es que sí que la Inteligencia
+artificial ya está entre nosotros ya se usa ya tiene muchos casos de éxito sí
+incluyendo el agro el objetivo no es reemplazar el Humano sí Sino potenciar sus
+capacidades hay que adaptarse para eso claramente y justamente a la hora de ver
+las oportunidades y ver de los los lugares donde vale la pena optimizarla Sí es
+algo de lo cual podemos tener datos y por lo cual tenemos podemos pensar si
+podemos tenemos que ponernos creativos sobre estas cuestiones y ahí vamos a
+encontrar que van a empezar a aparecer montones y montones de de de buenas
+problemáticas que se pueden solucionar con inteligencia con el uso de
+Inteligencia artificial Sí bueno en una cuestiones respecto de los desafíos
+éticos técnicos y sociales bueno la la Inteligencia artificial no es perfecta
+no es neutra sí puede tener vamos a ver algunos problemas bastante serios eh el
+Humano tiene que estar interviniendo en todo tipo en todas las etapas sí sobre
+todo para para corregir estos errores que van a que van sí Y también está
+Inteligencia artificial está impactando en la sociedad en los ambientes de la
+economía Sí entonces hay que justamente considerarla como tal Sí con la
+importancia que tiene sesgos el sesgo en la bueno el consejo es algo que se va
+se utiliza de varias maneras pero en particular cuando hablamos de una
+Inteligencia artificial nuevo modelo sino la Inteligencia artificial sesgada es
+que los modelos aprenden de los datos Y si los datos están cerrados los modelos
+También acá hablé un poquito ya sobre este ejemplo de de de de de cuando hay
+una Inteligencia artificial o los datos estaban recolectando mediante encuestas
+sobre si un auto tenía que tomar tal O cuál camino sí eh Bueno dependiendo de
+las personas que hayan respondido ese cuestionario pueden se pueden pueden
+obtener datos dejados Sí por ejemplo hablábamos en algún momento de datos
+desbalanceados en alguna industria o sea en algún lugar hay registros solamente
+de de datos que son solo de hombres esos datos no son representativos digamos
+de de toda la de toda la sociedad que también muchas veces se han detectado a a
+a a a a Inteligencia artificial sobre todo en estas estoy hablando de de
+inteligencias artificiales que que generan texto y que respondan que a nuestras
+consultas que se detectó que puede llegar a ser racista sí o que nada que que
+puede diferenciar según la la clase social eh Por ejemplo en esto que se
+utilizaban para hacer scoring en los bancos Sí ahí se han detectado muchos
+problemas de ese tipo eso es cuando estamos entonces hablando del sesgo en los
+datos Sí sí el sesgo están los datos el modelo es bueno no importa la el
+sistema como tal ver de una manera sesgada porque fue entrenado con datos que
+estaban cerrados sí eh el sesgo algorítmico es cuando el algoritmo mismo genera
+un sesgo Sí Por más que los datos estén bien el algoritmo puedes poner un error
+de diseño em genera respuestas sesgadas Sí bueno esa es una interpretación es
+otro Sí hay Incluso hoy en día existen eh luego de de entrenar a una un
+algoritmo de Inteligencia artificial hoy en día también se atraviesa por una
+etapa de donde se la se adapta sus respuestas estamos hablando en este caso más
+que nada de estos y energías negativas Pero bueno hay que pasar una una etapa
+donde interviene el humano y que tiene que hacer una evaluación y adaptar las
+respuestas a lo que realmente Busca una compañía No si estamos una compañía que
+seria es un chatbot no puede estar dando respuestas coloquiales sí debe ser la
+respuesta formales por ejemplo no entonces hay un montón de cuestiones ahí
+dando vueltas también entonces hay personas que se dedican específicamente a
+eso sí una vez que el gobierno está entrenado funciona y todo todavía hay otro
+proceso más a veces que hay que atravesar Bueno decíamos entonces algunos
+ejemplos más de esto es que cuando recomiendan reconocimiento facial se ha
+detectado que puede incurrir en mayores errores eh según la raza estos modelos
+de crédito que discriminan según el grupo social bien entonces son cuestiones
+que hay que tener que tratar con cuidado estás cuestiones quizás son un poco
+más fuertes para este tipo de ejemplos pero también pueden aparecer en en los
+ejemplos y así está más relacionados Sí pero entonces otra cuestión que es
+importante es lo que se llama la espiritualidad la aplicabilidad en la
+Inteligencia artificial eh desaparece un poco sí a qué me refiero con esto
+cuando hablaba cuando antes teníamos modelos más simples menos complejos sí
+eran más fácil de explicar por qué una Inteligencia artificial Nos daba tal O
+cuál resultado o un sistema Nos daba tal o cual resultado ahora estos modelos a
+medida que son más complejos son capaces de reconocer muchísimos más patrones
+cosas ocultas en los datos hay montones de de características que pueden
+extraer pero no no saben decir que están Qué características trae el extrayendo
+y a cuál característica le están dando más importancia para tomar una decisión
+Sí entonces la Inteligencia artificial falla mucho en explicarnos estas
+cuestiones sí funciona muy bien pero funcionan como una caja negra si no lo
+saben decir porque se tomó tal O cuál decisión si bien después resultó ser la
+mejor decisión no lo saben decir porque sí Entonces esto por ejemplo es muy Eh
+puede llegar a ser bueno Esto es lo que acaba de decir no que es difícil de
+justificar porque se toma una decisión sí Y por qué es que esto importa muchas
+veces en algunos casos en cuestiones de salud o sea hay vida en riesgo eh salud
+humana hay cuestiones de Justicia eh cuestiones de finanzas no hace falta con
+que funcione que no pero yo ya te demostré que este modelo funcionó 90 veces a
+mí si no me justificas de alguna manera que esto va a dar de tal O cuál manera
+o no me justificas porque estoy tomando esa decisión no se puede si no no sirve
+Sí entonces también es una una Li Eh Esto también mencionamos un poco no que
+los datos a veces para para entrenar a nuestro modelo y para que funcione muy
+bien que tenemos que utilizar datos Y a veces los tenemos pero no los podemos
+utilizar para el entrenamiento no porque es la los datos son sensibles y
+entonces no nos podemos arriesgar a que se filtren o alguna cuestión de ese
+estilo a veces simplemente porque el dato es sensible en sí a veces es porque
+es una cuestión de un compromiso de no divulgación de los datos ehm bueno Como
+sucede hoy en día saben que posiblemente todas las redes sociales y todas las
+grandes empresas tecnológicas del mundo utilizan nuestros datos para
+entrenarlos y hubo una hubo bastante controversia en relación a eso primero es
+porque los usaban sin sin analizarlos o sea quizás en algún momento llegó un se
+actualizaron las condiciones de uso de nuestra plataforma y todos dijimos que
+sí la dirección email y en ese en ese mail decía que iban a utilizar nuestros
+datos para tener alguna Inteligencia artificial después hay otra cuestión que
+tiene que ver con el copyright por ejemplo muchas imágenes o texto sí
+entrenamos a nuestro texto con con libros y demás y después le hacemos una
+pregunta y ese texto que nos arroja lo utilizamos para escribir otro libro eh
+Alguien podría decir que ese de alguna manera esa información salió sí de algún
+otro libro no no hay en un ser humano ahí que me dio una idea nueva Bueno
+entonces eso en algún momento también fue medio controversial hoy en día ya no
+no sucede mucho no hay no hay mucho más exclusivo al respecto bueno filtración
+de información esto ya lo hablamos eh También hay una cuestión que se puede
+utilizar para la vigilancia o el uso sin nuestro consentimiento son otros tipos
+de riesgos para el ser humano Eh bueno Esto es lo de entrenamiento contexto
+imágenes y vos sin permiso también anda dando vueltas a eso de que te llaman y
+te copian la voz cosas como por ese lado bueno entonces La idea es que es
+importante no en este tipo de cuestiones que haya que que que regular un poco
+la Inteligencia artificial desde este punto de vista y para que para regular la
+es importante que que todos los actores participen tanto en la industria la
+sociedad así el estado y todos en en Pos de de que la Inteligencia artificial
+sea utilizada con con buenas intenciones bien bueno otra cuestión que está
+relacionada a la sustentabilidad de consumo energético como decíamos todo el
+entrenamiento y el uso el entrenamiento es muy muy caro Sí ya lo habíamos dicho
+el uso es muchísimo más barato pero si un modelo lo entrenamos una vez y lo
+usamos un millón de veces quizás puede también empezar a compararse Sí entonces
+Bueno ya sabemos que muchos de los centros de cómputo que utilizan que se
+utilizan para hacer eh Inteligencia artificial tanto entrenamiento como como el
+despliegue están en a veces en lugares que que son mucho más fríos en
+Groenlandia o cuestiones por el estilo donde no hace falta tanta energía para
+enfriarlos Sí pero bueno acá vienen algunos casos también se utilizan sistemas
+no cerrados de agua hay una cuestión de contaminación hay una cuestión de si si
+no contaminan a veces afectan a la temperatura de algún lago eh o alguna
+cuestión por el estilo que siempre También hay que tener en cuenta entonces hay
+que también ser conscientes al respecto de Esto justamente para minimizar el
+impacto que pueden tener en general los modelos bueno los centros de cómputos
+éstos de los que hablaba recién se pueden comparar a que consumen lo mismo que
+una ciudad entera entonces Bueno hay que poder definir no hasta dónde vale la
+pena utilizarlo entonces hoy en día está muy de moda utilizar la Inteligencia
+artificial para absolutamente todo en vez de hacer una búsqueda en internet se
+utiliza para generar imágenes o texto o cosas muy muy simples que a veces ni
+siquiera valen la pena se utiliza igual sí capaz y poca concientización al
+respecto de eso es bueno Entonces qué hacemos la dejamos de utilizar no Bueno
+hay alternativas como mencionaba también más temprano es eh los modelos más
+pequeños o modelos más eficientes como el que había aparecido el que había
+diseñado esta empresa china que hizo que fue famosa que justamente gastaba 100
+meses menos el costo de entrenamiento de las 100 veces menor costo de
+entrenamiento 100 veces menor estamos hablando también de menos Hardware menos
+energía o sea cuando hablamos del costo no solamente un costo para la empresa
+en sí sino que también está muy asociado a la energía que se consumió Sí para
+entrenarlo Eh bueno varias cuestiones uso energía renovable modelo más pequeño
+más eficientes y demás bueno entonces esto sabemos que llegó para quedarse que
+va a haber cambios que esto está revolucionando nuestro trabajo eh va a servir
+para automatizar las tareas repetitivas pero al mismo tiempo van a aparecer
+nuevos nuevos trabajos y relacionados a este tipo de de relacionados a esta a
+estas nuevos Esta es una de las palabras que no me salía en su momento Así que
+hay que hacer la curación una vez que está que la Inteligencia artificial está
+evaluada que justamente eh adaptarla exactamente a los a las políticas
+objetivos a la a la visión que pueda tener el dueño es Inteligencia artificial
+sí Bueno hay una las las las las los trabajos muchos están redefiniendo Sí en
+relación a esto pero también hay que tener en cuenta que todas las todo esto
+puede llegar a generar una desigualdad por justamente porque hay personas que
+van a tener acceso desigual a la tecnología algunos van a poder tener acceso y
+van entonces a a formarse más tempranamente en eso lo cual Okay está bien es
+una problemática Simplemente hay que tener en cuenta y bueno nada Creo que en
+todo esto siempre hay que buscar que que haya una especie de transición que se
+ajusta así con con con los seres humanos o con la sociedad sí y no dejar a
+nadie a tratar de no dejar a nadie afuera sí entonces bueno como qué hacemos al
+respecto de esto nada tenemos que estar atentos a que esto está entre nosotros
+hay que eh informarnos hay que participar de este tipo de eventos hay que
+entender cómo usarla Cómo se pueden usar tener los desafíos sí tener las
+posibilidades que nos representa tener Cómo utilizar la Inteligencia artificial
+como una herramienta Entonces como decíamos la Inteligencia artificial no es ni
+buena ni mala depende de cómo se use hay que diseñar una política de justicia y
+sostenibilidad y puede ser una herramienta tanto de equidad de exclusión
+depende del enfoque por el que se la utilice bien Bueno ahora sobre la parte
+final de esta presentación nos vamos a poner un poco más técnicos sobre algunas
+cuestiones que algunos claro un poco más y a otros quizás un poco menos pero me
+parecía que estaba bueno nombrarlo Y mencionarlo sí Entonces el objetivo de
+esta parte es introducir los fundamentos matemáticos detrás de de la
+Inteligencia artificial sí entender cómo se hace entrenamiento explicar cómo
+funciona lo que se llama gradiente descendiente que es justamente el mecanismo
+mediante el cual se hace el entrenamiento y la propagation que es eh un
+algoritmo que se utiliza dentro de 40 descendientes esto Simplemente nos vamos
+a mencionar un poco por arriba tratando de explicarlo que dice mucha
+profundidad pero hoy en día Son son términos que se que van a encontrar en
+todos lados y una de las cosas que me parece a mí más importantes esto de de
+desmitificar la complejidad sí la idea es que muchas veces se parece que hace
+magia la Inteligencia artificial y además Bueno no es son el mismo problema que
+ya conocemos desde hace muchísimos años solamente que es mucho más complejo y
+que el modelo mucho más complejo Por qué Porque el modelo es más complicado lo
+que parece magia lo que parece fantástico todo esto es que estás propiedades
+emergentes que surgen de lo que es de los de los modelos complejos esta primera
+emergente es que una cosita sola la es muy simple su funcionamiento dos cosas
+solas en principio no como por ejemplo las neuronas de nuestro cerebro si los
+ponemos en el examen neurona por sí sola es nada me parece ser muy simple su
+funcionamiento y demás pero sin embargo si tenemos una estructura de neuronas
+interconectadas y con tales y Cuáles características podemos pensar si a eso
+llamamos una propiedad emergente sí nuestro cerebro funciona desde desde esa
+manera son componentes muy simples todos y cada uno de ellos por separado pero
+[Chunk 53 failed: Could not understand the audio] esa función esta función que
+estamos viendo acá puede ser muy simple como una función lineal la que
+utilizamos en un modelo de regresión o tan compleja como nosotros queramos como
+una red neuronal eh una red neuronal por ejemplo una función lineal modelo de
+regresión para tres valores de entrada va a tener cuatro parámetros sí no
+importa quédense con el número si no se acuerdan bien Cómo es el número es lo
+importante son cuatro parámetros y una red neuronal nada normal Nada del otro
+mundo una para edición por computadora estamos hablando de capaz que tiene 150
+millones de parámetros sí Y ni hablemos de las de procesamiento del lenguaje
+natural o las degeneración de imágenes o de texto y demás y una red neuronal
+que no es de nada en otro mundo que podemos utilizar en cualquiera de que se
+utiliza en cualquiera de las propuestas que vimos puede tener 100 millones y
+millones de parámetros sí frente a los cuatro que tenía este esta cantidad de
+parámetros nos sirve para de es una medida de la complejidad de nuestro modelo
+sí Cuanto más parámetros tenemos más complejo es nuestro modelo entonces la
+función la regresión lineal es un modelo muy simple y una red neuronal puede
+ser un modelo muy complejo un modelo muy simple después va a ser capaz de
+obtener algunas ehm relaciones simples y un modelo complejo va a ser capaz de
+establecer relaciones muy complejas de extraer patrones más complejos de
+extraer características de nuestros datos entonces bueno de acá lo otro que los
+queremos llevar es que nuestro modelo Tiene parámetros estos parámetros se
+habla de la complejidad Qué significa aprender Cómo aprendo un modelo significa
+ajustar los parámetros sí los los datos van a estar fijos una vez que nosotros
+tenemos nuestras imágenes de entrada con las que vamos a entrenar a nuestro
+modelo nuestros datos que adquiridos ya pre procesados nuestro modelo esos
+datos ya están fijos sí de alguna manera son siempre los mismos datos que vamos
+a utilizar para entrenar lo único que podemos hacer es cambiar nuestros
+parámetros Entonces vamos a cambiar nuestros parámetros para que la función
+fatal que nuestro modelo también la función represente lo mejor posible a las a
+la salida que buscamos Sí entonces en general el proceso de entrenamiento
+implica inicializar los valores de manera aleatoria los parámetros en un valor
+luego meterla en nuestros datos ver los errores que se generan Sí entonces ahí
+calculamos el error entre el resultado Real y el que arrojó el modelo Sí por
+eso el resultado Real son las etiquetas de nuestros datos Entonces comparamos
+el resultado que nos dio nuestro modelo con los parámetros que le pusimos con
+las etiquetas y ahí la importancia de las etiquetas y al compararlo los que
+arrojó el modelo con los las salidas reales podemos calcular el error y una vez
+que tenemos el error podemos utilizar ese error de alguna manera para ajustar
+nuestros parámetros entonces ajustamos nuestros parámetros y volvemos a hacer
+lo mismo metemos los datos de nuevo con nuevos parámetros nos da un error un
+poco menor con ese error un poco menor volvemos a ajustar y volvemos a ajustar
+y volvemos a ajustar y durante ese proceso vamos Ajustando los parámetros hasta
+que encontramos los parámetros óptimos Este es el proceso que se llama
+optimización de los parámetros sí de los parámetros del modelo el objetivo de
+este proceso de optimizar estos parámetros es minimizar el error que obtenemos
+a la salida Sí nosotros tenemos nuestros datos y las etiquetas metemos los
+datos de nuestro algoritmo y queremos que lo más posible a los datos que ya
+conocemos y ese es el objetivo entonces lo que sucede es esto se puede ver
+gráficamente como si esto es una función en una zona de Dimensión pero esta
+función es unidimensional pero siempre se grafica en una en una dimensión como
+para tratar de explicar pero nosotros vamos podemos tener distintos sí acá
+estamos representando nuestros parámetros y con un conjunto de parámetros
+estamos parados en este punto rojo sí que tenemos acá y con otro set de
+parámetros vamos a estar en otra en otro punto por acá y con este otro set de
+parámetros por acá sí Entonces te queremos encontrar el conjunto de parámetros
+que nos dé el mínimo esto ahora es el error el mínimo error si encontramos Ese
+Conjunto de parámetros que nos da el mínimo error vamos a nuestro algoritmo
+nuestro modelo aprendió Sí el problema es también que esta función de error
+puede tener estás características no una terraza que quiere decir que que acá
+no no nos dice nada No si estamos parados en en este en este punto sabemos que
+si queremos minimizar el error tenemos que ir hacia abajo sí Esto es lo que
+llamamos el gradiente descendiente Este es el algoritmo mediante el cual se
+hace la optimización de los parámetros La idea es que partimos de cualquier
+lugar nos vemos Hacia dónde baja el error y caminamos en esa dirección Sí bueno
+es algoritmo insisto no puede tener varios problemas que es que podemos
+encontrar un mínimo local en vez del mínimo global que estamos buscando que
+podemos tener una terraza si tenemos una terraza no sabemos para dónde caminar
+Sí porque no no no sabemos para dónde es para abajo Sí y Bueno hay varios
+problemas como éste sí Acá hay una analogía que habla de que es como si
+estuviéramos nosotros pagados en el medio de la montaña con los ojos vendados
+acá obviamente es un poco peligroso Pero la idea es tratar de bajar de la
+montaña sin saber sin poder ver si lo único que vamos a ver es sabemos dónde
+estamos parados y en ese lugar podemos saber Hacia dónde baja Sí pero en una
+montaña de repente podemos estar bajando y de repente empezar a subir Bueno
+entonces no es tan simple No pero en el fondo uno trata de ir en la dirección
+con la mayor pendiente negativa que puedes estar tratando de ir hacia abajo sí
+Entonces esto es lo que llamamos gradiente descendiente y justamente es avanzar
+en la dirección en la que más rápido se baja Bueno este proceso que decíamos se
+calcula se avanza un paso se vuelve a calcular la pendiente la dirección a la
+que tengo que caminar o el gradiente y se vuelve a avanzar y así miles y miles
+de veces sí bien acá me parece que está bueno Mostrar si esto teníamos
+preparado en algún lado por acá que es simplemente el ejemplo es exactamente
+esto que acabamos de ver sí del modelo de regresión que ustedes conocen Este es
+un programita disculpe no lo hice muy muy bonito pero la idea de todo esto es
+justamente ver no nosotros tenemos estos puntos Sí y si nosotros utilizamos un
+modelo de regresión lineal Y qué dijimos que teníamos una recta una recta tiene
+dos parámetros sí que es la pendiente y la ordenada del origen sí Entonces qué
+es lo que vamos a decir que cuando estamos aprendiendo Qué significa aprender a
+aprender es no es más que buscar los valores de a y b que es mejor ajusten a
+nuestros puntos Sí por ejemplo esos que están ahí yo esto lo acabo de hacer a
+mano si lo puedo hacer a mano y más o menos funciona porque es un modelo lineal
+muy simple de una sola dimensión Sí pero en el fondo este proceso de elegir los
+parámetros fíjense que acá se ve muy claramente que los parámetros son los que
+cambian y los puntos están fijos yo no toque los puntos en ningún momento sí
+Solamente toco los parámetros sí ven y bueno lo que estamos haciendo es tocando
+las manos en los algoritmos de aprendizaje automático aprenden a través de
+datos lo que hacen es calculan utilizan ingredientes descendientes por eso
+calculadora y avanzan en esa dirección Sí fíjense acá lo que estoy haciendo
+cada vez que hago click es hacer un paso de ese algoritmo Y fíjense cómo los
+parámetros se van corriendo y acá abajo acá arriba voy viendo que cada vez que
+hago click mi error va a disminuyendo sí Entonces esta función que está acá Así
+que no se parece en nada va a tener mucho error 1818 contra los puntos Okay Sin
+embargo a medida que yo voy entrenando mi algoritmo ese error va bajando y esto
+sí como se repite muchas muchas veces sí ahí el algoritmo vamos viendo cómo va
+corrigiendo los valores de a y b y minimizando el error sí Entonces eso es lo
+que conocemos nosotros nuestra regresión lineal Sí pero esto mismo que estamos
+viendo acá es exactamente lo mismo que haya acelere el proceso Sí para que
+corra más rápido 40 pasos por segundo pero este proceso de elegir o de
+optimizar los valores de a y b es exactamente el mismo proceso que utilizan los
+algoritmos de Inteligencia artificial para aprender Sí no hay ninguna magia
+detrás de esto esto siempre lo mismo hay algunas cuestiones que tienen que ver
+con cuando uno Utiliza este algoritmo y una función que te dice la tasa de
+aprendizaje que no quiero decir mucho de eso pero lo único que voy a decir es
+que si uno elige mal esto se vuelve loco Sí entonces hay que hay varias
+cuestiones que uno tiene que saber tunear si bien el proceso es simple o o
+entender Cómo es el proceso hay muchas cosas complejas dando vuelta alrededor
+de este proceso que hay que saber ajustar una cosita más que está bueno
+mencionar acá es por ejemplo si yo tengo otro tipo de datos estos datos ya no
+son lineales ya no tienen la respuesta lineal si yo hubiese elijo un modelo
+lineal fíjense que tampoco es muy representativo deseando Sí este es el valor
+al que llega después de haber entrenado con esos valores con esos puntos que no
+son lineales entonces haber elegido un modelo lineal fue un error sí mientras
+que este modelo lineal para datos que sí son lineales funciona bien Sí vamos a
+poner más puntos también para ver cómo queda poco Siempre es lo mismo muy bien
+y en línea con esto mismo puedo mostrar uno que es un poquito más complejo es
+la misma idea sí Solamente que ahora Este modelo que vemos acá es una red
+neuronal pero de dos neuronas es la red neuronal más chiquitita que se puede
+bueno es la más chiquita pero es muy muy chica tiene muy pocos parámetros pero
+ya son muchos más que los dos que tenía la otra sí acá nada lo voy a poner a a
+mostrarse solamente por ejemplo ahora por mis funciones tienen otra forma No
+son una función lineal tengo algunas cosas que me modifican sea la función de
+otra manera Sí ya no es más la regresión lineal es un modelo un poco más
+complejo sin embargo está hecha con dos con 5 neuronas Sí es muy muy simple
+bueno acá lo que estamos viendo Es cómo va aprendiendo Sí cómo vamos bajando el
+error también para tratar de aprender a a estos puntos fíjense que es un modelo
+más complejo y le cuesta un montón adaptarse a los datos lineales porque no es
+el modelo tampoco que corresponde para este problema Sí pero bueno La idea es
+que una red neuronal va a ser lo suficientemente inteligente para adaptarse más
+o menos bien a cualquier problema nunca vamos a usar una red neuronal para una
+regresión lineal Porque si es una organización lineal lo vamos a detectar antes
+de usar una red muy compleja pero en el fondo lo que quiero mostrar con esto es
+que las redes neuronales acá no se ve todavía porque le falta entrenar durante
+un montón de tiempo más pero si lo dejó corriendo durante un tiempo largo o le
+cambió los puntos a los cuadraticos este mismo modelo que es una red neuronal
+se puede adaptar tanto a los datos que son cuadraticos como los lineales como a
+cualquier otro Bueno este no tanto porque es muy simple todavía no Pero eso es
+lo otro que quiero que vean que cuando uno agarra y utiliza un modelo complejo
+es porque uno no conoce prácticamente nada de sus datos si quiere utilizar un
+modelo lo suficientemente complejo para que sea capaz de aprender cualquier
+estructura parámetro o característica que tengan los datos Sí bueno lo voy a
+dejar corriendo Mientras voy a ver acá bien de mientras lo dejó corriendo el
+background es esta hay que calcular la derivada nosotros una vez que calculamos
+el error tenemos que utilizar ese error para corregir nuestros parámetros
+Entonces es básicamente eso Calcula qué tal Cómo influyó cada uno de los
+valores de mis parámetros cada parámetro en el error del final y lo corrige
+para tratar de ir en el camino donde se baje sí Y este es un algoritmo que sin
+este algoritmo no se podía calcular nunca las s gradiente esa derivada la
+dirección hacia dónde hay que caminar en los modelos complejos solamente eh lo
+podemos calcular Porque existe este algoritmo entonces solamente para tratar de
+entender de fondo qué es lo que hace es supongamos que tenemos eh todos los
+eventos todas las secuencias de eventos que se dio cuando estuvo el desastre de
+Chernobyl entonces pasaron todas estas cosas Hasta que sucedió el desastre Sí
+pero la idea del gobierno de Macro para ellos es empezar desde atrás entender
+que hubo una explosión y preguntarse por qué Por qué una explosión bueno porque
+una subida de potencia y por qué hubo una subida de potencia porque Durante
+este momento se realizó una prueba sin los sistemas de seguridad y por qué se
+realizó una mmm una corrida de prueba sin los sistemas de seguridad porque una
+intervención manual Y por qué una intervención manual porque se tuvo que
+reanudar una prueba en un momento Sí porque había demasiada potencia Bueno
+entonces es así es ir desde el final hacia las causas sí Y una vez que se
+conocen las causas se pueden corregir en este caso es medio raro no es
+Exactamente igual pero por ejemplo se puede corregir protocolos se pueden
+agregar seguridad al sistema en el caso del aprendizaje partimos de los errores
+entonces ajustar nuestros parámetros Sí para que para bajar el error Sí eso es
+un poco lo que quería Mostrar con eso luego un concepto que también está bueno
+ver es lo que se llama suba ajuste y sobre ajuste profes cuando el modelo
+aprende demasiado bien los datos de entrenamiento Si nosotros tenemos toda
+nuestra 9 puntos y nuestro algoritmo va a empezar a am a aprender inclusive
+cada uno de los puntos Sí pero también aprende hasta los errores que tienen los
+puntos Sí cuando sucede eso está mal el modelo es demasiado complejo aprende
+hasta el error que tiene nuestros datos y lo que sucede como consecuencia
+negativa es que si bien tiene muy buena precisión o muy buenos resultados para
+los datos de entrenamiento Cuando uno lo pone en producción Cuando uno hace
+referencia funciona mal pero cómo si mi error ya es muy chico con el
+entrenamiento yo hice todo el entrenamiento y me funciona todo bárbaro el error
+es mínimo bueno porque está sobre ajustar el suba ajuste lo contrario es cuando
+el modelo es demasiado simple entonces no es captar no es capaz de captar esos
+no no no no captan los errores seguro que no pero tampoco capta la la
+estructura de los datos que es lo que queremos entonces tenemos la como
+consecuencia negativa es que tenemos error alto siempre sí esto lo podemos ver
+representado un poco así no si tenemos un una un problema de clasificación un
+sobre ajustes esto que vemos acá donde claramente está copiando absolutamente
+todos los datos pero en el momento en el que aparezca un dato nuevo por ejemplo
+acá uno azul lo va a clasificar con amarillo Sí porque en realidad la curva la
+mejor curva para hacer la diferenciación entre Azules y amarillos era esa la
+del medio Sí entonces este este dato que aparece acá Este a clasificar bien
+pero este otro modelo sobre ajustado no el que está solo ajustado que es este
+que tenemos acá Bueno no funciona nunca bien si simplemente el modelo no es lo
+suficientemente complejo como para captar la estructura de los datos Y en
+regresión es lo mismo un modelo sobre ajustado copia todos todos mis datos Pero
+esto es una exageración sí un modelo que parece más Lógico es este en el medio
+y un modelo que tampoco funciona es el de la derecha porque lo copian y la
+estructura de los datos bueno cuestiones que esto es muy fácil y lindo ver
+cuando es así lo podemos graficar en dos dimensiones pero cuando los problemas
+escalan y las complejidad escalan para todo esto hay que utilizar otras cosas
+por ejemplo en regresión se utiliza la métrica r cuadrado o ese puntaje r
+cuadrado que me dice que me habla de que también mis datos que habla de la
+bondad del ajuste de mi modelo con los datos que tengo sí entonces bueno cosas
+también a tener en cuenta bueno como para abajo para evitar esos reajuste a
+veces tiene que ver con cuestiones de los datos a veces hay otras técnicas que
+llaman regularización que no las vamos a ver a veces utilizar más datos
+adquirir más datos es una solución Sí y otras técnicas de validación que que
+pueden llegar a ayudarnos sí no hace falta nosotros acá no estamos para
+explicar esto pero hay maneras de tratar estos problemas Sí el objetivo de
+fondo de todo esto es siempre poder generalizar bien no memorizar datos sino
+generalizar en este en el ejemplo que estábamos viendo recién cuando hay un
+sobre ajuste estamos memorizando los datos en vez de generalizando qué es lo
+que sucede en el medio bueno por último hay unas cuestiones que tienen que ver
+con con los hiper parámetros que es esto que les mostré Obviamente que mientras
+uno está aprendiendo hay que fijar cosas como éstas aprendizajes épocas
+WhatsApp no importa son parámetros que no son del modelo pero sí del
+entrenamiento y hay que elegirlos bien si uno los elige mal por ejemplo acá
+tenemos nuestro modelo que ya conversión más o menos sí esto puede ser no está
+tildado pero a veces tarda mucho en hacer iteraciones y más fácil reiniciarlo
+em lo que les mostraba recién Es que a veces sí yo no elijo bien mis parámetros
+en este caso me hiper parámetro la tasa de entrenamiento esa moda ejemplo no
+hace falta que sepan los detalles Tengo este problema modelo no converge está
+oscilando todo el tiempo sí Y eso es porque no pude elegir bien mis intervalos
+solamente como para que entiendan también que haya para complejidad más durante
+el entrenamiento Por qué explícito Por qué nos pusimos más técnicos Bueno a mí
+me gustaba la idea de que sí conocieran una regresión lineal entendieran de que
+el proceso para a entrenar un modelo es exactamente lo mismo que el proceso de
+aprendizaje de una de un modelo complejo como una red neuronal o un perceptor
+multicapa o cualquier otro sin embargo También sirve para decir que no hace
+falta ser matemáticos y conocer la Inteligencia artificial Pero siempre es
+bueno entender los conceptos básicos aunque sea esto estuvimos hablando acá sí
+la Inteligencia artificial no es magia no estamos absolutamente lo mismo de
+siempre es una regresión es optimizar los parámetros utilizando datos Y si bien
+a la hora de hacer eh utilizar la Inteligencia artificial al 100% necesario
+entender todas estas cosas todas estas cuestiones esto ayuda mucho tener
+sentido crítico de la complejidad que va a dar mis datos y yo soy el encargado
+de adquirir los datos también entender porque eso es importante porque es
+importante el cuidado de los datos si eventualmente les toca trabajar un poco
+con Inteligencia artificial si quieren meter un poco más a la hora de
+seleccionar el modelo Tiene que ser criteriosos y bueno si conocen algunas
+cuestiones técnicas van a ser mejores seleccionando modelos y sino también una
+cuestión más de comunicación Sí con la gente que sí va a estar trabajando en el
+mismo equipo que ustedes cuando estén utilizando Inteligencia artificial para
+solucionar alguna problemática que tenga bien hasta acá está parte y con esto
+cerramos con esto cerramos la la presentación Sí así que ahora vamos a escuchar
+las preguntas Sí con esto de los hiperparametros están vinculados con la forma
+en que ajustar las funciones que calibrar la función o el modelo en general vos
+diste un ejemplo de un caso recién que era súper sencillo no Sí para que lo
+podamos entender pero en general el concepto del parámetro es un parámetro que
+está fuera del modelo pero que influye en la calibración del modelo Exactamente
+eso es sí no es un parámetro del modelo no es un parámetro de la función no es
+el parámetro que vamos a optimizar durante el entrenamiento pero si es un
+parámetro que nos influye en Cómo estamos entrenando en Cómo estamos
+aprendiendo justamente ese parámetro que yo Cómo funcionaba se llama parámetro
+de taza de entrenamiento y estoy buscando algo acá por ejemplo si estamos en
+este caso esa taza de entrenamiento está diciendo lo siguiente a ver voy a
+tratar de encontrar acá por allá estábamos por ahí parados acá no en este punto
+y es como estamos acá los la pendiente nos dice que tenemos que ir a la derecha
+si esa taza de entrenamiento es muy alta capaz que en vez de movernos de acá
+acá nos movemos de acá a este otro punto porque nosotros no no no recorremos
+todo esto saltamos hasta este otro punto y entonces estamos acá y la tasa de
+entrenamiento es muy grande saltamos a este otro punto y estamos acá muy grande
+y saltamos y nos pasamos haciendo esto sí que eso es el efecto que se veía ahí
+de que está oscilando hace pasos demasiado grandes Sí y nunca encuentro un
+mínimo local entonces acá vemos como un parámetro un hiper parámetro me afecta
+si yo luego entrene bien o entrene mal a mi modelo Sí así como este de la tasa
+de entrenamiento en varios sí respondí la pregunta sí sí perfecto muchas
+gracias Analía tenés la mano levantada Perdón no lo no lo había visto en
+función de este ejemplo que mostraste de la regresión Comparado con los otros
+ejemplos que vimos días atrás eh sobre la sobre los los ejemplos que vimos
+sobre hechos con Inteligencia artificial qué tan complejos son esos otros
+modelos por ejemplo bueno Mira te puedo hablaba en un momento de la cantidad
+viste de parámetros que tenía una un algoritmo de visión por computadora no por
+ejemplo podríamos tener acá por ejemplo hay modelos de visión por computadora
+que no vienen al caso que dice que es cada uno de estos pero por ejemplo
+podemos ver que no sé vamos los tres primeros que están acá Este la primera red
+que está ahí arriba no sé si se ve bien Esto quizás se podría agrandar tiene 22
+millones casi 23 millones de parámetros esto que está acá Tiene 138 millones de
+parámetros este 143 millones de parámetros Sí y una regresión lineal no hay
+nada O sea no hay manera de que tenga tantos parámetros jamás sí estamos si
+tiene 138 millones de parámetros estamos hablando que tiene eh 138 millones de
+parámetros -1 entradas tu problema Sí una regresión lineal tiene en el
+parámetro si tienen entradas tienen más un parámetro eso Por ejemplo el de los
+que vimos antes creo que de Inteligencia artificial era el que presentaron de
+de del de inta puede ser sí había varios eh En qué en qué Rango de de
+complejidad con esos problemas con esos problemas en este Rango de complejidad
+sin problema porque o sea o sea este justo estos dos que están acá son de los
+más grandes que hay pero algo se utiliza bastante son o sea estas Mobile son
+para redes para dispositivos muy pequeñitos como un celular y así todo tienen 4
+millones de parámetros O sea que cualquier algoritmo de Inteligencia artificial
+eh va de visión por computadora va a tener millones de parámetros todos los que
+salen ahí seguro están en el orden de los de decenas de millones de parámetros
+Sí y fíjense bueno el ejemplo que la manera en que yo estaba entrenando ese
+modelo un poquito más complejo o inclusive me regresión lineal que estaba acá
+acá estoy haciendo cuatro iteraciones por segundo y tarda un rato en entrenar o
+sea tarda en pegarse cuando son millones de parámetros este entrenamiento a
+veces puede tardar meses sí Y además hay que tener Hardware especial y un
+montón de cosas o sea no quiero que comparen esto porque está es súper
+ineficiente era como para saber a qué distancia estábamos del de los modelos de
+estos reales Sí sí Bueno un modelo de estos ahí hay varias cuestiones por
+ejemplo entrenar estas redes grandes que están acá de visión es súper costoso y
+lleva mucho tiempo sí y uno va si te compras de las mejores placas gráficas o
+Hardware especializado para hacer entrenamiento que tenés en el mercado y
+además tu computadora en tu casa y no lo podés hacer pero sin embargo lo que
+uno puede hacer es hacerlo se llama una técnica que se llaman de de
+reentrenamiento de fine tuning donde uno parte alguien ya se dedicó a entrenar
+la red eh la red de visión sí Y entonces qué pasa Yo puedo reutilizar ese
+entrenamiento que hizo esa persona y con mis datos entrenar esa red usando
+Hardware y podemos comprar digamos que tenemos que Hay acceso que tenemos
+acceso para para usarlos sí por la cantidad de de de de de tiempo y de Hardware
+y todas estas cosas que se necesitan sino también por la cantidad de datos para
+entrenar bien a Algo vamos a tener muchos datos que muchas veces no los tenemos
+entonces podemos partir de un modelo entrenado y hacer 215 eso nos ahorra
+tiempo de entrenamiento costo de entrenamiento y costo de adquisición y
+preparación de datos Porque necesitamos menos datos para hacer esa nuestro
+entrenamiento Sí entonces podemos usar modelos complejos dado que podemos
+utilizar estos algoritmos de reentrenamiento y como esto técnica hay montones
+más también que se pueden aprovechar sí respondí la pregunta en realidad sí sí
+perfecto Gracias una una cosita más también es que también hay Hardware en la
+nube No nosotros podemos utilizar Google cola o no importa distintas
+herramientas contratar Hardware y en general eso es mucho mejor que tratar de
+armarse una computadora en en cada uno en la casa No porque si uno trabaja de
+esto poco la verdad es que estás teniendo una computadora que la usas poco es
+muy cara se puede volver vieja se puede romper hay que mantenerla hay que hacer
+un montón de cosas a veces también haciendo mucho más barato contratar el
+servicio de cómputo en la nube que tratar de tener todo uno el software propio
+digamos sí eh A ver si si entendí Un poco Esta última explicación que viste
+supongamos que yo quiero diferenciar peras de manzanas y dentro de peras o
+dentro de manzanas y es re delicious rompe o Williams o cualquier otra no Y la
+información que tengo son fotos son fotos con píxeles y cada una x definición
+en el caso de los millones de parámetros que necesitan modelo digamos cada
+parámetro sería por un pedacito de la imagen que toma la la O sea sería como
+una variable que es el Pixel x supongamos estoy tratando de entenderlo no el
+modelo eh Y se calibra solo el el modelo decide la intensidad o ya viene
+calibrado Cómo cómo es eso cómo se define que son 2 millones está bien que es
+por el modelo pero yo estoy cargando una imagen eh Quién Define los parámetros
+de esa imagen el modelo el modelo que ya está pre hecho el el desarrollador Sí
+en general la mayoría de los algoritmos eh funcionan o sea imágenes textos
+datos en una tabla lo que uno trata de hacer es sacar características por
+ejemplo voy a tener yo tengo una imagen eso atraviesa montones d d d d d d d d
+d d d d d d d d d funciones matemáticas y en algún lugar le dicen hay una
+variable que me dice qué tanto rojo hay en la imagen otra característica es qué
+tantos bordes tiene otra característica es que tantos bordes filosos o
+redondeados tienes otra que tantas me dice eh qué tantos cambios de de color
+hay en la imagen Sí Son características que voy extrayendo de la imagen estoy
+tratando de encontrar algo que que es muy representativo para eso bueno
+cuestiones que yo saco muchas características Sí entonces después lo que hago
+con esas características es esto si tengo una imagen que es muy roja con bordes
+redondeados que no tiene bordes filosos sino cambia mucho de color es una
+manzana entonces cuando uno utiliza algoritmos de visión por computadora una
+etapa y en otros algoritmos también pero inició por computadoras bastante más
+claro Hay una etapa de extracción de parámetros que se hace de de
+características de la imagen de entrada y luego se clasifica a la imagen de
+entrada de acuerdo a esas características es roja tiene bordes y tal cosa si
+las características son esto que hablamos que no son explicables la red la
+Inteligencia artificial saca características de la imagen de entrada en después
+no me explica Porque son importantes Sí pero son importantes entonces hay una
+red que es muy chiquitita que es esto hay una versión de esto mismo que estoy
+mostrando acá que es en 2D y que para mí es mucho más clara Sí esta es una red
+que se utiliza para detectar no sé si se ve en el fondo uy uy bueno por eso me
+gusta más las dos de Bueno lo que estoy tratando lo que hace esta red que está
+acá es acá la salida van dónde están los números no sé si lo llegan a ver del
+cero al nueve sí Entonces yo dibujo el número acá y acá en la salida me está
+diciendo Cuál es es la probabilidad de que sea cero es cero la probabilidad que
+sea 1 es 0 0 0 la unidad que sea 7 es 1 prácticamente Sí eso que esté muy
+iluminado el 7 me está diciendo que esto que dibuje yo acá se parece mucho a un
+7 sí Entonces quiero tratar de mostrar de odio este estamos haciendo es se van
+atravesando por estas capas así en 3D o sea Acá hay una a una fila Acá hay otra
+fila otra fila otra fila y hasta que llegamos acá todo lo que se hizo durante
+ese proceso es mediante esas líneas implican la conexión de las neuronas pero
+en el fondo lo que quiero mostrar de acá es que esto que está acá que estamos
+viendo este vector largo que vemos acá que es un cubito atrás del otro son Esta
+es una característica Esta es otra característica Esta es otra otra otra sí una
+característica al lado de la otra sí está imagen que yo dibuje las dos primeras
+características las tiene la tercera no la cuarta y quinta Sí sí me digo que sí
+que no en función del color que tiene ese cuadradito y yo lo que hago es en
+función de estas características con las la última etapa de esta red que es
+esto clasificó o ó o ó puedo obtener estas probabilidades entonces después
+puedes buscar otro Sí y tiene otras características Sí este vector Y estás
+otras características hacen que esto se parezca más a un 8 Eh sí dibujo y
+cualquier cosa eh No sé vamos así Bueno ahí fíjense que esto ya no es un número
+entonces no sabe bien pared dice que son 1 no sé porque dice que son 1 Pero
+también dicen que puede llegar a ser un cero o un ocho en menor medida o cuatro
+o cinco Sí bueno esa es la manera en la que funciona y toda una etapa de
+extracción de características que pueden ser voy a tratar de mostrarte una muy
+clara Así que este esta imagen que se ve acá por ejemplo no sé si lo vas a
+llegar a ver bien o está está que está acá abajo está mostrando dónde hay
+bordes por ejemplo ves que hay te está mostrando esto tres bordes que pasan de
+0 a 1 Sí y Acá hay otra que te dice otro tipo de borde y Acá hay bueno esas son
+características que después se van combinando y Armando cada vez
+características más y más complejas bien fíjate acá cuando estamos en esta
+todavía podemos entender que están detectando bordes Cuando llegamos a esta
+otra ya no sé qué me dice tema imagen está otra menos y este cuadradito acá
+mucho menos las preguntas Sí sí se entendió muchas gracias buenas consultas
+sabemos que India tiene una buena calidad de datos 60 días de momento de hacer
+para Uruguay Qué sabemos sobre datos de inta Argentina uno me mataste no sé si
+quizás ario Pablo puedan responder No a mí se me escucha ahí sí se te escucha
+okay No no tengo idea porque son datos de inta Argentina no tengo la menor idea
+quizás alguna de las personas de Instagram que está conectada tengo algunas
+ideas al respecto sí decirles que que hay datos de no sé si de 70 años como
+tiene la historia de la institución pero si hay datos de distintas
+características y todo depende del área fundamentalmente decir algunas están
+clasificadas Y publicadas como por ejemplo todos los mapas de suelos o algunos
+de o de clima por ejemplo que que hay mucho ya disponible en los distintos
+sitios pero de otras áreas o todavía no está publicado o falta mucho trabajo de
+clasificación eh cualquier consulta nos no a cualquiera de los participantes
+que estamos aquí haciendo el cursado nos consultan por temas en específico es
+decir porque datos así en general es bastante difícil por ahí lo que vaya
+necesitando y son los datos que hay son públicos y se trabaja en abierto para
+que se puedan aprovechar yo sumo Gabriela y también eh respondiendo a la
+pregunta de Lisandro que en línea Uruguay si es un hecho que hay datos hacia
+atrás un montón y que en esta etapa Hay un proyecto que justamente está
+iniciando la persona con quién estamos trabajando el proyecto de converge la
+persona de planta que quiere buscar la forma de eh almacenarlo de forma
+estandarizada todo eso que está acumulado en cada uno cada lugar en cada
+estación experimental llevado a cabo por cada especialista que pasó que está
+muy desordenadas de información entonces está buscando la forma de digitalizar
+la y estandarizar la forma en la que en la que está almacenada porque claro es
+muy valiosa sí por por todo esto que vivieron con con Federico en el problema
+de ordenar los datos eh lo mencionábamos antes Bueno Martín ya te respondo dame
+un segundo que terminó con esta que está en el chat eh No creía que no había
+tapado nunca la presentación Disculpen Si en algún momento también la
+presentación con la ventana creía que no venía en la mentira se usa Solo que
+eras o también pythor se usan más en este mundo siendo quiere meterse no puede
+elegir uno de los dos poco hay que usar los dos o conocer los dos pero una vez
+que uno está metido los dos son similares o sea no hay grandes diferencias Así
+que sí usaremos sí y en general se siempre hay que saber los dos sí Martín Sí
+buenas tardes buenas tardes Tengo una una duda que venimos hablando Benjamín
+descendiente si la funcion de activacion reloj que se usa para muchas redes es
+para evitar la meseta es que Perdón Es para evitar la meseta ingrediente
+descendientes bueno eh la función de reloj es la más utilizada sin dudas por
+varias razones la principal es que es muy simple y fácil de de computar si yo
+tengo que hacer durante el entrenamiento un millón de operaciones de de una
+tangente eh una arcotangente Perdón o alguna función exponencial para una
+función sigmoide Esto fue técnico ya pero eso lleva mucho mucho esfuerzo de
+cómputo entonces las funciones de de arreglos funcionan muy bien porque
+básicamente es un cero o el valor como está O sea no hay no hay ningún cálculo
+que hacer ahí sí y hay otras funciones que para entrenamiento pueden funcionar
+un poco mejor pero son más costosas en el fondo ponen en la balanza ambas cosas
+así y no termina convirtiendo hay una cuestión más también que la función renal
+no tiene hora diente 0 o gradiente se propague bien el gradiente me estoy yendo
+totalmente más molesto no lo va a entender nadie pero funciona bien porque es
+barata y es barata desde el punto de vista de las cuentas que hay que hacer y
+permite que el gradiente se propague bien hacia atrás mediante este algoritmo
+de Mac propagation que es otro problema que enfrentan las redes profundas que
+se desvanece el gradiente bueno con esta función eso no sucede porque vale
+siempre uno si se tiene que propagar vale 1 y si no vale cero respondí la
+pregunta el resto Bueno hay alguna otra pregunta puede ser de lo que hablábamos
+puede ser también del quizás alguna otra cuestión que haya quedado dando
+vueltas se entendió más o menos lo que no sirvió un mensaje Bueno gracias
+Analía por el feedback bueno eh dado que no hay más preguntas Ari Pablo a ver
+ahí me escuchas te escucho sí me escuchas Bueno cortamos la transmisión por
+YouTube Bueno entonces agradezco a todos los que participaron espero que haya
+sido útil les haya gustado la presentación y bueno Cualquier cosa que me
+quieran escribir contactar preguntar consultar lo que sea pueden tener un email
+pueden escribir sí buenísimo Gracias a todos los que se conectaron y ahora
+continuamos con este ratito con el curso no sé si quieren encarar el tema del
+trabajo ahora en charlas de otra cosita alguien quiere hacer alguna pregunta
+ahí está abrí mi cámara de perdón una pregunta lo del examen quedó quedó sin
+responder no O sea sin revisarlo sí no no lo revisamos y te parece si ya
+cerramos ese tema y no queda pendiente que va a ser breve que va se puede
+relacionar con la charla de recién básicamente en este caso tan particular
+mientras que busca y Charlando las cuatro preguntas tienen que ver cada una de
+ellas con el tipo de aplicación de cada una de de una de las empresas que
+presentó entonces me parece que ahora que ya completaste toda la charla Estaría
+bueno Cómo relacionar un poco esas empresas con estas con lo que diste por ahí
+sale la distribución fue Bueno también creo este resultado Me parece que las
+preguntas más difíciles porque era más específicas de cada empresa capaz que se
+crea una confusión pero igual estamos haciendo ya hicimos la suma de los
+puntajes y la verdad que la mayoría vienen digamos normalizando de 1 a 10 están
+casi todas las notas de entre 8 y 10 puntos sin un examen tuvo cinco preguntas
+esto Tuvo cuatro la mayoría sacaron cuatro y cinco o tres y cuatro en cada
+pregunta Bueno no sé si querés repasar las preguntas y eso Cómo se relacionan
+con la vista gracias Sí Supongo que acá no ahí sí más abajo bien eh Bueno Cuál
+es el objetivo de la solución presentada por internet Hola Juan Manuel está
+bien no hay problema que no hayas respondido em después vemos Sí exactamente
+después lo vemos no sé si se ve bien bueno Cuál es el objetivo de la solución
+presentada por metrotec es que mmm decían las opciones eran detectar
+enfermedades en aves eh prevenir enfermedades en aves detección temprana de
+riesgo de enfermedades o medir la calidad del aire bueno el objetivo de la
+solución no era detectar enfermedades ni prevenir o sea detectar significa que
+la enfermedad Ya estaba Eso no eso no es la selección a nadie prevenir la
+enfermedad en un ave tan eh Tampoco porque no sé Bueno en realidad ahora que lo
+pienso un poco mejor podría ser un poco en vivo pero el objetivo principal es
+la de la solución que brindaban ellos era la detección temprana Sí después uno
+podía utilizar esa información para prevenir la solución en sí se centraba en
+la detección temprana de las enfermedades lo cual lo hacía mediante la medición
+de la la medición de la calidad del aire era el el medio o en el cual obtenían
+información la los datos que utilizaban para luego inferir si va a haber eh una
+si había un riesgo de una enfermedad sí eh Y la solución en sí no era la
+encargada de prevenir la enfermedad en el ave Sí igual entiendo que quizás es
+un poco eh ambiguo esa pregunta desde ese punto de vista pero la solución en sí
+se enfocaba en avisar si había un riesgo de una enfermedad para que luego la
+persona en cuestión y tomar las medidas que quisiera que que que le parecieran
+necesarias sí está alguna consulta no Si querés mencionar alguna cuestión
+relacionada con Inteligencia artificial puntualmente en esta em Sí bueno igual
+ha causado no obviamente Inteligencia artificial solamente que estaba en el
+algoritmo digamos de la mediante la cual hacen la detección Eh bueno cuál es la
+respuesta que mejor caracteriza a compás Forest eh estirar el volumen de manera
+disponible eh Por hectárea no eso no no estaba relacionado lo que hacían sí
+quizás tenían que ir un dato que podía servir Sí todos los datos le servían
+para hacer la cuestión logística que eran los ellos se centraban en planificar
+la logística para hacer todo el proceso del talado de de de del del de la de
+los árboles no eso implicaba procesar imágenes que decíamos que podrían ser
+imágenes satelitales Entonces no usaban drones porque no usaban drones usaban
+imágenes satelitales porque los procesos de crecimiento de los árboles no hacía
+falta tenía que tener imágenes es muy recientes y tenemos que ir y sacar las
+imágenes con drones y todo eso implica una logística que era innecesaria
+entonces pueden usar imágenes satelitales eh el desarrollo de un Hardware
+tampoco era justamente software Prácticamente todo lo que hacían no había un
+dron no había ningún tipo de Hardware dando vueltas estaba la máquina Sí pero
+la solución de ellos solamente les indicaba Cómo era la logística para
+optimizar los costos a la hora de deforestar sí que eso era los caminos óptimos
+por dónde empezar por dónde seguir Dónde comprar la madera Y por dónde sacarlo
+okay Bueno qué tipo de solución presentó Fernando jeringa y la empresa para
+stage durante la clase está creo que no hay dudas Sí sí la altura del pasto y
+presidentes justamente hablaba el problema de que muchas personas no medían la
+altura del pasto Aunque sabían que era necesario no lo hacían al menos eso fue
+lo que me dio a mí y qué solución presentó Gerardo Sánchez ventas que lo que
+decían el objetivo principal de su solución era pronosticar Bueno cómo iban a
+hacer cómo hacer el cambio climático para en función de eso poder definir cuál
+era qué Qué tipo de fruta había frutal era mejor para plantar a largo plazo
+dado los cambios climáticos que estaban teniendo no realizar mediciones
+genéticas sobre los variedades de las frutas y al menos yo no escuché en la
+parte ah no está bien esa era la seleccionada la rotación de cultivos Así que
+todas las otras opciones bueno todas las otras opciones inclusive en la
+rotación Así que eso al menos yo no escuché que lo hicieran pero la que era
+seguro o segura era de indicar cuál es la mejor variedad de frutal para plantar
+considerando las las variaciones en cambio climático bien buenísimo bueno
+quizás abordamos el tema que está ahí Julieta con asunto de trabajo final para
+poder cerrar eso que es el último tema acá estamos bueno básicamente por un
+lado están cargando algunos títulos casi diría no sé si querés compartir esa
+planilla Julieta la busco yo pero lo que estábamos conversando lo que
+necesitamos en esta instancia es capaz bastante más detalle para saber qué
+quieren hacer y necesitamos las dos cosas en algún punto el detalle para saber
+qué quieren hacer y después plasmar es una vez que que esté ya aprobado por
+nosotros la propuesta de ustedes plasmarla en un en un documento pero en un
+listado para que ya tengan la certeza de que de que aprobamos su propuesta Está
+bien entonces no sé de Julio si tienes algún comentario al respecto o si te
+parece bien así es que yo la tengo en la otra computadora este este aguantamos
+un cachito que lo busco pero sí eh mmm a ver está también en el WhatsApp que le
+mandé a los chicos a la bolsa la tengo acá yo la comparto pero básicamente para
+hablar en concreto sí lo encontré pero no me está dejando compartir no sé
+porque está ahí está ahí está bueno pero Que aparezca apareció bien bueno igual
+mientras avanzó con la explicación con que nos compartan una celda de Excel
+completada con con un nombre o un par de oraciones no se alcanza para entender
+lo que quieren hacer y tampoco es un mecanismo que podamos conversar demasiado
+No sé compartir pero no no sé por qué no se deja compartir intentar de nuevo
+como hice antes que la segunda funcionó entonces lo que necesitamos yo les les
+vuelvo a pasar los mails creo que ya los tienen pero ahí por el chat eh
+necesitamos que nos manden un mail contándonos qué es lo que quieren hacer ya
+varios de ustedes lo han hecho quizás no tanto tres o cuatro pero lo han hecho
+Y al hacerlo bueno hemos intercambiado algunos hemos avanzado bastante en
+aclarar dudas algunos papás tienen un montón de ideas En definitiva y Y armaron
+una propuesta que era como para resolver el trabajo final de varias personas
+entonces les estoy dejando los mails para que nos manden la columna en cuestión
+pero estamos a la derecha pero igual la idea creo que está dejando los mails el
+chat pero entonces Bueno nada eso necesitamos que las dos cosas Repito no no
+está mal que anoten en pero tenemos que tener primero la certeza de que ese
+título está notando es acordé de algo que se puede hacer y aplicar Inteligencia
+artificial internet de las cosas así lo lo Contamos a un proyecto concreto
+después ustedes pueden simplemente haber tenido la experiencia para poner un
+proyecto que le hemos feo para entender Más o menos Qué es razonable o qué es
+quizás demasiado mucho o demasiado poco y a su vez capaz después una vez que ha
+planteado capaz le interese alguno de ustedes proponerlo algún alumno de
+posgrado nuestro o de algún otro lado que que quieras de grado de posgrado lo
+que sea que quiere hacer un trabajo en este tema básicamente que entre ellos se
+comuniquen para ver si alguno de los temas propuestos Por alguno de ustedes le
+podía llegar a interesar a otro de los compañeros para unirse en este trabajo Y
+a partir de ahí sí armar una propuesta y acercarla a los 12 años pero bueno te
+faltaría por ahí que que hagan eso no que se ocupen de eso tengan en cuenta que
+el miércoles de la semana que viene por la tarde tenemos un espacio que es
+justamente para discutir eh cada uno de los temas y como eh encararlos Para que
+en la siguiente clase los puedan presentar entonces necesitamos que en estos
+días a pesar de los feriados mediante eh se pongan de acuerdo sobre estás
+temáticas si lo quieren hacer en grupo o si lo quieren hacer individual pero
+que le manden un mail a los docentes Con qué cosas necesitaríamos que contenga
+ese Mail para que ustedes no básicamente una descripción de la idea no hace
+falta ningún formato en particular alcanza una explicación de lo que quieren
+hacer eso es suficiente Eso es suficiente eh la verdad que eh los correos que
+hemos recibido hasta ahora han sido muy claros algunos incluyen en un diagrama
+cuando hay algo más físico o simplemente un par pero tampoco tienes algo
+demasiado intenso Sí yo iba a decir em no hace falta que sea complejo o sea lo
+importante es que manden alguna idea no luego si tienen posibilidades de hacer
+un diagrama porque ya tengo una idea más clara explicar alguna cosa mejor pero
+si no lo tienen no lo esfuercen digo Está bien Mándame una idea manden sus
+preguntas y las respondemos sí pero si tienen una idea más clara por alguna
+razón porque ya tenía venían con algo no sé pensado porque de alguna manera ya
+tienen acceso a algunos datos o lo que sea está bien ya pongan los detalles que
+les parezcan así ya avanzamos digamos en la definición de la propuesta tienen
+preguntas ustedes para hacer Y entonces claro Analía te vamos a dar el premio a
+la que más Levanta la mano muy bien bueno Qué buen premio eh No me quedó una
+pregunta del de la última charla bueno justo Se arrancó con el repaso del
+examen pero Eh me quedó una pregunta respecto de los modelos matemáticos como
+que lo vi la parte más compleja de todas no en la parte de Inteligencia
+artificial digo qué tanto cuando uno tiene un problema que por ejemplo
+cualquiera de nosotros podemos llegar a escribirlo para el trabajo no el
+problema lo que nos parece que queremos resolver Y eh la elección del modelo me
+parece bueno ya como que ahí está el chino de la cuestión y qué tanto hay hay
+camino recorrido o sea por ejemplo vos ahí mostraste algo de que de imágenes
+Bueno claro cuando se trata de imágenes uno va y elige algo de camino recorrido
+con imágenes no porque como que no un lado a buscar los parámetros no es así
+profesores vas por es todo una es todo un arte de esos porque hay muchísimas
+cuestiones en en juego no O sea no queremos ni que el modelo sea ni demasiado
+complejo porque va a ser difícil de entrenar y va a a sobre ajustar los datos
+demasiado simple porque no va a rendir bien entonces no es para nada no hay no
+es para nada fácil en las redes neuronales particularmente hay muchas técnicas
+que ayudan hay algunas cosas que se llaman reguladores hay otros que se llaman
+unas capas unas neuronas especiales que ayudan a a a evitar el sobre ajuste eh
+No sé ahí como muchísimas muchísimas técnicas no hay nada definido no hay una
+fórmula hay cosas que se saben que funcionan bien hay algunas reglas Sí pero no
+hay nada así estrictamente una forma bueno para tal problema vamos a estar en
+cualquier cosa no un ejemplo es o sea todavía no nene explicamos las las
+arquitecturas pero en un problema de clasificación que vos tenés 1000
+categorías que serían un montón Nunca vas a poder tener en la capa anterior
+menos del doble de neuronas es como una regla viste pero no hay nada
+estrictamente firme Porque después también habla del complejo de la complejidad
+del problema si vos tenés que las imágenes que las que tenés que clasificar
+tiene muchos detalles y son muy difíciles con el doble tampoco te va a alcanzar
+Y si de repente por el lema por ahí es muy sonso porque tus características son
+100000 clases pero son 1000 colores Por decirlo de alguna manera es muy simple
+ni te alcanza con con la misma cantidad digamos no entonces hay muchas
+cuestiones que tienen que ver con la complejidad del problema del modelo el
+tiempo de entrenamiento con los datos que vos tenés para entrenar y no no hay
+una respuesta Eso es Es un trabajo bastante artesanal Sí y insisto ahí ahí uno
+puede ir siguiendo a ciertos pasos la prueba por este lado ves como te da se
+vota por este lado Ves cómo te va por ejemplo provas este modelo sabes que eso
+era justo entonces sabes que tienes que simplificar te simplificas te das
+cuenta que que no te no que no rinde bien bueno tiene que estar en el medio de
+esas dos de esas dos cosas pero en medio de esas dos cosas también es un mundo
+no una red puede ser más profunda más ancha con más canales O sea hay muchas
+muchas muchas muchas variables Entonces no no hay una respuesta es justamente
+el trabajo del científico de datos o el el ingeniero de Inteligencia artificial
+que y su experiencia digamos bien bien bueno Juan Manuel Qué tal Buenas tardes
+Sí nosotros en cuanto al trabajo yo lo iba a hacer con Miguel y fuimos mutando
+un poco en esto de las ideas y no sabemos cómo cómo hay que hacerlo digamos Con
+qué tanta información o con qué O solamente contar el caso con una probable
+solución eh lo entendemos por ahí así bien nosotros eh la idea era colocar dos
+sensores en en un tanque para que avise cuando cuando esté tres cuartos llenos
+por ejemplo y después controla la humedad una cama biológica Aún si quieren
+explico un poquitito eh Hay una empresa está la cama biológicas para el lavado
+de pulverizadoras del caldo de pulverizado bueno eso se aplica en una especie
+de compost Y eso va a un tanque entonces la idea sería que ese compost esté
+bastante con la humedad justa todo el día o gran parte del día y que ese tanque
+eh No rebalse porque tiene productos y que te avise cuando está por llenar para
+que vos veas qué utilidad le das a ese al líquido ese tanque con esa aplicación
+es suficiente si transcribirlo acabas de decir en un mail y nos lo mandas ya
+estás quedado pollo listo Dale listo porque fuiste muy muy claro y sirve para
+para dar una dimensión lo que estábamos esperando después puede ser que
+agregues más detalles obvio empiezo a presentar la idea La idea es razonable
+conozco eh específicamente cosas muy parecidas iguales prácticamente que están
+en línea Uruguay y que están son muy útiles y tiene impacto ecológico no por el
+tema de procesar los pesticidas Así que está además es tiene ese valor agregado
+Así que está Perfecto muchísimas gracias por ahí el timing hace quería hacer
+una consulta adelante buenas tardes a todos eh Muy buena la clase eh Nosotros
+somos cinco en total y como todos pertenecemos a la misma institución y la
+verdad que tenemos un poco los mismos objetivos teníamos pensado si nos
+permitían hacer no pero bueno como la Consigna era de dos o tres pensábamos
+hacer dos dos proyectos simultáneos pero las cinco personas Sí así un poco el
+tema este si son 5 personas en un solo proyecto te imaginas que es difícil
+tener una certeza de que Pero bueno si son 5 personas haciendo dos proyectos
+también puedes descubrir que haya dos o tres que hagan todos los demás tan
+paseando pero no importa está bien eh Entonces no vas a poder pasar Perdón
+perdón para que nosotros nos quede ordenado de alguna manera Me parece muy bien
+Que si son cinco trabajan como en equipo de cinco Porque yo también Para
+organizarnos nosotros si entre ustedes una vez que elaboran dos propuestas
+distintas que me parece que está bien en total dos propuestas Bueno no sé
+tienen una moneda hacen un sorteo juegan piedra papel o tijera o algo y se
+divide en dos grupos uno de dos y uno de tres que ya sabemos que trabajaron
+juntos algo que Para organizarnos para el tema de la defensa y todo eso se para
+la defensa no la presentación solar así breve el día 30 eh lo hacen por
+separado La respuesta es Sí con estos detalles que te acabo de dar pero está
+muy bien listo Bueno nos queda el sol tienen una idea de qué es lo que
+quisieran abordar tenemos sí tenemos una concreta que eh tiene que ver con
+extracción de imágenes con drones y verificación de de cultivares que os
+aseguro y después tenemos tres borradores que definiremos que tiene que ver
+también con trazabilidad de cultivos y lotes Así que pero no definimos ninguna
+Así que sí pero un borrador ya tenemos eh para mandar bueno a ver qué le parece
+a los profes eh de acá el lunes tendrían que todos estar mandando la propuesta
+cosa de que si hay que hacer algún ajuste antes tengan tiempo de hacerlo y el
+miércoles vamos puntualmente sobre cada tema y vamos en profundidad Me parece
+bien Y de paso agregó una versión adicional que es que nosotros le probamos una
+idea no así como recién decían así lo lo escribieron llegué estaba bien eso la
+cama biológica que era acordé pero después Sería bueno que una vez que la
+probamos y que ya saben que están trabajando en algo que les va a servir para
+probar este curso que profundicen un poco más no O sea que que detallen un
+poquito que expliquen eh A mí me sigue pareciendo que el objetivo tendrá que
+hacer que ustedes sean capaces de plasmar una idea de manera tal que un experto
+en Inteligencia artificial o en internet de las cosas tómense idea como Punto
+de partida y pueda entender de qué se trata y Qué desafíos tecnológicos puede
+llegar a tener que implementarla no que ustedes se lo resuelvan pero ustedes
+por lo menos le le escriban con tanto detalle suficiente como para que la
+persona entienda y es más me gustaría si fuera posible esto es una inquietud
+personal que una persona que lo lee puede entender que que tenga un valor no
+como que estamos hablando de algo que tenga cierta cierto impacto cierta
+utilidad o sea no sé si se hablaba de pesticidas y déjame biológicas Estaría
+bueno poder dimensionar no sólo lo digo así inventado no sé hay tanta toneladas
+de aplicación o tantas maquinarias o esto o aquello entonces poder llegar a a
+plasmar Cómo que no es una cosa que se se probó alguna vez en un lugar eh para
+tratar voy a decirle a propósito tontamente 5 litros de pesticida y no sé 10
+personas trabajando en un contexto de la importancia exactamente perdido y no
+tiene idea de qué hacer eso inclusive Si llegan a estar perdidos o tienen una
+nada una oración que se les ocurre pero no tiene más nada y necesitan una guía
+escribanos también o pregúntenle mejor Ah y alguien preguntó mail a todos o no
+sí manden todo Amén a todos y nosotros cuando nos llegan los mails definimos
+quién responde y bueno alguien responde la pregunta de Julieta alguien está
+totalmente perdido Hable ahora o calle para siempre sí una pregunta disculpe
+que ya lo último los agarré puede ser que sean digamos eh Porque yo tengo como
+tres proyectos en mente todavía no no me quedo con ninguno también uno es para
+ver los sustratos en Cannabis medicinal con algún modelo de inteligencia Y
+predicción otro es para las antocianinas en vinos para detectarlas y ver cómo
+se va concentrando también perdón antocianinas el color de la uva Jajaja Y
+bueno y el otro es para detectar los grados brix en duraznero para ver cómo se
+va también haciendo la concentración es más que todo para preguntarles o para
+suenan muy interesantes sí pensamos en que queremos llevar adelante el proyecto
+yo me centraría quizás en bueno por un lado el que puedas tener mayor valor
+agregado que era un poco lo que estábamos viendo que eso es lo más importante Y
+en segundo lugar El de la facilidad para para adquirir los datos de manera
+masiva o de manera eh Cómo se dice automatizada de no sé eso sí que eso es como
+una de las cuestiones importantes Me imagino que en el de cannabis que decías
+es mediante procesamiento de imagen no me queda de todo del todo claro Sí por
+eso creo que me voy a quedar con el primero Okay Por qué Porque es más fácil
+sacar una foto que ir con un instrumento o alguna de esas cuestiones así O sea
+yo no entiendo también se puede mediante la toma de datos ir viendo calculando
+ahí un modelo de predicción a lo mejor no no estoy solo que me refería es que
+como no conozco los videos hablando con un especialista en Inteligencia
+artificial no pero no mía entonces tenés que traducirlo y son los datos cómo se
+adquieren cómo se ve bien por allá eso así que bueno lo voy a pensar Hasta
+tengo hasta el lunes para pensarlo así que bueno o si no desarrollan las tres
+ideas en un mail explicando un poquito de qué se trata cada una y te pueden
+ayudar también con eso Dale perfecto porque también viste que cuando uno
+intenta escribir y explicar se le aclaran también las ideas que tiene en la
+cabeza dando vueltas en los que son durante el fin del mundo vale muy bien Nada
+una aclaración más no más relacionada a todo lo que estuvimos hablando hoy en
+los que son que están centrados en algo de Inteligencia artificial está estaría
+muy bueno que aclaren Cómo es el proceso para adquirir los datos Sí o sí ya
+están esos datos o bueno lo que sea relacionado a eso sí además de que se hace
+o que se espera obtener después que eso ayuda bastante a a definir si si es un
+proyecto viable no viable el alcance está bien y esas cuestiones alguien más
+tiene alguna consulta Bueno si nos damos por ahí está Martín tengo una duda con
+respecto a la por ahí la optimización técnica por ejemplo en la parte de
+transferencia de datos con respecto al alcance en distancia y de Los costos si
+tenemos dos o tres alternativas las pongamos las dos o tres o no sé cómo lo
+hago con usted para ver cuál es la mejor que se lo pregunta sí sí mejor se
+plantean que tienen dos opciones todas así eh inclusive quizás una cuestión que
+si vos estás definiendo un proyecto y decís vos por ahí puedes Definir la
+característica estoy ubicado en tal lado y hay que transmitir los dos hasta
+hasta el otro y No necesariamente esos juegos el responsable de Definir la
+tecnología que vas a utilizar para para eso Sí justamente si el proyecto a
+veces esa parte de definir Qué tipo de radio se utiliza es parte del del
+trabajo en sí se entiende no de la del planteó del problema sino del desarrollo
+de la solución Sí pero bueno sí hay que hacerlo más claro posible para luego
+poder hacer un análisis si es una zona donde Hay cobertura celular o no Sí
+bueno lo que sea que que haya que analizar digamos Bueno entonces quedamos así
+de acá el lunes todos tienen que mandar a todos los profes las ideas si quieren
+compartir los que no se conocen tienen la planilla esa donde volcar los temas
+si quieren encontrar un socio para hacer el desarrollo la semana que viene en
+la clase de la semana que viene por la mañana acciones de empresas por la tarde
+tenemos al principio de la tarde los dos exámenes de las clases de hoy teóricas
+y luego eh tiempo de consulta sobre el desarrollo de los trabajos y la idea es
+que el 30 no hablamos eh cuánto tiempo les íbamos a dar para presentar pero
+creo que tantos tantos trabajos no van a ser y van a tener tiempo de
+desarrollar no va a ser problema creo que pueden aprovechar a explayarse así
+que bueno no sé si por ahí lo que tenemos que definir es la cantidad si van a
+hacer una presentación formal así como decimos nosotros hoy con Fede decir
+bueno eh 5 que tenga cinco helados o una cosa así como tenemos en principio
+tenemos todo el día previsto para esto salvo un pequeño examen de la película
+que viene eh Creo que van a tener tiempo vamos a ver cuántos grupos se arman y
+que todavía no sabemos exactamente pero yo creo que sí tiene entre 15 y 20
+minutos por cada uno más o menos vamos a andar No sí Y más si son en grupo por
+ahí que cada uno quiere aportar una parte y eso sí un último recordatorio que
+aquellas propuestas que estén realmente bien planteadas y demás las vamos a
+utilizar como propuestas para que para ofrecérsela a los alumnos de los
+posgrados Sí así que sí también Asimismo de sus trabajos le sirve digamos
+Buscar soluciones que para sus trabajos les sirvan está buenísimo tener este
+socio técnico que haga el desarrollo Así que aprovechen la oportunidad bueno
+están todos muy cansados nos agotamos muy bien Analía bueno tenemos algo más
+para compartir o nos despedimos buenísimo Bueno nos vemos el miércoles de la
+semana que viene y para el lunes o antes esperamos los mails Gracias a todos
+Hasta luego Chau chau gracias
