@@ -55,7 +55,8 @@ COLORS = {
     'gray_900': (33, 37, 41),
     'data_points': (52, 144, 220),
     'regression_line': (220, 53, 69),
-    'cost_curve': (40, 167, 69)
+    'cost_curve': (40, 167, 69),
+    'real_function': (200, 200, 200)  # Light gray for real function
 }
 
 ###############################################################################
@@ -374,6 +375,18 @@ def generate_points(dataset_type, n=100, noise_level=8):
             y = random.uniform(0, 100)
             points.append((x, y))
     return points
+
+def get_real_function_value(x, dataset_type):
+    """Get the real function value without noise for a given dataset type"""
+    if dataset_type == 0:  # Linear
+        return 0.7 * x + 20
+    elif dataset_type == 1:  # Quadratic
+        return 0.015 * (x - 30) ** 2 + 10
+    elif dataset_type == 2:  # Sine Wave
+        return 30 * math.sin(0.1 * x) + 50
+    elif dataset_type == 3:  # Random - no real function
+        return None
+    return None
 
 def predict_value(x, fit_type, params, mlp=None):
     """Predict y value based on fit function type and parameters"""
@@ -827,6 +840,21 @@ while running:
         pos = data_to_screen(x, y, PLOT_RECT)
         pygame.draw.circle(screen, COLORS['data_points'], pos, 4)
         pygame.draw.circle(screen, COLORS['white'], pos, 2)
+
+    # Dibujar función real sin ruido (solo para datasets no aleatorios)
+    if dataset_type != 3:  # Not random dataset
+        real_curve_points = []
+        for x in range(0, 101, 2):
+            y = get_real_function_value(x, dataset_type)
+            if y is not None and 0 <= y <= 100:  # Only draw points within the plot area
+                real_curve_points.append(data_to_screen(x, y, PLOT_RECT))
+        
+        if len(real_curve_points) > 1:
+            # Draw dashed line for real function
+            for i in range(0, len(real_curve_points) - 1, 4):  # Skip every 4th point for dashed effect
+                if i + 1 < len(real_curve_points):
+                    pygame.draw.line(screen, COLORS['real_function'], 
+                                   real_curve_points[i], real_curve_points[i + 1], 2)
 
     # Dibujar línea de ajuste
     if len(points) > 0:
